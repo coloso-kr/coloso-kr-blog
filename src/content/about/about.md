@@ -3,14 +3,9 @@ title: 'About'
 ---
 
 <!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
+최고에게 배우는 최상의 가치, Coloso
 -->
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+업계 최고 전문가들의 실무 경험을 한곳에 모았습니다. 이 블로그는 콜로소의 프리미엄 강의들을 분석하여, 창작자와 전문가를 꿈꾸는 이들을 위한 핵심 학습 요약을 제공합니다.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
-
-Effortlessly share your thoughts in _a calm & dustless space._
-
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+동경하던 아티스트의 기술부터 실무자들의 시크릿 레시피까지. 콜로소의 방대한 지식들 중 나에게 딱 맞는 강의를 찾으실 수 있도록 돕습니다. 배움의 갈증을 해소하고, 어제보다 더 성장한 나를 만나는 시간을 콜로소와 함께 시작해 보세요.
