@@ -3,7 +3,32 @@ title: 'About'
 ---
 
 <style>
-  /* (나머지 텍스트 스타일은 기존과 동일) */
+  /* --- 1. 로고 표시 로직 --- */
+  /* 기본(라이트 모드): 검은색 로고 표시, 흰색 로고 숨김 */
+  .logo-light {
+    display: block;
+  }
+  .logo-dark {
+    display: none;
+  }
+
+  /* 다크 모드: 흰색 로고 표시, 검은색 로고 숨김 */
+  @media (prefers-color-scheme: dark) {
+    .logo-light {
+      display: none;
+    }
+    .logo-dark {
+      display: block;
+    }
+  }
+
+  /* 공통 로고 스타일 */
+  .adaptive-logo {
+    width: 140px;
+    margin-bottom: 1.5rem;
+  }
+
+  /* --- 2. 텍스트 스타일 (기존 동일) --- */
   .hero-text-container {
     text-align: left;
     margin: 2rem 0;
@@ -31,14 +56,20 @@ title: 'About'
 
 <div class="hero-text-container">
   <img 
-    src="/coloso_logo.png" 
+    src="/coloso_logo_black.png" 
     alt="Coloso" 
-    class="adaptive-logo" 
-    style="width: 140px; margin-bottom: 1.5rem; display: block;" 
+    class="adaptive-logo logo-light" 
+  />
+  
+  <img 
+    src="/coloso_logo_white.png" 
+    alt="Coloso" 
+    class="adaptive-logo logo-dark" 
   />
 
   <h1 class="hero-title">
-    최고에게 배우는 최상의 가치
+    최고에게 배우는<br/>
+    최상의 가치
   </h1>
 
   <div class="hero-description">
