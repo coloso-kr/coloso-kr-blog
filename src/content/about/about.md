@@ -3,14 +3,20 @@ title: 'About'
 ---
 
 <style>
-  /* 다크모드 감지 및 대응 스타일 */
+  /* 1. 기본 상태 (라이트 모드): 흰색 로고를 검은색으로 반전 */
+  .adaptive-logo {
+    filter: invert(1); /* 흰색 -> 검은색 */
+    transition: filter 0.3s ease; /* 부드러운 전환 효과 */
+  }
+
+  /* 2. 다크 모드 감지: 반전을 해제하여 원래 흰색으로 표시 */
   @media (prefers-color-scheme: dark) {
     .adaptive-logo {
-      filter: invert(1) brightness(2); /* 검은 로고를 흰색으로 반전 */
+      filter: none; /* 필터 해제 -> 원래 흰색 그대로 */
     }
   }
   
-  /* 반응형 텍스트 스타일 */
+  /* (나머지 텍스트 스타일은 기존과 동일) */
   .hero-text-container {
     text-align: left;
     margin: 2rem 0;
@@ -22,14 +28,13 @@ title: 'About'
     line-height: 1.25;
     margin-bottom: 1.5rem;
     letter-spacing: -0.02em;
-    /* 색상을 지정하지 않아 테마 기본색(검정/흰색)을 따라감 */
   }
 
   .hero-description {
     font-size: 0.95rem;
     line-height: 1.75;
     max-width: 700px;
-    opacity: 0.8; /* 회색 대신 투명도를 줘서 다크모드에서도 자연스럽게 */
+    opacity: 0.8;
   }
   
   .hero-description p {
@@ -39,7 +44,7 @@ title: 'About'
 
 <div class="hero-text-container">
   <img 
-    src="/coloso_logo.png" 
+    src="/coloso_logo.svg" 
     alt="Coloso" 
     class="adaptive-logo" 
     style="width: 140px; margin-bottom: 1.5rem; display: block;" 
