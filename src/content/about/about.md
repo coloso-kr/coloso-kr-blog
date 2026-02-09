@@ -3,32 +3,30 @@ title: 'About'
 ---
 
 <style>
-  /* --- 1. 로고 표시 로직 --- */
-  /* 기본(라이트 모드): 검은색 로고 표시, 흰색 로고 숨김 */
-  .logo-light {
-    display: block;
+  /* 1. 기본 상태 (라이트 모드): 검정 로고만 보이고 흰 로고는 '강제'로 숨김 */
+  .logo-light { 
+    display: block !important; 
   }
-  .logo-dark {
-    display: none;
+  .logo-dark { 
+    display: none !important; 
   }
 
-  /* 다크 모드: 흰색 로고 표시, 검은색 로고 숨김 */
+  /* 2. 다크 모드 감지: 검정 로고 숨기고 흰 로고만 '강제'로 표시 */
   @media (prefers-color-scheme: dark) {
-    .logo-light {
-      display: none;
+    .logo-light { 
+      display: none !important; 
     }
-    .logo-dark {
-      display: block;
+    .logo-dark { 
+      display: block !important; 
     }
   }
 
-  /* 공통 로고 스타일 */
   .adaptive-logo {
     width: 140px;
     margin-bottom: 1.5rem;
   }
 
-  /* --- 2. 텍스트 스타일 (기존 동일) --- */
+  /* 텍스트 레이아웃 */
   .hero-text-container {
     text-align: left;
     margin: 2rem 0;
@@ -47,10 +45,6 @@ title: 'About'
     line-height: 1.75;
     max-width: 700px;
     opacity: 0.8;
-  }
-  
-  .hero-description p {
-    margin-bottom: 1rem;
   }
 </style>
 
