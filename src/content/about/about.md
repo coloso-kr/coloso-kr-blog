@@ -3,63 +3,43 @@ title: 'About'
 ---
 
 <style>
-  /* 1. 기본 상태 (라이트 모드): 검정 로고만 보이고 흰 로고는 '강제'로 숨김 */
-  .logo-light { 
-    display: block !important; 
-  }
-  .logo-dark { 
-    display: none !important; 
-  }
-
-  /* 2. 다크 모드 감지: 검정 로고 숨기고 흰 로고만 '강제'로 표시 */
-  @media (prefers-color-scheme: dark) {
-    .logo-light { 
-      display: none !important; 
-    }
-    .logo-dark { 
-      display: block !important; 
-    }
-  }
-
-  .adaptive-logo {
-    width: 140px;
-    margin-bottom: 1.5rem;
-  }
-
-  /* 텍스트 레이아웃 */
   .hero-text-container {
     text-align: left;
-    margin: 2rem 0;
+    padding: 2rem 0;
   }
   
+  /* 제목: 압도적인 크기와 굵기 */
   .hero-title {
-    font-size: 2.4rem;
+    font-size: 3rem;
     font-weight: 900;
-    line-height: 1.25;
-    margin-bottom: 1.5rem;
-    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin-bottom: 2rem;
+    letter-spacing: -0.03em;
   }
 
+  /* 본문: 가독성 중심 */
   .hero-description {
-    font-size: 0.95rem;
-    line-height: 1.75;
-    max-width: 700px;
-    opacity: 0.8;
+    font-size: 1rem;
+    line-height: 1.7;
+    max-width: 680px;
+    opacity: 0.85; 
+  }
+  
+  .hero-description p {
+    margin-bottom: 1.2rem;
+  }
+
+  /* 포인트 바 (주황색) */
+  .divider {
+    width: 40px;
+    height: 5px;
+    background-color: #ff6b00; 
+    margin-bottom: 2.5rem;
   }
 </style>
 
 <div class="hero-text-container">
-  <img 
-    src="/coloso_logo_black.png" 
-    alt="Coloso" 
-    class="adaptive-logo logo-light" 
-  />
-  
-  <img 
-    src="/coloso_logo_white.png" 
-    alt="Coloso" 
-    class="adaptive-logo logo-dark" 
-  />
+  <div class="divider"></div>
 
   <h1 class="hero-title">
     최고에게 배우는<br/>
