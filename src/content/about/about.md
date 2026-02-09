@@ -46,8 +46,7 @@ title: 'About'
   />
 
   <h1 class="hero-title">
-    최고에게 배우는<br/>
-    최상의 가치
+    최고에게 배우는 최상의 가치
   </h1>
 
   <div class="hero-description">
