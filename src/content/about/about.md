@@ -3,19 +3,6 @@ title: 'About'
 ---
 
 <style>
-  /* 1. 기본 상태 (라이트 모드): 흰색 로고를 검은색으로 반전 */
-  .adaptive-logo {
-    filter: invert(1); /* 흰색 -> 검은색 */
-    transition: filter 0.3s ease; /* 부드러운 전환 효과 */
-  }
-
-  /* 2. 다크 모드 감지: 반전을 해제하여 원래 흰색으로 표시 */
-  @media (prefers-color-scheme: dark) {
-    .adaptive-logo {
-      filter: none; /* 필터 해제 -> 원래 흰색 그대로 */
-    }
-  }
-  
   /* (나머지 텍스트 스타일은 기존과 동일) */
   .hero-text-container {
     text-align: left;
