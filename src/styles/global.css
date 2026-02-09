@@ -204,14 +204,4 @@ main {
   clip: rect(1px, 1px, 1px, 1px);
   clip-path: inset(50%);
   white-space: nowrap;
-
-  /* 상단 헤더의 모든 사이트 제목 요소 숨기기 */
-header a[href="/"], 
-.logo, 
-.site-name, 
-.header-title,
-header .text-2xl { /* Astro 기본 템플릿용 */
-  display: none !important;
-  visibility: hidden !important;
-  pointer-events: none !important;
 }
