@@ -44,7 +44,7 @@ title: 'About'
 
 <div class="hero-text-container">
   <img 
-    src="/coloso_logo.svg" 
+    src="/coloso_logo.png" 
     alt="Coloso" 
     class="adaptive-logo" 
     style="width: 140px; margin-bottom: 1.5rem; display: block;" 
