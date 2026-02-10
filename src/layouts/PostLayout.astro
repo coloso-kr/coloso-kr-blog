@@ -100,20 +100,55 @@ const ogImage = `/open-graph/${postSlug}.png`
           </style>
 
           <script define:vars={{ COUPON_SYSTEM }}>
-            document.addEventListener('DOMContentLoaded', () => {
-              const container = document.getElementById('coupon-container');
-              const link = document.getElementById('coupon-link');
+  // 쿠폰 시스템을 실행하는 함수 (이름을 지어줌)
+  function runCouponSystem() {
+    const container = document.getElementById('coupon-container');
+    const link = document.getElementById('coupon-link');
 
-              // 1. 월별 리셋 로직
-              const now = new Date();
-              const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
-              const savedMonth = localStorage.getItem('coloso_coupon_month');
-              let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
+    // 요소가 없으면(다른 페이지 등) 조용히 종료
+    if (!container || !link) return;
 
-              if (savedMonth !== currentMonthKey) {
-                currentIdx = 0;
-                localStorage.setItem('coloso_coupon_idx', '0');
-                localStorage.setItem('coloso_coupon_month', currentMonthKey);
-              }
+    // 1. 월별 리셋 로직
+    const now = new Date();
+    const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
+    const savedMonth = localStorage.getItem('coloso_coupon_month');
+    let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
 
-              // 2. 쿠폰 순
+    if (savedMonth !== currentMonthKey) {
+      currentIdx = 0;
+      localStorage.setItem('coloso_coupon_idx', '0');
+      localStorage.setItem('coloso_coupon_month', currentMonthKey);
+    }
+
+    // 2. 쿠폰 코드 가져오기 (안전장치 추가)
+    const codes = COUPON_SYSTEM?.codes || []; 
+    if (codes.length === 0) {
+      console.error("쿠폰 코드가 없습니다! config.ts를 확인하세요.");
+      return;
+    }
+
+    // 3. 링크 생성 및 적용
+    const activeIdx = currentIdx % codes.length;
+    const activeCode = codes[activeIdx];
+    
+    // 🔥 핵심: href 속성을 여기서 강제로 바꿔줍니다!
+    link.href = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
+    
+    // 확인용 로그 (F12 콘솔에서 보임)
+    console.log(`쿠폰 시스템 가동! 적용된 코드: ${activeCode}`);
+
+    // 4. 클릭 이벤트 (다음 방문을 위해 순번 증가)
+    // 기존 이벤트 리스너 제거 후 새로 추가 (중복 방지)
+    link.onclick = null; 
+    link.onclick = () => {
+      console.log("쿠폰 클릭됨! 다음 순번으로 넘어갑니다.");
+      localStorage.setItem('coloso_coupon_idx', (currentIdx + 1).toString());
+    };
+  }
+
+  // 1. 페이지 로드 시 즉시 실행
+  runCouponSystem();
+
+  // 2. Astro 페이지 전환(View Transitions) 시 재실행 (이게 중요!)
+  document.addEventListener('astro:page-load', runCouponSystem);
+</script>
