@@ -39,10 +39,10 @@ export const themeConfig: ThemeConfig = {
 
 // --- 🎁 월간 쿠폰 시스템 설정 ---
 export const COUPON_SYSTEM = {
-  // 1. 매달 사용할 배너 이미지 파일명 (public 폴더 기준)
-  bannerImage: "/coupon-banner.webp", 
+  // 라이트/다크 전용 이미지 각각 등록
+  bannerImageLight: "/coupon-banner-light.webp", 
+  bannerImageDark: "/coupon-banner-dark.webp", 
   
-  // 2. 쿠폰 코드 리스트 (순환 로직용)
   codes: [
     "gsd_autoblog2602_kr_30-1",
     "gsd_autoblog2602_kr_30-2",
