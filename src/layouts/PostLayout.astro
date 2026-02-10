@@ -54,107 +54,69 @@ const ogImage = `/open-graph/${postSlug}.png`
         </div>
         <article class="content">
           <slot />
-<div id="coupon-container" style="margin: 60px 0; text-align: center; display: none;">
-  <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.2s; border-radius: 12px; overflow: hidden;">
-    
-    <img 
-      src={COUPON_SYSTEM.bannerImageLight} 
-      alt="콜로소 특별 쿠폰" 
-      class="coupon-banner-light"
-      style="width: 100%; height: auto; display: block;"
-      onmouseover="this.style.transform='scale(1.02)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
 
-    <img 
-      src={COUPON_SYSTEM.bannerImageDark} 
-      alt="콜로소 특별 쿠폰" 
-      class="coupon-banner-dark"
-      style="width: 100%; height: auto; display: none;" 
-      onmouseover="this.style.transform='scale(1.02)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+          <div id="coupon-container" style="margin: 60px 0; text-align: center; display: none;">
+            <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.2s; border-radius: 12px; overflow: hidden;">
+              
+              <img 
+                src={COUPON_SYSTEM.bannerImageLight} 
+                alt="콜로소 특별 쿠폰" 
+                class="coupon-banner-light"
+                style="width: 100%; height: auto; display: block;"
+                onmouseover="this.style.transform='scale(1.02)'"
+                onmouseout="this.style.transform='scale(1)'"
+              />
 
-  </a>
-  <p style="margin-top: 12px; opacity: 0.7; font-size: 0.85rem;">
-    {COUPON_SYSTEM.expiryText}
-  </p>
-</div>
+              <img 
+                src={COUPON_SYSTEM.bannerImageDark} 
+                alt="콜로소 특별 쿠폰" 
+                class="coupon-banner-dark"
+                style="width: 100%; height: auto; display: none;" 
+                onmouseover="this.style.transform='scale(1.02)'"
+                onmouseout="this.style.transform='scale(1)'"
+              />
 
-<style>
-  /* 🌓 테마별 이미지 스위칭 로직 */
-  
-  /* 다크모드일 때 (.dark 클래스가 html이나 body에 붙는 경우) */
-  :global(.dark) .coupon-banner-light {
-    display: none !important;
-  }
-  :global(.dark) .coupon-banner-dark {
-    display: block !important;
-  }
+            </a>
+            <p style="margin-top: 12px; opacity: 0.7; font-size: 0.85rem;">
+              {COUPON_SYSTEM.expiryText}
+            </p>
+          </div>
 
-  /* 라이트모드일 때 (기본) */
-  .coupon-banner-light {
-    display: block;
-  }
-  .coupon-banner-dark {
-    display: none;
-  }
-</style>
+          <style>
+            /* 🌓 테마별 이미지 스위칭 로직 */
+            
+            /* 다크모드일 때 */
+            :global(.dark) .coupon-banner-light {
+              display: none !important;
+            }
+            :global(.dark) .coupon-banner-dark {
+              display: block !important;
+            }
 
-<script define:vars={{ COUPON_ROTATION: COUPON_SYSTEM.codes }}>
-  document.addEventListener('DOMContentLoaded', () => {
-    const container = document.getElementById('coupon-container');
-    const link = document.getElementById('coupon-link');
+            /* 라이트모드일 때 (기본) */
+            .coupon-banner-light {
+              display: block;
+            }
+            .coupon-banner-dark {
+              display: none;
+            }
+          </style>
 
-    // 1. 월별 리셋 로직
-    const now = new Date();
-    const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
-    const savedMonth = localStorage.getItem('coloso_coupon_month');
-    let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
+          <script define:vars={{ COUPON_SYSTEM }}>
+            document.addEventListener('DOMContentLoaded', () => {
+              const container = document.getElementById('coupon-container');
+              const link = document.getElementById('coupon-link');
 
-    if (savedMonth !== currentMonthKey) {
-      currentIdx = 0;
-      localStorage.setItem('coloso_coupon_idx', '0');
-      localStorage.setItem('coloso_coupon_month', currentMonthKey);
-    }
+              // 1. 월별 리셋 로직
+              const now = new Date();
+              const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
+              const savedMonth = localStorage.getItem('coloso_coupon_month');
+              let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
 
-    // 2. 쿠폰 순환 및 링크 조립
-    const codes = COUPON_SYSTEM.codes;
-    const activeIdx = currentIdx % codes.length;
-    const activeCode = codes[activeIdx];
+              if (savedMonth !== currentMonthKey) {
+                currentIdx = 0;
+                localStorage.setItem('coloso_coupon_idx', '0');
+                localStorage.setItem('coloso_coupon_month', currentMonthKey);
+              }
 
-    link.href = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
-    container.style.display = 'block';
-
-    // 3. 클릭 시 다음 번호 저장
-    link.addEventListener('click', () => {
-      localStorage.setItem('coloso_coupon_idx', (currentIdx + 1).toString());
-    });
-  });
-</script>
-        </article>
-      </div>
-    </main>
-    <ImageOptimizer />
-    <FootnoteScroll />
-    <CopyCode />
-    <GitHubCard />
-    <XPOST />
-    <NeoDBCard />
-    {themeConfig.post.imageViewer && <ImageViewer />}
-    {themeConfig.post.linkCard && <LinkCard />}
-    {themeConfig.general.footer && <Footer />}
-  </div>
-</BaseLayout>
-
-<style>
-  .post-container {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
-
-  .post-container main {
-    flex: 1;
-  }
-</style>
+              // 2. 쿠폰 순
