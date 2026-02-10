@@ -39,7 +39,6 @@ export const themeConfig: ThemeConfig = {
 
 // --- 🎁 월간 쿠폰 시스템 설정 ---
 export const COUPON_SYSTEM = {
-  // 라이트/다크 전용 이미지 각각 등록
   bannerImageLight: "/coupon-banner-light.webp", 
   bannerImageDark: "/coupon-banner-dark.webp", 
   
