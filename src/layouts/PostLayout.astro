@@ -17,7 +17,7 @@ import XPOST from '@/components/ui/XPOST.astro'
 import CopyCode from '@/components/ui/CopyCode.astro'
 import BaseLayout from '@/layouts/BaseLayout.astro'
 
-import { themeConfig } from '@/config'
+import { themeConfig, COUPON_SYSTEM } from '@/config'
 
 const { title, pubDate, readingTime, toc } = Astro.props as PostLayoutProps
 
@@ -54,6 +54,52 @@ const ogImage = `/open-graph/${postSlug}.png`
         </div>
         <article class="content">
           <slot />
+<div id="coupon-container" style="margin: 60px 0; text-align: center; display: none;">
+  <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.2s; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+    <img 
+      src={COUPON_SYSTEM.bannerImage} 
+      alt="콜로소 특별 쿠폰 배너" 
+      style="width: 100%; height: auto; display: block;"
+      onmouseover="this.style.transform='scale(1.02)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+  <p style="margin-top: 12px; color: #888; font-size: 0.85rem;">
+    {COUPON_SYSTEM.expiryText}
+  </p>
+</div>
+
+<script define:vars={{ COUPON_SYSTEM }}>
+  document.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById('coupon-container');
+    const link = document.getElementById('coupon-link');
+
+    // 1. 월별 리셋 로직
+    const now = new Date();
+    const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
+    const savedMonth = localStorage.getItem('coloso_coupon_month');
+    let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
+
+    if (savedMonth !== currentMonthKey) {
+      currentIdx = 0;
+      localStorage.setItem('coloso_coupon_idx', '0');
+      localStorage.setItem('coloso_coupon_month', currentMonthKey);
+    }
+
+    // 2. 쿠폰 순환 및 링크 조립
+    const codes = COUPON_SYSTEM.codes;
+    const activeIdx = currentIdx % codes.length;
+    const activeCode = codes[activeIdx];
+
+    link.href = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
+    container.style.display = 'block';
+
+    // 3. 클릭 시 다음 번호 저장
+    link.addEventListener('click', () => {
+      localStorage.setItem('coloso_coupon_idx', (currentIdx + 1).toString());
+    });
+  });
+</script>
         </article>
       </div>
     </main>
