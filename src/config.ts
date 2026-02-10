@@ -22,17 +22,32 @@ export const themeConfig: ThemeConfig = {
 
   // DATE SETTINGS ///////////////////////////////////////////////////////////////////////////////////////
   date: {
-    dateFormat: 'YYYY-MM-DD', // Date format: YYYY-MM-DD, MM-DD-YYYY, DD-MM-YYYY, MONTH DAY YYYY, DAY MONTH YYYY
-    dateSeparator: '.', // Date separator: . - / (except for MONTH DAY YYYY and DAY MONTH YYYY)
-    dateOnRight: true // Date position in post list (true for right, false for left)
+    dateFormat: 'YYYY-MM-DD', // Date format
+    dateSeparator: '.', // Date separator
+    dateOnRight: true // Date position
   },
 
   // POST SETTINGS ///////////////////////////////////////////////////////////////////////////////////////
   post: {
     readingTime: false, // Show reading time in posts
-    toc: true, // Show table of contents (when there is enough page width)
+    toc: true, // Show table of contents
     imageViewer: true, // Enable image viewer
-    copyCode: true, // Enable copy button in code blocks
+    copyCode: true, // Enable copy button
     linkCard: true // Enable link card
   }
-}
+}; // <--- 🌟 중요: themeConfig는 여기서 끝납니다!
+
+// --- 🎁 월간 쿠폰 시스템 설정 ---
+export const COUPON_SYSTEM = {
+  // 1. 매달 사용할 배너 이미지 파일명 (public 폴더 기준)
+  bannerImage: "/coupon-banner.webp", 
+  
+  // 2. 쿠폰 코드 리스트 (순환 로직용)
+  codes: [
+    "gsd_autoblog2026_kr_30-1",
+    "gsd_autoblog2026_kr_30-2",
+    "gsd_autoblog2026_kr_30-3",
+    "gsd_autoblog2026_kr_30-4",
+    "gsd_autoblog2026_kr_30-5"
+  ],
+};
