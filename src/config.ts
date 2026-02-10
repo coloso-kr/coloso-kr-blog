@@ -44,10 +44,10 @@ export const COUPON_SYSTEM = {
   
   // 2. 쿠폰 코드 리스트 (순환 로직용)
   codes: [
-    "gsd_autoblog2026_kr_30-1",
-    "gsd_autoblog2026_kr_30-2",
-    "gsd_autoblog2026_kr_30-3",
-    "gsd_autoblog2026_kr_30-4",
-    "gsd_autoblog2026_kr_30-5"
+    "gsd_autoblog2602_kr_30-1",
+    "gsd_autoblog2602_kr_30-2",
+    "gsd_autoblog2602_kr_30-3",
+    "gsd_autoblog2602_kr_30-4",
+    "gsd_autoblog2602_kr_30-5"
   ],
 };
