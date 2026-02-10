@@ -56,20 +56,52 @@ const ogImage = `/open-graph/${postSlug}.png`
           <slot />
 <div id="coupon-container" style="margin: 60px 0; text-align: center; display: none;">
   <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.2s; border-radius: 12px; overflow: hidden;">
+    
     <img 
-      src={COUPON_SYSTEM.bannerImage} 
-      alt="콜로소 특별 쿠폰 배너" 
+      src={COUPON_SYSTEM.bannerImageLight} 
+      alt="콜로소 특별 쿠폰" 
+      class="coupon-banner-light"
       style="width: 100%; height: auto; display: block;"
       onmouseover="this.style.transform='scale(1.02)'"
       onmouseout="this.style.transform='scale(1)'"
     />
+
+    <img 
+      src={COUPON_SYSTEM.bannerImageDark} 
+      alt="콜로소 특별 쿠폰" 
+      class="coupon-banner-dark"
+      style="width: 100%; height: auto; display: none;" 
+      onmouseover="this.style.transform='scale(1.02)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+
   </a>
-  <p style="margin-top: 12px; color: #888; font-size: 0.85rem;">
+  <p style="margin-top: 12px; opacity: 0.7; font-size: 0.85rem;">
     {COUPON_SYSTEM.expiryText}
   </p>
 </div>
 
-<script define:vars={{ COUPON_SYSTEM }}>
+<style>
+  /* 🌓 테마별 이미지 스위칭 로직 */
+  
+  /* 다크모드일 때 (.dark 클래스가 html이나 body에 붙는 경우) */
+  :global(.dark) .coupon-banner-light {
+    display: none !important;
+  }
+  :global(.dark) .coupon-banner-dark {
+    display: block !important;
+  }
+
+  /* 라이트모드일 때 (기본) */
+  .coupon-banner-light {
+    display: block;
+  }
+  .coupon-banner-dark {
+    display: none;
+  }
+</style>
+
+<script define:vars={{ COUPON_ROTATION: COUPON_SYSTEM.codes }}>
   document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('coupon-container');
     const link = document.getElementById('coupon-link');
