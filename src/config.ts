@@ -39,6 +39,7 @@ export const themeConfig: ThemeConfig = {
 
 // --- 🎁 월간 쿠폰 시스템 설정 ---
 export const COUPON_SYSTEM = {
+  enabled: false,  // 💡 true면 사용, false면 중단 (지금은 false로!)
   bannerImageLight: "/coupon-banner-light.webp", 
   bannerImageDark: "/coupon-banner-dark.webp", 
   
