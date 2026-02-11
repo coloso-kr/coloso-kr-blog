@@ -120,12 +120,24 @@ const ogImage = `/open-graph/${postSlug}.png`
       localStorage.setItem('coloso_coupon_month', currentMonthKey);
     }
 
-    // 2. 쿠폰 코드 가져오기 (안전장치 추가)
-    const codes = COUPON_SYSTEM?.codes || []; 
-    if (codes.length === 0) {
-      console.error("쿠폰 코드가 없습니다! config.ts를 확인하세요.");
-      return;
+  // 2. 쿠폰 시스템 적용 여부 확인 및 코드 가져오기
+  let couponSection = ""; // 쿠폰 섹션 초기화 (꺼져 있으면 빈 값)
+
+  if (COUPON_SYSTEM?.enabled) {
+    const codes = COUPON_SYSTEM.codes || [];
+    
+    if (codes.length > 0) {
+      // 💡 쿠폰이 켜져 있고 코드도 있을 때만 섹션 생성 로직 실행
+      console.log("🎟️ 쿠폰 시스템 활성화: 섹션을 생성합니다.");
+      
+      // 여기서 기존의 쿠폰 레이아웃 생성 코드를 작성하세요
+      // 예: couponSection = createCouponHtml(codes); 
+    } else {
+      console.warn("⚠️ 쿠폰 기능은 켜져 있으나 코드가 없습니다. 섹션을 스킵합니다.");
     }
+  } else {
+    console.log("⏭️ 쿠폰 시스템 비활성화: 쿠폰 없이 포스팅을 진행합니다.");
+  }
 
     // 3. 링크 생성 및 적용
     const activeIdx = currentIdx % codes.length;
