@@ -8,13 +8,6 @@ import Footer from '@/components/layout/Footer.astro'
 import BackButton from '@/components/ui/BackButton.astro'
 import TableOfContents from '@/components/ui/TableOfContents.astro'
 import GradientMask from '@/components/ui/GradientMask.astro'
-import ImageOptimizer from '@/components/ui/ImageOptimizer.astro'
-import ImageViewer from '@/components/ui/ImageViewer.astro'
-import GitHubCard from '@/components/ui/GitHubCard.astro'
-import LinkCard from '@/components/ui/LinkCard.astro'
-import NeoDBCard from '@/components/ui/NeoDBCard.astro'
-import XPOST from '@/components/ui/XPOST.astro'
-import CopyCode from '@/components/ui/CopyCode.astro'
 import BaseLayout from '@/layouts/BaseLayout.astro'
 
 import { themeConfig, COUPON_SYSTEM } from '@/config'
@@ -38,6 +31,7 @@ const ogImage = `/open-graph/${postSlug}.png`
         <GradientMask />
         <BackButton />
         {themeConfig.post.toc && <TableOfContents toc={toc} />}
+        
         <div class="title">
           <h1>{title}</h1>
           <div class="date">
@@ -52,18 +46,15 @@ const ogImage = `/open-graph/${postSlug}.png`
             }
           </div>
         </div>
+
         <article class="content">
           <slot />
 
-<article class="content">
-          <slot />
-
-          {/* 🎁 쿠폰 시스템 전체를 조건부 렌더링으로 감쌉니다 */}
+          {/* 🎁 쿠폰 시스템: config에서 enabled가 true일 때만 나타남 */}
           {COUPON_SYSTEM.enabled && (
             <>
               <div id="coupon-container" style="margin: 60px 0; text-align: center;">
                 <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.2s; border-radius: 12px; overflow: hidden;">
-                  
                   <img 
                     src={COUPON_SYSTEM.bannerImageLight} 
                     alt="콜로소 특별 쿠폰" 
@@ -72,7 +63,6 @@ const ogImage = `/open-graph/${postSlug}.png`
                     onmouseover="this.style.transform='scale(1.02)'"
                     onmouseout="this.style.transform='scale(1)'"
                   />
-
                   <img 
                     src={COUPON_SYSTEM.bannerImageDark} 
                     alt="콜로소 특별 쿠폰" 
@@ -81,28 +71,17 @@ const ogImage = `/open-graph/${postSlug}.png`
                     onmouseover="this.style.transform='scale(1.02)'"
                     onmouseout="this.style.transform='scale(1)'"
                   />
-
                 </a>
               </div>
 
               <style>
-                /* 🌓 테마별 이미지 스위칭 로직 */
-                :global(.dark) .coupon-banner-light {
-                  display: none !important;
-                }
-                :global(.dark) .coupon-banner-dark {
-                  display: block !important;
-                }
-                .coupon-banner-light {
-                  display: block;
-                }
-                .coupon-banner-dark {
-                  display: none;
-                }
+                :global(.dark) .coupon-banner-light { display: none !important; }
+                :global(.dark) .coupon-banner-dark { display: block !important; }
+                .coupon-banner-light { display: block; }
+                .coupon-banner-dark { display: none; }
               </style>
             </>
           )}
-
         </article>
       </div>
     </main>
@@ -112,15 +91,12 @@ const ogImage = `/open-graph/${postSlug}.png`
 
 <script define:vars={{ COUPON_SYSTEM }}>
   function runCouponSystem() {
-    // 💡 enabled가 false면 아예 실행조차 안 하고 종료
     if (!COUPON_SYSTEM?.enabled) return;
-
+    
     const container = document.getElementById('coupon-container');
     const link = document.getElementById('coupon-link');
-
     if (!container || !link) return;
 
-    // 1. 월별 리셋 로직
     const now = new Date();
     const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
     const savedMonth = localStorage.getItem('coloso_coupon_month');
@@ -132,25 +108,20 @@ const ogImage = `/open-graph/${postSlug}.png`
       localStorage.setItem('coloso_coupon_month', currentMonthKey);
     }
 
-    // 2. 쿠폰 코드 가져오기
     const codes = COUPON_SYSTEM.codes || [];
     if (codes.length === 0) return;
 
-    // 3. 링크 생성 및 적용
     const activeIdx = currentIdx % codes.length;
     const activeCode = codes[activeIdx];
     
     link.href = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
-    console.log(`🎟️ 쿠폰 시스템 가동 중! 코드: ${activeCode}`);
-
-    // 4. 클릭 시 순번 증가
+    
     link.onclick = null; 
     link.onclick = () => {
       localStorage.setItem('coloso_coupon_idx', (currentIdx + 1).toString());
     };
   }
 
-  // 페이지 로드 및 전환 시 실행
   runCouponSystem();
   document.addEventListener('astro:page-load', runCouponSystem);
 </script>
