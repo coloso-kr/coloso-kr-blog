@@ -50,24 +50,8 @@ const ogImage = `/open-graph/${postSlug}.png`
         <article class="content">
           <slot />
 
-          {/* 🎁 쿠폰 시스템: 텍스트 기반으로 전면 수정 */}
           {COUPON_SYSTEM.enabled && (
-            <div id="coupon-container" style="margin: 80px 0; text-align: center; border-top: 1px solid #eee; padding-top: 40px;">
-              <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 특별 혜택 안내</p>
-              
-              <a id="coupon-link" href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none;">
-                <h1 id="coupon-text" style="font-size: 36px; font-weight: 800; text-decoration: underline; color: #0070f3; margin: 0; line-height: 1.2;">
-                  주간 베스트 시크릿 쿠폰 받기
-                </h1>
-              </a>
-              
-              <p style="margin-top: 20px; font-weight: 600; color: #444;">
-                위 링크를 클릭하면 이번 달 쿠폰이 순차적으로 즉시 등록됩니다.
-              </p>
-              <p style="font-size: 0.9rem; color: #888;">
-                (이미 사용한 쿠폰이라면 다시 클릭하여 새 번호를 확인하세요!)
-              </p>
-            </div>
+            <div class="coupon-section" data-coupon-type="30000"></div>
           )}
         </article>
       </div>
@@ -79,44 +63,35 @@ const ogImage = `/open-graph/${postSlug}.png`
 <script define:vars={{ COUPON_SYSTEM }}>
   function runCouponSystem() {
     if (!COUPON_SYSTEM?.enabled || !COUPON_SYSTEM.codes) return;
-    
-    // 앱스 스크립트가 심어놓은 '빈 상자'들을 찾습니다.
+
     const sections = document.querySelectorAll('.coupon-section');
-    
+
     sections.forEach(section => {
-      // 1. 타입을 읽어옵니다 (30000 또는 40000)
       const type = section.getAttribute('data-coupon-type');
       if (!type) return;
 
-      // 2. config.ts에서 해당 타입의 쿠폰 리스트를 가져옵니다.
       const codesArray = COUPON_SYSTEM.codes[type];
-      
-      if (codesArray && codesArray.length > 0) {
-        const couponKey = `coloso_idx_${type}`; 
-        let currentIdx = parseInt(localStorage.getItem(couponKey) || '0');
-        
-        const activeIdx = currentIdx % codesArray.length;
-        const activeCode = codesArray[activeIdx];
+      if (!codesArray || codesArray.length === 0) return;
 
-        // 💡 하리님이 주신 정확한 리딤 링크 주소로 수정!
-        const redeemLink = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
+      const couponKey = `coloso_idx_${type}`;
+      let currentIdx = parseInt(localStorage.getItem(couponKey) || '0');
+      const activeCode = codesArray[currentIdx % codesArray.length];
+      const redeemLink = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
 
-        // 3. 엑박 없이 텍스트로만 '가운데 정렬'해서 그려줍니다.
-        section.innerHTML = `
-          <div style="text-align: center; margin: 60px 0; padding: 40px 0; border-top: 1px solid #eee;">
-            <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 특별 혜택 안내</p>
-            <h1 style="margin: 20px 0;">
-              <a href="${redeemLink}" 
-                 style="color: #0070f3; text-decoration: underline; font-weight: bold; font-size: 32px;"
-                 onclick="localStorage.setItem('${couponKey}', ${(currentIdx + 1)}); ">
-                 주간 베스트 시크릿 쿠폰 받기
-              </a>
-            </h1>
-            <p style="font-weight: 600; color: #444;">위 링크를 클릭하면 ${type === '30000' ? '3만원' : '4만원'} 할인 쿠폰이 즉시 등록됩니다.</p>
-            <p style="font-size: 0.9rem; color: #888;">(이미 사용한 쿠폰이라면 다시 클릭하여 새 번호를 확인하세요!)</p>
-          </div>
-        `;
-      }
+      section.innerHTML = `
+        <div style="text-align: center; margin: 60px 0; padding: 40px 0; border-top: 1px solid #eee;">
+          <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 특별 혜택 안내</p>
+          <h1 style="margin: 20px 0;">
+            <a href="${redeemLink}"
+               style="color: #0070f3; text-decoration: underline; font-weight: bold; font-size: 32px;"
+               onclick="localStorage.setItem('${couponKey}', ${currentIdx + 1})">
+               주간 베스트 시크릿 쿠폰 받기
+            </a>
+          </h1>
+          <p style="font-weight: 600; color: #444;">위 링크를 클릭하면 ${type === '30000' ? '3만원' : '4만원'} 할인 쿠폰이 즉시 등록됩니다.</p>
+          <p style="font-size: 0.9rem; color: #888;">(이미 사용한 쿠폰이라면 다시 클릭하여 새 번호를 확인하세요!)</p>
+        </div>
+      `;
     });
   }
 
