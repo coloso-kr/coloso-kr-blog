@@ -78,41 +78,48 @@ const ogImage = `/open-graph/${postSlug}.png`
 
 <script define:vars={{ COUPON_SYSTEM }}>
   function runCouponSystem() {
-    if (!COUPON_SYSTEM?.enabled) return;
+    if (!COUPON_SYSTEM?.enabled || !COUPON_SYSTEM.codes) return;
     
-    const container = document.getElementById('coupon-container');
-    const link = document.getElementById('coupon-link');
-    if (!container || !link) return;
-
-    const now = new Date();
-    const currentMonthKey = `${now.getFullYear()}-${now.getMonth() + 1}`;
-    const savedMonth = localStorage.getItem('coloso_coupon_month');
-    let currentIdx = parseInt(localStorage.getItem('coloso_coupon_idx') || '0');
-
-    // 달이 바뀌면 인덱스 초기화
-    if (savedMonth !== currentMonthKey) {
-      currentIdx = 0;
-      localStorage.setItem('coloso_coupon_idx', '0');
-      localStorage.setItem('coloso_coupon_month', currentMonthKey);
-    }
-
-    const codes = COUPON_SYSTEM.codes || [];
-    if (codes.length === 0) return;
-
-    // 현재 인덱스에 맞는 코드 설정
-    const activeIdx = currentIdx % codes.length;
-    const activeCode = codes[activeIdx];
+    // 앱스 스크립트가 심어놓은 '빈 상자'들을 찾습니다.
+    const sections = document.querySelectorAll('.coupon-section');
     
-    // 리딤 페이지로 연결
-    link.href = `https://coloso.co.kr/sign-in?redeemCode=${activeCode}`;
-    
-    // 클릭 시 다음 번호로 넘어가도록 인덱스 증가
-    link.onclick = () => {
-      localStorage.setItem('coloso_coupon_idx', (currentIdx + 1).toString());
-    };
+    sections.forEach(section => {
+      // 1. 타입을 읽어옵니다 (30000 또는 40000)
+      const type = section.getAttribute('data-coupon-type');
+      if (!type) return;
+
+      // 2. config.ts에서 해당 타입의 쿠폰 리스트를 가져옵니다.
+      const codesArray = COUPON_SYSTEM.codes[type];
+      
+      if (codesArray && codesArray.length > 0) {
+        const couponKey = `coloso_idx_${type}`; 
+        let currentIdx = parseInt(localStorage.getItem(couponKey) || '0');
+        
+        const activeIdx = currentIdx % codesArray.length;
+        const activeCode = codesArray[activeIdx];
+
+        // 💡 하리님이 주신 정확한 리딤 링크 주소로 수정!
+        const redeemLink = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
+
+        // 3. 엑박 없이 텍스트로만 '가운데 정렬'해서 그려줍니다.
+        section.innerHTML = `
+          <div style="text-align: center; margin: 60px 0; padding: 40px 0; border-top: 1px solid #eee;">
+            <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 특별 혜택 안내</p>
+            <h1 style="margin: 20px 0;">
+              <a href="${redeemLink}" 
+                 style="color: #0070f3; text-decoration: underline; font-weight: bold; font-size: 32px;"
+                 onclick="localStorage.setItem('${couponKey}', ${(currentIdx + 1)}); ">
+                 주간 베스트 시크릿 쿠폰 받기
+              </a>
+            </h1>
+            <p style="font-weight: 600; color: #444;">위 링크를 클릭하면 ${type === '30000' ? '3만원' : '4만원'} 할인 쿠폰이 즉시 등록됩니다.</p>
+            <p style="font-size: 0.9rem; color: #888;">(이미 사용한 쿠폰이라면 다시 클릭하여 새 번호를 확인하세요!)</p>
+          </div>
+        `;
+      }
+    });
   }
 
-  // 페이지 로드 및 Astro 페이지 전환 시 실행
   runCouponSystem();
   document.addEventListener('astro:page-load', runCouponSystem);
 </script>
