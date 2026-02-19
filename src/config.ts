@@ -39,15 +39,25 @@ export const themeConfig: ThemeConfig = {
 
 // --- 🎁 월간 쿠폰 시스템 설정 ---
 export const COUPON_SYSTEM = {
-  enabled: false,  // 💡 true면 사용, false면 중단 (지금은 false로!)
+  enabled: true,  // 💡 이제 사용하니까 true로!
   bannerImageLight: "/coupon-banner-light.webp", 
   bannerImageDark: "/coupon-banner-dark.webp", 
   
-  codes: [
-    "gsd_autoblog2602_kr_30-1",
-    "gsd_autoblog2602_kr_30-2",
-    "gsd_autoblog2602_kr_30-3",
-    "gsd_autoblog2602_kr_30-4",
-    "gsd_autoblog2602_kr_30-5"
-  ],
+  // ✅ 할인액별로 쿠폰 리스트를 분리해서 넣으세요.
+  codes: {
+    "30000": [
+      "gsd_autoblog2602_kr_30000-1",
+      "gsd_autoblog2602_kr_30000-2",
+      "gsd_autoblog2602_kr_30000-3",
+      "gsd_autoblog2602_kr_30000-4",
+      "gsd_autoblog2602_kr_30000-5"
+    ],
+    "40000": [
+      "gsd_autoblog2602_kr_40000-1",
+      "gsd_autoblog2602_kr_40000-2",
+      "gsd_autoblog2602_kr_40000-3",
+      "gsd_autoblog2602_kr_40000-4",
+      "gsd_autoblog2602_kr_40000-5"
+    ]
+  },
 };
