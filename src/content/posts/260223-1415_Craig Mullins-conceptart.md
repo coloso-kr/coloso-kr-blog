@@ -50,7 +50,7 @@ Craig Mullins는 수많은 시행착오를 통해 자신만의 스타일을 구�
 
 ## 🛠️ 포토샵, '빛과 그림자' 표현을 위한 필수 세팅
 
-![포토샵 강좌 이미지](https://cdn.day1company.io/prod/uploads/202411/103206-465/portfolio-conceptartist-craigmullins-us-01.webp)
+![강의 이미지](https://cdn.day1company.io/prod/uploads/202411/103206-465/portfolio-conceptartist-craigmullins-us-01.webp)
 
 Craig Mullins의 작업 과정을 따라가다 보면, 그의 포토샵 활용법 역시 남다르다는 것을 알 수 있습니다. 특히 빛과 그림자를 효과적으로 표현하기 위해 다음과 같은 기능들을 적극적으로 활용합니다.
 
