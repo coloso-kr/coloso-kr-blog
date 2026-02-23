@@ -1,6 +1,6 @@
 ---
 title: "근현대 디자인 사조 완벽 마스터: 파이어플라이 활용 A to Z"
-description: "그래픽디자인 전문가 디고디원찬이 근현대 100년 디자인 사조 이론을 체계적으로 분석하고, Adobe Firefly를 활용한 실전 AI 디자인 노하우까지 아낌없이 공유합니다. 독보적인 디자인 인사이트와 실무 스킬을 한 번에 잡으세요."
+description: "그래픽 디자이너 디고디원찬이 근현대 100년 디자인 사조 이론을 체계적으로 분석하고, Adobe Firefly를 활용한 실전 AI 디자인 노하우까지 아낌없이 공유합니다. 독보적인 디자인 인사이트와 실무 스킬을 한 번에 잡으세요."
 pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 author: "디고디원찬"
@@ -57,13 +57,13 @@ AI 툴을 디자인 과정에 녹여낼 때는 단순히 이미지 생성에 그
 
 **Q. 강의를 통해 어떤 결과물을 만들 수 있나요?**
 
-그래픽디자인 전문가 디고디원찬은 강의를 통해 각 디자인 사조의 특징을 담은 포스터 6종을 직접 완성하게 됩니다. 이를 통해 디자인의 기획부터 최종 결과물까지 전 과정을 경험하며, AI를 활용한 실전 디자인 결과물을 포트폴리오로 만들 수 있습니다.
+그래픽 디자이너 디고디원찬은 강의를 통해 각 디자인 사조의 특징을 담은 포스터 6종을 직접 완성하게 됩니다. 이를 통해 디자인의 기획부터 최종 결과물까지 전 과정을 경험하며, AI를 활용한 실전 디자인 결과물을 포트폴리오로 만들 수 있습니다.
 
 ---
 
 ## 👉 더 깊이 있는 과정을 원한다면?
 
-- **[그래픽디자인 전문가 디고디원찬의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/graphicdesign-dgodwonchan2?utm_source=blog&utm_medium=organic&utm_campaign=graphicdesign-dgodwonchan2_auto_all&utm_content=graphicdesign_graphicdesign-dgodwonchan2_gsd-autoblog-designhistory-post-260223)**
+- **[그래픽 디자이너 디고디원찬의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/graphicdesign-dgodwonchan2?utm_source=blog&utm_medium=organic&utm_campaign=graphicdesign-dgodwonchan2_auto_all&utm_content=graphicdesign_graphicdesign-dgodwonchan2_gsd-autoblog-designhistory-post-260223)**
 
 
 
