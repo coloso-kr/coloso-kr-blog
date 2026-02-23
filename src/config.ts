@@ -4,8 +4,8 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://coloso-kr-blog.vercel.app/', // Site domain
-    title: 'Coloso', // Site title
-    author: 'Coloso', // Author name
+    title: 'Coloso 공식 블로그', // Site title
+    author: 'Coloso 공식 블로그', // Author name
     description: '최고에게 배우는 최상의 가치, 콜로소', // Site description
     language: 'ko-KR' // Default language
   },
