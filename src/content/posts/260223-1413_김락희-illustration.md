@@ -26,7 +26,7 @@ tags:
 ## 💡 김락희 작가만이 알려주는 인체 도형화 핵심 팁 3가지
 
 ### 1. 직선이든 곡선이든 '팔 전체'로 그려라: 펜 압력은 기본, 손목 관절은 금지
-![강의 이미지 2]()
+![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202106/151622-465/coloso-illust-kimrockhe-sellingpoint-web-04.png)
 직선이나 원을 그릴 때 손가락이나 손목만 까딱거리면 선이 떨리고 짧게 나옵니다. 김락희 작가는 펜을 쥔 상태에서 손이 펜 뒤쪽으로 멀찌감치 가게 잡고, **어깨와 팔꿈치 관절**을 사용해 전체적인 팔의 움직임으로 선을 긋는 것을 강조합니다. 이렇게 하면 훨씬 부드럽고 길고 안정적인 직선과 자연스러운 곡선 표현이 가능해집니다.
 
 -   **핵심:** 펜을 짧게 잡으면 짧은 선, 길게 잡으면 긴 선이 나옵니다. 연습 단계에서는 **의도적으로 펜을 길게 잡고** 팔 전체를 사용하세요.
@@ -44,13 +44,12 @@ tags:
 -   **실전 팁:** 복잡한 형태를 그릴 때는 **직육면체를 먼저 그린 뒤** 필요한 부분을 깎아 나가는 방식으로 접근하는 것이 이해하기 더 쉽습니다.
 
 ### 3. '눈높이(아이 레벨)'는 모든 투시의 시작: 수평선 위치가 그림의 생명
-![더 알아보기 버튼]()
 그림의 깊이감과 원근감을 결정하는 가장 중요한 요소는 바로 '눈높이'입니다. 눈높이를 기준으로 모든 사물과 인체의 기울기가 결정되며, 이는 1점, 2점, 3점 투시의 기본 원리가 됩니다. 김락희 작가는 그림을 그릴 때 항상 **시점의 눈높이를 먼저 설정**하고, 그 기준에 맞춰 기울기와 투시를 적용해야 한다고 강조합니다.
 
 -   **핵심 원리:** 원본 사진에서 수평선은 무조건 **카메라 눈높이의 1/2 지점**에 위치합니다. 이 원리를 이해하면 편집된 이미지와 원본 이미지를 구분하는 눈을 기를 수 있고, 그림의 신뢰도를 높일 수 있습니다.
 -   **퀴즈:** 동일한 조건에서 찍은 사진 중, 수평선이 1/2 지점에 오는 것이 '원본' 사진입니다. 편집된 사진은 수평선이 위나 아래로 치우쳐 보이죠.
 
-👉 **[김락희 작가의 인체 도형화 전체 과정 보기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=illustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260223)**
+👉 **[더 알아보기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=illustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260223)**
 
 ---
 
