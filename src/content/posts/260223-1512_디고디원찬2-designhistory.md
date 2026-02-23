@@ -18,7 +18,7 @@ tags:
 # 근현대 디자인 사조 완벽 마스터: 파이어플라이 활용 A to Z
 
 ## 🧐 작업물에 '이유'를 더하고 싶을 때, 여기서부터 시작하세요
-![디자인 사조와 AI 활용법 강의 소개 이미지](https://cdn.day1company.io/prod/uploads/202505/132152-765/portfolio-graphicdesign-dgodwonchan2-01.webp)
+![디자인 사조와 AI 활용법 강의 소개 이미지](https://cdn.day1company.io/prod/uploads/202505/111343-1093/reason-graphicdesign-dgodwonchan2.webp)
 디자인의 뼈대를 제대로 잡는다는 건, 단순히 예쁜 결과물을 만드는 것을 넘어선다. 레퍼런스만 쫓다 보면 내 작업에 대한 설명이 막막해질 때가 있다. '이 느낌이 좋아서', '요즘 유행이니까' 같은 모호한 이유 대신, 디자인 역사라는 탄탄한 뿌리에서 나오는 설득력 있는 이유를 제시할 수 있어야 한다.
 
 ---
@@ -39,7 +39,7 @@ AI 툴, 특히 Adobe Firefly를 효과적으로 사용하려면 단순히 '예�
 ---
 
 ## 🛠️ 실무 퀄리티를 결정짓는 핵심 스킬 & 디테일
-![AI 활용 디자인 실습 예시 이미지](https://cdn.day1company.io/prod/uploads/202505/132156-765/portfolio-graphicdesign-dgodwonchan2-02.webp)
+![AI 활용 디자인 실습 예시 이미지](https://cdn.day1company.io/prod/uploads/202505/111426-1093/example-graphicdesign-dgodwonchan2-part02-3.webp)
 
 AI 툴을 디자인 과정에 녹여낼 때는 단순히 이미지 생성에 그치지 않고, **수정 및 보완 과정에 대한 깊이 있는 이해**가 필요하다. Photoshop의 'Generative Fill' 기능을 활용해 이미지의 배경을 자연스럽게 확장하거나, 특정 오브젝트를 추가/제거하는 작업은 AI의 강력한 장점이다. 이때에도 **'Fill' 대신 'Content-Aware Fill' 옵션을 우선적으로 고려**하는 것이 때로는 더 자연스러운 결과를 가져온다. AI로 생성된 이미지는 완벽하지 않다는 것을 인지하고, Photoshop의 다양한 브러시 툴과 레이어 마스크를 활용해 **수작업으로 디테일을 보강**하는 과정이 반드시 수반되어야 한다. 예를 들어, Firefly로 생성된 인물 이미지의 옷 주름 디테일이 부족하다면, Photoshop의 Dodge & Burn 기법으로 볼륨감을 살려주는 방식이다. AI 결과물을 '초안'으로 삼고, 인간의 손길로 '완성'하는 워크플로우를 익히는 것이 핵심이다.
 
