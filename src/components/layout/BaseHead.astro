@@ -29,6 +29,18 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.url) : new URL('/og/chiri-og.p
 <title>
   {title || themeConfig.site.title}
 </title>
+
+<meta property="og:site_name" content={themeConfig.site.title} />
+
+<script type="application/ld+json" is:inline define:vars={{ themeConfig }}>
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Coloso", 
+    "url": "https://coloso-kr-blog.vercel.app/"
+  }
+</script>
+
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
