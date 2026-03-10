@@ -44,7 +44,7 @@ tags:
 
 ## 👉 더 깊이 있는 과정을 원한다면?
 
-- **[시와의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-siwaa?utm_source=blog&utm_medium=organic&utm_campaign=illustrator-siwaa_auto_all&utm_content=illust_illustrator-siwaa_gsd-autoblog-illustration-post-260310)**
+- **[시와의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-siwaa?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularillustrator-siwaa_auto_all&utm_content=illust_illustrator-siwaa_gsd-autoblog-illustration-post-260310)**
 
 
 

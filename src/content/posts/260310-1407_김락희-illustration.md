@@ -33,7 +33,7 @@ tags:
 ### 3. '과투시'를 이해하고 활용하기: 렌즈의 힘을 빌리지 않고도
 카메라 렌즈의 종류에 따라 이미지가 왜곡되는 '과투시' 현상, 우리 눈에서도 일어날 수 있습니다. 가까운 사물은 크게, 멀어질수록 작아지는 원리는 카메라 렌즈의 원리와 같죠. A 캐릭터의 주먹이 얼굴 크기보다 월등히 크게 보이는 것은 카메라를 가까이 가져가서 찍었기 때문입니다. 반대로 B 캐릭터처럼 주먹이 얼굴 크기보다 작게 보이는 것은 카메라를 더 멀리서 찍었기 때문이죠. 이런 과투시를 이해하면, 실제 눈으로 보는 것과 유사한, 혹은 의도적으로 강조된 표현을 사용할 때 큰 도움이 됩니다. 렌즈의 도움 없이도 이러한 효과를 이해하고 그림에 적용하는 것이 중요합니다.
 
-👉 **[김락희의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=illustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260310)**
+👉 **[김락희의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularillustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260310)**
 
 ---
 
@@ -74,7 +74,7 @@ tags:
 ---
 
 ## 👉 더 깊이 있는 과정을 원한다면?
-- **[김락희의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=illustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260310)**
+- **[김락희의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator_kimrockhe?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularillustrator_kimrockhe_auto_all&utm_content=illust_illustrator_kimrockhe_gsd-autoblog-illustration-post-260310)**
 
 
 

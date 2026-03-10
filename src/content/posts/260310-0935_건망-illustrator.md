@@ -34,7 +34,7 @@ tags:
 ### 3. '디테일'이 곧 '클래스'다: 퀄리티를 결정짓는 한 끗 차이
 인체 비율, 옷 주름, 빛과 그림자 표현 등 디테일이 살아있을 때 그림은 비로소 완성됩니다. 건망은 이러한 디테일을 놓치지 않고 표현하는 '나만의 방식'을 찾는 법을 체계적으로 알려줍니다.
 
-👉 **[건망의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-kunmang?utm_source=blog&utm_medium=organic&utm_campaign=illustrator-kunmang_auto_all&utm_content=illust_illustrator-kunmang_gsd-autoblog-illustrator-post-260310)**
+👉 **[건망의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-kunmang?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularillustrator-kunmang_auto_all&utm_content=illust_illustrator-kunmang_gsd-autoblog-illustrator-post-260310)**
 
 ---
 
@@ -62,7 +62,7 @@ tags:
 
 ## 👉 더 깊이 있는 과정을 원한다면?
 
-- **[건망의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-kunmang?utm_source=blog&utm_medium=organic&utm_campaign=illustrator-kunmang_auto_all&utm_content=illust_illustrator-kunmang_gsd-autoblog-illustrator-post-260310)**
+- **[건망의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/illustrator-kunmang?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularillustrator-kunmang_auto_all&utm_content=illust_illustrator-kunmang_gsd-autoblog-illustrator-post-260310)**
 
 
 
