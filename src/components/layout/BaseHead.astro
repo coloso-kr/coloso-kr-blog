@@ -32,13 +32,13 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.url) : new URL('/og/og-logo.pn
 
 <meta property="og:site_name" content={themeConfig.site.title} />
 
-<script type="application/ld+json" is:inline define:vars={{ themeConfig }}>
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Coloso", 
-    "url": "https://coloso-kr-blog.vercel.app/"
-  }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Coloso 공식 블로그",
+  "url": "https://coloso-kr-blog.vercel.app/"
+}
 </script>
 
 <meta name="title" content={title} />
