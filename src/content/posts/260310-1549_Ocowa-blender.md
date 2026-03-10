@@ -35,7 +35,7 @@ tags:
 ### 3. 퀄리티를 결정하는 '한 끗' 디테일: 톡톡 튀는 캐릭터 애니메이션
 단순한 움직임을 넘어 캐릭터의 개성을 살리는 것은 애니메이션의 핵심입니다. Ocowa는 **Proportional Editing (O Key)** 기능을 활용해 물건을 집는 듯한 감각적인 변형을 구현하고, **FK/IK 전환**과 **가중치 재조정**을 통해 어색한 관절 부분을 자연스럽게 만드는 디테일 노하우를 전달합니다. 특히 **Face 본**을 부모로 하는 **눈, 입 리그 생성**과 **Subrig 조합**은 복잡한 얼굴 애니메이션을 효율적으로 제어하는 비법입니다.
 
-👉 **[Ocowa의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/blender-ocowa?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularblender-ocowa_auto_all&utm_content=mediadesign_blender-ocowa_gsd-autoblog-blender-post-260310)**
+👉 **[Ocowa의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/blender-ocowa?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_blender-ocowa_auto_all&utm_content=mediadesign_blender-ocowa_gsd-autoblog-blender-post-260310)**
 
 ---
 
@@ -71,7 +71,7 @@ A. 카툰풍 특유의 질감과 빛 표현을 위해 **LineArt 모디파이어*
 ---
 
 ## 👉 더 깊이 있는 과정을 원한다면?
-- **[Ocowa의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/blender-ocowa?utm_source=blog&utm_medium=organic&utm_campaign=pro_regularblender-ocowa_auto_all&utm_content=mediadesign_blender-ocowa_gsd-autoblog-blender-post-260310)**
+- **[Ocowa의 전체 커리큘럼 확인하기](https://coloso.co.kr/products/blender-ocowa?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_blender-ocowa_auto_all&utm_content=mediadesign_blender-ocowa_gsd-autoblog-blender-post-260310)**
 
 
 
