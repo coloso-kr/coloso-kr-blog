@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://coloso-kr-blog.vercel.app/', // Site domain
+    website: 'https://coloso-kr.blog/', // Site domain
     title: 'Coloso 공식 블로그', // Site title
     author: 'Coloso 공식 블로그', // Author name
     description: '최고에게 배우는 최상의 가치, 콜로소', // Site description
