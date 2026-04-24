@@ -1,5 +1,5 @@
 ---
-title: "[영상 디자인] minusT: [Part. 02] 귀여운 SD로 도전하는 블렌더 캐릭터 모델링 챌린지"
+title: "블렌더, 아무것도 모르는데 SD 캐릭터 제작, 애니메이팅까지 가능할까요?"
 description: "minusT의 영상 디자인 강의 리뷰"
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
