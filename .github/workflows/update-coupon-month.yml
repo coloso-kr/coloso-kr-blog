@@ -1,0 +1,39 @@
+name: Update Coupon Month
+
+on:
+  schedule:
+    - cron: '0 15 1 * *'  # 매월 1일 15:00 UTC = 한국시간 00:00
+  workflow_dispatch:       # 수동 실행도 가능
+
+jobs:
+  update-coupon-month:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update COUPON_MONTH in config.ts
+        run: |
+          # 현재 월 계산 (YYMM 형식, 예: 2605)
+          NEW_MONTH=$(date -u +'%y%m')
+          echo "New coupon month: $NEW_MONTH"
+
+          # config.ts 에서 COUPON_MONTH 값 교체
+          sed -i "s/const COUPON_MONTH = \"[0-9]\{4\}\"/const COUPON_MONTH = \"$NEW_MONTH\"/" src/config.ts
+
+          # 변경 확인
+          grep "COUPON_MONTH" src/config.ts
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git diff --quiet && echo "No changes" && exit 0
+
+          git add src/config.ts
+          git commit -m "chore: update coupon month to $(date -u +'%y%m')"
+          git push
