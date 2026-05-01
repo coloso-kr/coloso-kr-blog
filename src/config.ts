@@ -37,7 +37,7 @@ export const themeConfig: ThemeConfig = {
   }
 }; // <--- 🌟 중요: themeConfig는 여기서 끝납니다!
 
-const COUPON_MONTH = "2604"; // ← 매월 이것만 자동으로 바뀜
+const COUPON_MONTH = "2605"; // ← 매월 이것만 자동으로 바뀜
 
 export const COUPON_SYSTEM = {
   enabled: true,
