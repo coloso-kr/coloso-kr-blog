@@ -94,21 +94,3 @@ const ogImage = `/open-graph/${postSlug}.png`
   runCouponSystem();
   document.addEventListener('astro:page-load', runCouponSystem);
 </script>
-
-<style define:vars={{ 
-  contentWidth: themeConfig.general.contentWidth,
-  textAlign: themeConfig.general.centeredLayout ? 'center' : 'left',
-  marginSide: themeConfig.general.centeredLayout ? 'auto' : '0'
-}}>
-  .post-container {
-    max-width: var(--contentWidth);
-    margin-left: var(--marginSide);
-    margin-right: var(--marginSide);
-    width: 100%;
-  }
-
-  /* 제목 부분 정렬 반영 */
-  .title {
-    text-align: var(--textAlign);
-  }
-</style>
