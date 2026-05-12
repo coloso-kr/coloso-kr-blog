@@ -96,7 +96,7 @@ async function fixRelativeImagePaths(htmlContent: string, baseUrl: string, postP
  */
 async function generateFeedInstance(context: APIContext) {
   const siteUrl = (context.site?.toString() || themeConfig.site.website).replace(/\/$/, '')
-  const { title = '', description = '', author = '', language = 'en-US' } = themeConfig.site
+  const { title = '', description = '', author = '', language = 'ko-KR' } = themeConfig.site
 
   const feed = new Feed({
     title: title,

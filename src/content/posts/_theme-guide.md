@@ -26,7 +26,7 @@ site: {
   title: 'CHIRI', // Site title
   author: '3ASH', // Author name
   description: 'Minimal blog built by Astro', // Site description
-  language: 'en-US' // Default language
+  language: 'ko-KR' // Default language
 },
 ```
 
