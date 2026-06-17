@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[실사 빛을 3D로 그려내는 라이팅&렌더링 입문]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-kimyongho-pbr-260617/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimyongho-pbr-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 05:45:24 GMT</pubDate>
+      <description><![CDATA[실사 빛을 3D로 그려내는 라이팅&렌더링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[매력적인 자캐를 창작하기 위한 컨셉추얼 캐릭터 디자인 작법서]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gatan-class-drawing-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 06:49:44 GMT</pubDate>
       <description><![CDATA[50개 이상 예제로 배우는 고퀄리티 채색 실전 CLASS+ 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[북미풍 데포르메 캐릭터 디자인]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-miacat-review-260612/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-miacat-review-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 05:45:27 GMT</pubDate>
-      <description><![CDATA[북미풍 데포르메 캐릭터 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
