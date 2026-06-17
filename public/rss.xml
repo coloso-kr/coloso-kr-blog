@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[매력적인 자캐를 창작하기 위한 컨셉추얼 캐릭터 디자인 작법서]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 04:01:45 GMT</pubDate>
+      <description><![CDATA[매력적인 자캐를 창작하기 위한 컨셉추얼 캐릭터 디자인 작법서 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[투자자와 경영자, 모두를 위한 재무제표 분석법]]></title>
       <link>https://coloso-kr-blog.vercel.app/financialstatement-chobyunghyun-finance-260617/</link>
       <guid>https://coloso-kr-blog.vercel.app/financialstatement-chobyunghyun-finance-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-miacat-review-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 05:45:27 GMT</pubDate>
       <description><![CDATA[북미풍 데포르메 캐릭터 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더로 정복하는 SF풍 하드 서피스 메카닉 모델링]]></title>
-      <link>https://coloso-kr-blog.vercel.app/blender-kimjunhyun2-blender-260612/</link>
-      <guid>https://coloso-kr-blog.vercel.app/blender-kimjunhyun2-blender-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 04:01:50 GMT</pubDate>
-      <description><![CDATA[블렌더로 정복하는 SF풍 하드 서피스 메카닉 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
