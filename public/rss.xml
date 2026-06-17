@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[투자자와 경영자, 모두를 위한 재무제표 분석법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/financialstatement-chobyunghyun-finance-260617/</link>
+      <guid>https://coloso-kr-blog.vercel.app/financialstatement-chobyunghyun-finance-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 03:27:38 GMT</pubDate>
+      <description><![CDATA[투자자와 경영자, 모두를 위한 재무제표 분석법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[옴므파탈 남캐로 완성하는 웹소설 표지 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-dawit-illustration-260617/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-dawit-illustration-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/blender-kimjunhyun2-blender-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 04:01:50 GMT</pubDate>
       <description><![CDATA[블렌더로 정복하는 SF풍 하드 서피스 메카닉 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[롱런하는 소규모 매장의 특별한 타르트 레시피]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-changheejung-tart-260612/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-changheejung-tart-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 03:28:03 GMT</pubDate>
-      <description><![CDATA[롱런하는 소규모 매장의 특별한 타르트 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
