@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[옴므파탈 남캐로 완성하는 웹소설 표지 일러스트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-dawit-illustration-260617/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-dawit-illustration-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 02:32:51 GMT</pubDate>
+      <description><![CDATA[옴므파탈 남캐로 완성하는 웹소설 표지 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2D 단편 애니메이션 기획&제작 로드맵]]></title>
       <link>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</link>
       <guid>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-changheejung-tart-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 03:28:03 GMT</pubDate>
       <description><![CDATA[롱런하는 소규모 매장의 특별한 타르트 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[라이노 7.0 & 그래스호퍼의 효율적인 건축 모델링]]></title>
-      <link>https://coloso-kr-blog.vercel.app/architect-hankijoon-rhino-260612/</link>
-      <guid>https://coloso-kr-blog.vercel.app/architect-hankijoon-rhino-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 02:32:47 GMT</pubDate>
-      <description><![CDATA[라이노 7.0 & 그래스호퍼의 효율적인 건축 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
