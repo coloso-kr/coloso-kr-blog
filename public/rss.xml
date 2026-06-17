@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[2D 단편 애니메이션 기획&제작 로드맵]]></title>
+      <link>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</link>
+      <guid>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 01:20:39 GMT</pubDate>
+      <description><![CDATA[2D 단편 애니메이션 기획&제작 로드맵 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐릭터의 스토리를 빛내줄 텍스처와 색감 연출 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-gamgyuls-illustration-260616/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gamgyuls-illustration-260616/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/architect-hankijoon-rhino-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 02:32:47 GMT</pubDate>
       <description><![CDATA[라이노 7.0 & 그래스호퍼의 효율적인 건축 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[투시부터 빛과 색 사용법까지 배경 마스터 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-background-masterclass-background-260612/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-background-masterclass-background-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 01:20:36 GMT</pubDate>
-      <description><![CDATA[투시부터 빛과 색 사용법까지 배경 마스터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
