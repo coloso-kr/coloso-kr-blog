@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[다시 세우는 기준, 고객을 움직이는 브랜딩 전략]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-junwoosung-branding-260618/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-junwoosung-branding-260618/</guid>
+      <pubDate>Thu, 18 Jun 2026 01:20:34 GMT</pubDate>
+      <description><![CDATA[다시 세우는 기준, 고객을 움직이는 브랜딩 전략 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[프로 원화가에게 배우는 캐릭터 원화 디자인 핵심]]></title>
       <link>https://coloso-kr-blog.vercel.app/conceptartist-kiminwoo-characterart-260617/</link>
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-kiminwoo-characterart-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programmer-devbrother2-mcp-260613/</guid>
       <pubDate>Sat, 13 Jun 2026 02:32:48 GMT</pubDate>
       <description><![CDATA[설계, 운영, 보안까지 완벽하게 체득하는 실전형 MCP 확장 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[나만의 스타일이 담긴 디자인 표현법과 브랜딩 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/graphicdesign-styleidentity-typography-260613/</link>
-      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-styleidentity-typography-260613/</guid>
-      <pubDate>Sat, 13 Jun 2026 01:20:35 GMT</pubDate>
-      <description><![CDATA[나만의 스타일이 담긴 디자인 표현법과 브랜딩 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
