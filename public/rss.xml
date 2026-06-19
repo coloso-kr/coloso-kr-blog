@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[리얼함과 아름다움을 모두 잡는 여성 캐릭터 모델링 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-choiyeorum-game-art-260618/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-choiyeorum-game-art-260618/</guid>
+      <pubDate>Thu, 18 Jun 2026 08:37:13 GMT</pubDate>
+      <description><![CDATA[리얼함과 아름다움을 모두 잡는 여성 캐릭터 모델링 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[10가지 모델링으로 완전정복하는 C4D 기본기]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-kwonohhoon-c4d-260618/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kwonohhoon-c4d-260618/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/baker-parkhyeryoung-baking-260613/</guid>
       <pubDate>Sat, 13 Jun 2026 06:49:16 GMT</pubDate>
       <description><![CDATA[전국구 베이글 맛집 훕훕베이글의 시그니처 레시피 19종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[3ds Max로 마스터하는 각양각색 캐릭터 페이셜 리깅]]></title>
-      <link>https://coloso-kr-blog.vercel.app/technicaldirector-kimdongseok2-3dsmax-260613/</link>
-      <guid>https://coloso-kr-blog.vercel.app/technicaldirector-kimdongseok2-3dsmax-260613/</guid>
-      <pubDate>Sat, 13 Jun 2026 05:45:13 GMT</pubDate>
-      <description><![CDATA[3ds Max로 마스터하는 각양각색 캐릭터 페이셜 리깅 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
