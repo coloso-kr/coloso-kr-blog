@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[크림오븐의 크루아상 마스터 클래스]]></title>
+      <link>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</link>
+      <guid>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</guid>
+      <pubDate>Sat, 20 Jun 2026 05:45:20 GMT</pubDate>
+      <description><![CDATA[크림오븐의 크루아상 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[갸또부터 떠먹케까지, 원물 맛 가득 꾸덕쫀득 트렌드 레시피 26종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-shininhwa2-bakery-260620/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-shininhwa2-bakery-260620/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-jungjia-clipstudio-260614/</guid>
       <pubDate>Sun, 14 Jun 2026 05:45:25 GMT</pubDate>
       <description><![CDATA[장르를 넘나드는 육각형 일러스트레이터가 되기 위한 툴 활용백서 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[실전 해부학을 바탕으로 한 생동감 있는 캐릭터 드로잉]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-seokjunghyun2-illustration-260614/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-seokjunghyun2-illustration-260614/</guid>
-      <pubDate>Sun, 14 Jun 2026 04:02:01 GMT</pubDate>
-      <description><![CDATA[실전 해부학을 바탕으로 한 생동감 있는 캐릭터 드로잉 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
