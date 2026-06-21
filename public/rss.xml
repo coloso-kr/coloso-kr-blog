@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[노베이스도 10시간 만에 하는 인디 게임 개발]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gameproduct-ahnhojun-unity-260620/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gameproduct-ahnhojun-unity-260620/</guid>
+      <pubDate>Sat, 20 Jun 2026 08:37:14 GMT</pubDate>
+      <description><![CDATA[노베이스도 10시간 만에 하는 인디 게임 개발 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[크림오븐의 크루아상 마스터 클래스]]></title>
       <link>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</link>
       <guid>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/industrialdesign-parkjongpil-3dmodeling-260614/</guid>
       <pubDate>Sun, 14 Jun 2026 06:49:28 GMT</pubDate>
       <description><![CDATA[3D 피규어 제작을 위한 모델링 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[장르를 넘나드는 육각형 일러스트레이터가 되기 위한 툴 활용백서]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-jungjia-clipstudio-260614/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-jungjia-clipstudio-260614/</guid>
-      <pubDate>Sun, 14 Jun 2026 05:45:25 GMT</pubDate>
-      <description><![CDATA[장르를 넘나드는 육각형 일러스트레이터가 되기 위한 툴 활용백서 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
