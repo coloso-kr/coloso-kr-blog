@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[3D 게임에 특화된 캐주얼 캐릭터 일러스트 제작법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</link>
+      <guid>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</guid>
+      <pubDate>Thu, 25 Jun 2026 02:32:50 GMT</pubDate>
+      <description><![CDATA[3D 게임에 특화된 캐주얼 캐릭터 일러스트 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[해외 클라이언트에게 주목받는 일러스트 아트워크]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-danichoi-illustration-260624/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-danichoi-illustration-260624/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gamgyuls-illustration-260616/</guid>
       <pubDate>Tue, 16 Jun 2026 06:49:20 GMT</pubDate>
       <description><![CDATA[캐릭터의 스토리를 빛내줄 텍스처와 색감 연출 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[텍스처감으로 완성하는 부드럽고 청초한 캐릭터 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-hana-illustration-260616/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-hana-illustration-260616/</guid>
-      <pubDate>Tue, 16 Jun 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[텍스처감으로 완성하는 부드럽고 청초한 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
