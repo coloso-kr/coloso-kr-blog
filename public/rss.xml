@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</guid>
+      <pubDate>Thu, 25 Jun 2026 05:45:12 GMT</pubDate>
+      <description><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3D 게임에 특화된 캐주얼 캐릭터 일러스트 제작법]]></title>
       <link>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</link>
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 01:20:39 GMT</pubDate>
       <description><![CDATA[2D 단편 애니메이션 기획&제작 로드맵 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[캐릭터의 스토리를 빛내줄 텍스처와 색감 연출 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-gamgyuls-illustration-260616/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-gamgyuls-illustration-260616/</guid>
-      <pubDate>Tue, 16 Jun 2026 06:49:20 GMT</pubDate>
-      <description><![CDATA[캐릭터의 스토리를 빛내줄 텍스처와 색감 연출 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
