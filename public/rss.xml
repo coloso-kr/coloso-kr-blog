@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[입문자를 위한 의류 패턴 제작 원리와 프로세스]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patternstudio-jkpattern-patternmaking-260625/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patternstudio-jkpattern-patternmaking-260625/</guid>
+      <pubDate>Thu, 25 Jun 2026 08:37:15 GMT</pubDate>
+      <description><![CDATA[입문자를 위한 의류 패턴 제작 원리와 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-dawit-illustration-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[옴므파탈 남캐로 완성하는 웹소설 표지 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2D 단편 애니메이션 기획&제작 로드맵]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimation-jeonjinkyu-animation-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 01:20:39 GMT</pubDate>
-      <description><![CDATA[2D 단편 애니메이션 기획&제작 로드맵 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
