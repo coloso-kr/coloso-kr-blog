@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[선으로 깊은 몰입감을 자아내는 출판만화 실전 길잡이]]></title>
+      <link>https://coloso-kr-blog.vercel.app/comicartist-sato-comics-260708/</link>
+      <guid>https://coloso-kr-blog.vercel.app/comicartist-sato-comics-260708/</guid>
+      <pubDate>Wed, 08 Jul 2026 05:45:36 GMT</pubDate>
+      <description><![CDATA[선으로 깊은 몰입감을 자아내는 출판만화 실전 길잡이 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[프로급 연출력을 키우는 단편만화 실시간 피드백 클래스 & VOD]]></title>
       <link>https://coloso-kr-blog.vercel.app/course-publicationmanga-260708/</link>
       <guid>https://coloso-kr-blog.vercel.app/course-publicationmanga-260708/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-kiminwoo-characterart-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 06:49:16 GMT</pubDate>
       <description><![CDATA[프로 원화가에게 배우는 캐릭터 원화 디자인 핵심 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[실사 빛을 3D로 그려내는 라이팅&렌더링 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/motiongraphic-kimyongho-pbr-260617/</link>
-      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimyongho-pbr-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 05:45:24 GMT</pubDate>
-      <description><![CDATA[실사 빛을 3D로 그려내는 라이팅&렌더링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
