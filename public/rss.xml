@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[프로급 연출력을 키우는 단편만화 실시간 피드백 클래스 & VOD]]></title>
+      <link>https://coloso-kr-blog.vercel.app/course-publicationmanga-260708/</link>
+      <guid>https://coloso-kr-blog.vercel.app/course-publicationmanga-260708/</guid>
+      <pubDate>Wed, 08 Jul 2026 02:32:57 GMT</pubDate>
+      <description><![CDATA[프로급 연출력을 키우는 단편만화 실시간 피드백 클래스 & VOD 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[1년 만에 감독 데뷔까지, 100강으로 완성하는 애니메이션 제작 올인원]]></title>
       <link>https://coloso-kr-blog.vercel.app/dictionary-gamja-animation-260707/</link>
       <guid>https://coloso-kr-blog.vercel.app/dictionary-gamja-animation-260707/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimyongho-pbr-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 05:45:24 GMT</pubDate>
       <description><![CDATA[실사 빛을 3D로 그려내는 라이팅&렌더링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[매력적인 자캐를 창작하기 위한 컨셉추얼 캐릭터 디자인 작법서]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-bakgae-conceptart-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 04:01:45 GMT</pubDate>
-      <description><![CDATA[매력적인 자캐를 창작하기 위한 컨셉추얼 캐릭터 디자인 작법서 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
