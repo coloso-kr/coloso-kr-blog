@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터 동세 연출에 최적화된 다이내믹 액션 드로잉]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-kangjoosung-illustration-260709/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-kangjoosung-illustration-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 05:45:35 GMT</pubDate>
+      <description><![CDATA[캐릭터 동세 연출에 최적화된 다이내믹 액션 드로잉 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[분위기를 살리는 효율적인 웹툰 채색 노하우]]></title>
       <link>https://coloso-kr-blog.vercel.app/webtoon-kwonseongmok-webtooncoloring-260709/</link>
       <guid>https://coloso-kr-blog.vercel.app/webtoon-kwonseongmok-webtooncoloring-260709/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane-cafe-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 03:27:36 GMT</pubDate>
       <description><![CDATA[이론부터 시작! 카페 음료 40종 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[연금처럼 찾아오는 수익, 아나키의 워드프레스 블로그 마스터]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-anarchy-wordpress-260618/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-anarchy-wordpress-260618/</guid>
-      <pubDate>Thu, 18 Jun 2026 02:32:49 GMT</pubDate>
-      <description><![CDATA[연금처럼 찾아오는 수익, 아나키의 워드프레스 블로그 마스터 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
