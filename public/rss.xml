@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[분위기를 살리는 효율적인 웹툰 채색 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/webtoon-kwonseongmok-webtooncoloring-260709/</link>
+      <guid>https://coloso-kr-blog.vercel.app/webtoon-kwonseongmok-webtooncoloring-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 02:32:47 GMT</pubDate>
+      <description><![CDATA[분위기를 살리는 효율적인 웹툰 채색 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[양감과 실루엣을 활용한 히어로 캐릭터 드로잉]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-nixellcho-illustration-260708/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-nixellcho-illustration-260708/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-anarchy-wordpress-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 02:32:49 GMT</pubDate>
       <description><![CDATA[연금처럼 찾아오는 수익, 아나키의 워드프레스 블로그 마스터 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[다시 세우는 기준, 고객을 움직이는 브랜딩 전략]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-junwoosung-branding-260618/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-junwoosung-branding-260618/</guid>
-      <pubDate>Thu, 18 Jun 2026 01:20:34 GMT</pubDate>
-      <description><![CDATA[다시 세우는 기준, 고객을 움직이는 브랜딩 전략 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
