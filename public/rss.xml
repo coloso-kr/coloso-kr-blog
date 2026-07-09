@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[양감과 실루엣을 활용한 히어로 캐릭터 드로잉]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-nixellcho-illustration-260708/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-nixellcho-illustration-260708/</guid>
+      <pubDate>Wed, 08 Jul 2026 08:37:30 GMT</pubDate>
+      <description><![CDATA[양감과 실루엣을 활용한 히어로 캐릭터 드로잉 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[선으로 깊은 몰입감을 자아내는 출판만화 실전 길잡이]]></title>
       <link>https://coloso-kr-blog.vercel.app/comicartist-sato-comics-260708/</link>
       <guid>https://coloso-kr-blog.vercel.app/comicartist-sato-comics-260708/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-junwoosung-branding-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 01:20:34 GMT</pubDate>
       <description><![CDATA[다시 세우는 기준, 고객을 움직이는 브랜딩 전략 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[프로 원화가에게 배우는 캐릭터 원화 디자인 핵심]]></title>
-      <link>https://coloso-kr-blog.vercel.app/conceptartist-kiminwoo-characterart-260617/</link>
-      <guid>https://coloso-kr-blog.vercel.app/conceptartist-kiminwoo-characterart-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 06:49:16 GMT</pubDate>
-      <description><![CDATA[프로 원화가에게 배우는 캐릭터 원화 디자인 핵심 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
