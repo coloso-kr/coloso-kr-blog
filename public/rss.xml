@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[퀄리티와 효율성을 모두 잡는 언리얼&후디니 게임 FX]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gamegraphic-choijinhwan-gamefx-260709/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-choijinhwan-gamefx-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 08:37:24 GMT</pubDate>
+      <description><![CDATA[퀄리티와 효율성을 모두 잡는 언리얼&후디니 게임 FX 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐릭터 동세 연출에 최적화된 다이내믹 액션 드로잉]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-kangjoosung-illustration-260709/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-kangjoosung-illustration-260709/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kwonohhoon-c4d-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 04:01:42 GMT</pubDate>
       <description><![CDATA[10가지 모델링으로 완전정복하는 C4D 기본기 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[이론부터 시작! 카페 음료 40종 마스터 클래스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane-cafe-260618/</link>
-      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane-cafe-260618/</guid>
-      <pubDate>Thu, 18 Jun 2026 03:27:36 GMT</pubDate>
-      <description><![CDATA[이론부터 시작! 카페 음료 40종 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
