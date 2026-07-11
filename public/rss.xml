@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[왕초보도 가능한 AI 음악, 한 달 안에 1만 구독자 만드는 법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/ai-moccacat-ai-260711/</link>
+      <guid>https://coloso-kr-blog.vercel.app/ai-moccacat-ai-260711/</guid>
+      <pubDate>Sat, 11 Jul 2026 02:32:56 GMT</pubDate>
+      <description><![CDATA[왕초보도 가능한 AI 음악, 한 달 안에 1만 구독자 만드는 법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[극호감 얼굴을 그려내는 탄탄한 형태&명암 표현법]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-jida-drawing-260710/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-jida-drawing-260710/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/aeexpression-jaehiekr-expression-260619/</guid>
       <pubDate>Fri, 19 Jun 2026 08:37:24 GMT</pubDate>
       <description><![CDATA[극강의 작업 효율을 위한 Ae 익스프레션 입문 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[40가지 레시피로 완전 정복하는 플렉시판 마들렌]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-limjeongha-madeleine-260619/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-limjeongha-madeleine-260619/</guid>
-      <pubDate>Fri, 19 Jun 2026 05:45:10 GMT</pubDate>
-      <description><![CDATA[40가지 레시피로 완전 정복하는 플렉시판 마들렌 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
