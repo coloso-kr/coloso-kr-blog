@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</guid>
+      <pubDate>Sun, 12 Jul 2026 02:32:50 GMT</pubDate>
+      <description><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[블렌더로 완성시키는 NPR 애니메이션 풀 프로세스]]></title>
       <link>https://coloso-kr-blog.vercel.app/videocreator-popurika-blender-260711/</link>
       <guid>https://coloso-kr-blog.vercel.app/videocreator-popurika-blender-260711/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gameproduct-ahnhojun-unity-260620/</guid>
       <pubDate>Sat, 20 Jun 2026 08:37:14 GMT</pubDate>
       <description><![CDATA[노베이스도 10시간 만에 하는 인디 게임 개발 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[크림오븐의 크루아상 마스터 클래스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</link>
-      <guid>https://coloso-kr-blog.vercel.app/baker-wonjisung-croissant-260620/</guid>
-      <pubDate>Sat, 20 Jun 2026 05:45:20 GMT</pubDate>
-      <description><![CDATA[크림오븐의 크루아상 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
