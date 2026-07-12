@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</guid>
+      <pubDate>Sun, 12 Jul 2026 05:45:48 GMT</pubDate>
+      <description><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-wook-c4d-260621/</guid>
       <pubDate>Sun, 21 Jun 2026 02:32:58 GMT</pubDate>
       <description><![CDATA[브랜드가 찾는 트렌디한 키비주얼 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[노베이스도 10시간 만에 하는 인디 게임 개발]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gameproduct-ahnhojun-unity-260620/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gameproduct-ahnhojun-unity-260620/</guid>
-      <pubDate>Sat, 20 Jun 2026 08:37:14 GMT</pubDate>
-      <description><![CDATA[노베이스도 10시간 만에 하는 인디 게임 개발 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
