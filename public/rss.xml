@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[기초를 응용한 캐릭터 디자인 심화]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-nessi2-illustration-260712/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-nessi2-illustration-260712/</guid>
+      <pubDate>Sun, 12 Jul 2026 08:37:15 GMT</pubDate>
+      <description><![CDATA[기초를 응용한 캐릭터 디자인 심화 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트]]></title>
       <link>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</link>
       <guid>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimdoi-poundcake-260621/</guid>
       <pubDate>Sun, 21 Jun 2026 05:45:22 GMT</pubDate>
       <description><![CDATA[호라이즌16 X 토스티서울의 시그니처 디저트 10종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[브랜드가 찾는 트렌디한 키비주얼 완성]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-wook-c4d-260621/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-wook-c4d-260621/</guid>
-      <pubDate>Sun, 21 Jun 2026 02:32:58 GMT</pubDate>
-      <description><![CDATA[브랜드가 찾는 트렌디한 키비주얼 완성 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
