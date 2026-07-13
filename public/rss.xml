@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[클라이언트 워크로 배우는 브랜드 디자인 실무]]></title>
+      <link>https://coloso-kr-blog.vercel.app/branddesigner-yoonyoungno-branddesign-260713/</link>
+      <guid>https://coloso-kr-blog.vercel.app/branddesigner-yoonyoungno-branddesign-260713/</guid>
+      <pubDate>Mon, 13 Jul 2026 05:45:24 GMT</pubDate>
+      <description><![CDATA[클라이언트 워크로 배우는 브랜드 디자인 실무 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[상상했던 느낌 그대로, 실패 없이 쌓는 고밀도 채색 오답노트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-yejji-illustration-260713/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-yejji-illustration-260713/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-yangsujin2-motion-260622/</guid>
       <pubDate>Mon, 22 Jun 2026 02:32:52 GMT</pubDate>
       <description><![CDATA[아이디어를 모션그래픽으로: 6가지 스타일 실습 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[컨셉과 도면을 중심으로 이해하는 건축설계]]></title>
-      <link>https://coloso-kr-blog.vercel.app/architect-kimhyonseok-architecture-260621/</link>
-      <guid>https://coloso-kr-blog.vercel.app/architect-kimhyonseok-architecture-260621/</guid>
-      <pubDate>Sun, 21 Jun 2026 08:37:24 GMT</pubDate>
-      <description><![CDATA[컨셉과 도면을 중심으로 이해하는 건축설계 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
