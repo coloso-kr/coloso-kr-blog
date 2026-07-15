@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[제너럴리스트로 거듭나는 ComfyUI 올인원 활용백서]]></title>
+      <link>https://coloso-kr-blog.vercel.app/ai-kimjinsung4-comfyui-260714/</link>
+      <guid>https://coloso-kr-blog.vercel.app/ai-kimjinsung4-comfyui-260714/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:37:29 GMT</pubDate>
+      <description><![CDATA[제너럴리스트로 거듭나는 ComfyUI 올인원 활용백서 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[선명한 색감과 고밀도로 완성하는 일러스트 채색 디테일 공식]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-haitch-character-260714/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-haitch-character-260714/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/graphicdesign-honno-design-260623/</guid>
       <pubDate>Tue, 23 Jun 2026 05:45:16 GMT</pubDate>
       <description><![CDATA[앨범 커버&굿즈 제작으로 배우는 엔터테인먼트 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[억대 매출을 만든 케키하우스의 홀케이크 디자인 노하우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-parksunhee2-kekihouse-260623/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-parksunhee2-kekihouse-260623/</guid>
-      <pubDate>Tue, 23 Jun 2026 02:32:51 GMT</pubDate>
-      <description><![CDATA[억대 매출을 만든 케키하우스의 홀케이크 디자인 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
