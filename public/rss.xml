@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[프론트엔드 엔지니어를 위한 문제 해결법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</guid>
+      <pubDate>Thu, 16 Jul 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[프론트엔드 엔지니어를 위한 문제 해결법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[일단 그려보자, 색다르게]]></title>
       <link>https://coloso-kr-blog.vercel.app/webtoon-joohomin-webtoon-260716/</link>
       <guid>https://coloso-kr-blog.vercel.app/webtoon-joohomin-webtoon-260716/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</guid>
       <pubDate>Thu, 25 Jun 2026 05:45:12 GMT</pubDate>
       <description><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[3D 게임에 특화된 캐주얼 캐릭터 일러스트 제작법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</link>
-      <guid>https://coloso-kr-blog.vercel.app/conceptartist-ronne-character-260625/</guid>
-      <pubDate>Thu, 25 Jun 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[3D 게임에 특화된 캐주얼 캐릭터 일러스트 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
