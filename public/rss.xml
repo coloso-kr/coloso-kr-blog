@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[버튜버의 세계를 여는 블렌더 3D 버츄얼 아바타 데뷔반]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-kimsaba-blender-260716/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-kimsaba-blender-260716/</guid>
+      <pubDate>Thu, 16 Jul 2026 08:37:38 GMT</pubDate>
+      <description><![CDATA[버튜버의 세계를 여는 블렌더 3D 버츄얼 아바타 데뷔반 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[프론트엔드 엔지니어를 위한 문제 해결법]]></title>
       <link>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</link>
       <guid>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patternstudio-jkpattern-patternmaking-260625/</guid>
       <pubDate>Thu, 25 Jun 2026 08:37:15 GMT</pubDate>
       <description><![CDATA[입문자를 위한 의류 패턴 제작 원리와 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-parkjieun-buttercreamflower-260625/</guid>
-      <pubDate>Thu, 25 Jun 2026 05:45:12 GMT</pubDate>
-      <description><![CDATA[15가지 꽃으로 완성하는 앙금 플라워 케이크 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
