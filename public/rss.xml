@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[먹칠로 표현하는 다이나믹 흑백 캐릭터 일러스트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-1hyeonn-monochrome-260719/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-1hyeonn-monochrome-260719/</guid>
+      <pubDate>Sun, 19 Jul 2026 08:37:38 GMT</pubDate>
+      <description><![CDATA[먹칠로 표현하는 다이나믹 흑백 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[시선이 머무르는 그림의 비밀, 빛의 연출과 레퍼런스 활용법]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-sjoop-character-260719/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-sjoop-character-260719/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-dogho-dogho-260710/</guid>
       <pubDate>Fri, 10 Jul 2026 02:33:16 GMT</pubDate>
       <description><![CDATA[강렬한 선화와 드라마틱 포징으로 완성하는 흑백 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[퀄리티와 효율성을 모두 잡는 언리얼&후디니 게임 FX]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gamegraphic-choijinhwan-gamefx-260709/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-choijinhwan-gamefx-260709/</guid>
-      <pubDate>Thu, 09 Jul 2026 08:37:24 GMT</pubDate>
-      <description><![CDATA[퀄리티와 효율성을 모두 잡는 언리얼&후디니 게임 FX 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
