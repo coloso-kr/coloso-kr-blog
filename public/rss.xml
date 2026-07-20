@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[재치와 개성이 돋보이는 타이포그래피 제작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesigner-jasminchavez-typography-260720/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesigner-jasminchavez-typography-260720/</guid>
+      <pubDate>Mon, 20 Jul 2026 02:33:07 GMT</pubDate>
+      <description><![CDATA[재치와 개성이 돋보이는 타이포그래피 제작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[먹칠로 표현하는 다이나믹 흑백 캐릭터 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-1hyeonn-monochrome-260719/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-1hyeonn-monochrome-260719/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-joeho-illustration-260710/</guid>
       <pubDate>Fri, 10 Jul 2026 05:45:17 GMT</pubDate>
       <description><![CDATA[캐릭터성이 돋보이는 역동적인 남성 캐릭터 완성 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[강렬한 선화와 드라마틱 포징으로 완성하는 흑백 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-dogho-dogho-260710/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-dogho-dogho-260710/</guid>
-      <pubDate>Fri, 10 Jul 2026 02:33:16 GMT</pubDate>
-      <description><![CDATA[강렬한 선화와 드라마틱 포징으로 완성하는 흑백 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
