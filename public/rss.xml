@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[하드 서페이스 모델링이 돋보이는 사이버펑크 배경 제작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dartist-nikolaifletcher-blender-260720/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dartist-nikolaifletcher-blender-260720/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:37:12 GMT</pubDate>
+      <description><![CDATA[하드 서페이스 모델링이 돋보이는 사이버펑크 배경 제작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[어떤 각도에서든 극강의 자연스러움, 생생한 인체 드로잉 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-hide-human-drawing-260720/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-hide-human-drawing-260720/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/ai-moccacat-ai-260711/</guid>
       <pubDate>Sat, 11 Jul 2026 02:32:56 GMT</pubDate>
       <description><![CDATA[왕초보도 가능한 AI 음악, 한 달 안에 1만 구독자 만드는 법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[극호감 얼굴을 그려내는 탄탄한 형태&명암 표현법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-jida-drawing-260710/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-jida-drawing-260710/</guid>
-      <pubDate>Fri, 10 Jul 2026 08:37:22 GMT</pubDate>
-      <description><![CDATA[극호감 얼굴을 그려내는 탄탄한 형태&명암 표현법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
