@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[C4D와 옥테인으로 완성하는 몽환적인 자연물 배경]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dvisualartist-florianrenaux-octanerender-260721/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dvisualartist-florianrenaux-octanerender-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 05:45:34 GMT</pubDate>
+      <description><![CDATA[C4D와 옥테인으로 완성하는 몽환적인 자연물 배경 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[블렌더로 만드는 신비로운 중세 연회장 배경]]></title>
       <link>https://coloso-kr-blog.vercel.app/3dblenderartist-flaviusstefeliga-blender-260721/</link>
       <guid>https://coloso-kr-blog.vercel.app/3dblenderartist-flaviusstefeliga-blender-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/videocreator-popurika-blender-260711/</guid>
       <pubDate>Sat, 11 Jul 2026 08:37:32 GMT</pubDate>
       <description><![CDATA[블렌더로 완성시키는 NPR 애니메이션 풀 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[100가지 아트워크로 쉽게 익히는 블렌더 3D 기초 트레이닝]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-ddangking-blender-260711/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-ddangking-blender-260711/</guid>
-      <pubDate>Sat, 11 Jul 2026 05:45:58 GMT</pubDate>
-      <description><![CDATA[100가지 아트워크로 쉽게 익히는 블렌더 3D 기초 트레이닝 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
