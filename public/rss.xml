@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Blender로 만드는 완벽한 루프 애니메이션]]></title>
+      <link>https://coloso-kr-blog.vercel.app/blender-jeremyseeman-loop-260722/</link>
+      <guid>https://coloso-kr-blog.vercel.app/blender-jeremyseeman-loop-260722/</guid>
+      <pubDate>Wed, 22 Jul 2026 05:45:52 GMT</pubDate>
+      <description><![CDATA[Blender로 만드는 완벽한 루프 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[초보자를 위한 인체 해부학]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-nessi2-illustration-260712/</guid>
       <pubDate>Sun, 12 Jul 2026 08:37:15 GMT</pubDate>
       <description><![CDATA[기초를 응용한 캐릭터 디자인 심화 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 05:45:48 GMT</pubDate>
-      <description><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
