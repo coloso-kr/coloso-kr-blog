@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[오븐 없이 초간단하게 만드는 크림&우유 푸딩 15종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane3-pudding-260721/</link>
+      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane3-pudding-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:37:13 GMT</pubDate>
+      <description><![CDATA[오븐 없이 초간단하게 만드는 크림&우유 푸딩 15종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[C4D와 옥테인으로 완성하는 몽환적인 자연물 배경]]></title>
       <link>https://coloso-kr-blog.vercel.app/3dvisualartist-florianrenaux-octanerender-260721/</link>
       <guid>https://coloso-kr-blog.vercel.app/3dvisualartist-florianrenaux-octanerender-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</guid>
       <pubDate>Sun, 12 Jul 2026 02:32:50 GMT</pubDate>
       <description><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더로 완성시키는 NPR 애니메이션 풀 프로세스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/videocreator-popurika-blender-260711/</link>
-      <guid>https://coloso-kr-blog.vercel.app/videocreator-popurika-blender-260711/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:37:32 GMT</pubDate>
-      <description><![CDATA[블렌더로 완성시키는 NPR 애니메이션 풀 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
