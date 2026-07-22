@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[초보자를 위한 인체 해부학]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</guid>
+      <pubDate>Wed, 22 Jul 2026 02:32:55 GMT</pubDate>
+      <description><![CDATA[초보자를 위한 인체 해부학 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[오븐 없이 초간단하게 만드는 크림&우유 푸딩 15종]]></title>
       <link>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane3-pudding-260721/</link>
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane3-pudding-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-macciatto-illustration-260712/</guid>
       <pubDate>Sun, 12 Jul 2026 05:45:48 GMT</pubDate>
       <description><![CDATA[드로잉 슬럼프 극복을 위한 캐주얼 일러스트 비법노트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-kimdasol-veganbaking-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[기초 이론부터 제대로 배우는 비건 베이킹 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
