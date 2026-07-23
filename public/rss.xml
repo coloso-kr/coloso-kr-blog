@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[공감각을 살리는 원근법 기반의 풍경 디자인]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-luhanwang-perspective-260722/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-luhanwang-perspective-260722/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:37:21 GMT</pubDate>
+      <description><![CDATA[공감각을 살리는 원근법 기반의 풍경 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Blender로 만드는 완벽한 루프 애니메이션]]></title>
       <link>https://coloso-kr-blog.vercel.app/blender-jeremyseeman-loop-260722/</link>
       <guid>https://coloso-kr-blog.vercel.app/blender-jeremyseeman-loop-260722/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-yejji-illustration-260713/</guid>
       <pubDate>Mon, 13 Jul 2026 02:32:55 GMT</pubDate>
       <description><![CDATA[상상했던 느낌 그대로, 실패 없이 쌓는 고밀도 채색 오답노트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기초를 응용한 캐릭터 디자인 심화]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-nessi2-illustration-260712/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-nessi2-illustration-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 08:37:15 GMT</pubDate>
-      <description><![CDATA[기초를 응용한 캐릭터 디자인 심화 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
