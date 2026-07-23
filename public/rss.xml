@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[빛과 그림자로 완성하는 반실사 페인팅 노하우의 모든 것]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-jeongsangsoo-illustration-260723/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-jeongsangsoo-illustration-260723/</guid>
+      <pubDate>Thu, 23 Jul 2026 05:45:22 GMT</pubDate>
+      <description><![CDATA[빛과 그림자로 완성하는 반실사 페인팅 노하우의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[애니메이션 스타일의 배경 디자인]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-luc-review-260723/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-luc-review-260723/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/progamer-opgg-valorant-260713/</guid>
       <pubDate>Mon, 13 Jul 2026 08:37:27 GMT</pubDate>
       <description><![CDATA[프로 감독과 레디언트1P에게 배우는 발로란트 티어상승 직행 솔루션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[클라이언트 워크로 배우는 브랜드 디자인 실무]]></title>
-      <link>https://coloso-kr-blog.vercel.app/branddesigner-yoonyoungno-branddesign-260713/</link>
-      <guid>https://coloso-kr-blog.vercel.app/branddesigner-yoonyoungno-branddesign-260713/</guid>
-      <pubDate>Mon, 13 Jul 2026 05:45:24 GMT</pubDate>
-      <description><![CDATA[클라이언트 워크로 배우는 브랜드 디자인 실무 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
