@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[감각 이상의 기술로 의도한 분위기를 완성하는 웹툰 후보정 스킬]]></title>
+      <link>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</link>
+      <guid>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</guid>
+      <pubDate>Fri, 24 Jul 2026 05:45:27 GMT</pubDate>
+      <description><![CDATA[감각 이상의 기술로 의도한 분위기를 완성하는 웹툰 후보정 스킬 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐릭터의 세계관을 드러내는 로딩 일러스트 그리기]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-leonardovincent-illustration-260724/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-leonardovincent-illustration-260724/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/ai-kimjinsung4-comfyui-260714/</guid>
       <pubDate>Tue, 14 Jul 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[제너럴리스트로 거듭나는 ComfyUI 올인원 활용백서 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[선명한 색감과 고밀도로 완성하는 일러스트 채색 디테일 공식]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-haitch-character-260714/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-haitch-character-260714/</guid>
-      <pubDate>Tue, 14 Jul 2026 05:45:12 GMT</pubDate>
-      <description><![CDATA[선명한 색감과 고밀도로 완성하는 일러스트 채색 디테일 공식 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
