@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[포트폴리오부터 면접까지 완벽하게, 게임 기획 취업 올인원 코스]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-yuriring-gameplanning-260724/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-yuriring-gameplanning-260724/</guid>
+      <pubDate>Fri, 24 Jul 2026 08:37:29 GMT</pubDate>
+      <description><![CDATA[포트폴리오부터 면접까지 완벽하게, 게임 기획 취업 올인원 코스 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[감각 이상의 기술로 의도한 분위기를 완성하는 웹툰 후보정 스킬]]></title>
       <link>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</link>
       <guid>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-heosungmoo-illustration-260715/</guid>
       <pubDate>Wed, 15 Jul 2026 02:32:50 GMT</pubDate>
       <description><![CDATA[역동적이고 스타일리시한 캐릭터 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[제너럴리스트로 거듭나는 ComfyUI 올인원 활용백서]]></title>
-      <link>https://coloso-kr-blog.vercel.app/ai-kimjinsung4-comfyui-260714/</link>
-      <guid>https://coloso-kr-blog.vercel.app/ai-kimjinsung4-comfyui-260714/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:37:29 GMT</pubDate>
-      <description><![CDATA[제너럴리스트로 거듭나는 ComfyUI 올인원 활용백서 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
