@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[임팩트 넘치는 크리처 디자인을 위한 단계별 가이드]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-nickofebriansyah-characterdesign-260726/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-nickofebriansyah-characterdesign-260726/</guid>
+      <pubDate>Sun, 26 Jul 2026 05:45:19 GMT</pubDate>
+      <description><![CDATA[임팩트 넘치는 크리처 디자인을 위한 단계별 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[선화로 표현하는 감성적인 캐릭터 초상화]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-ericruz-lineart-260726/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ericruz-lineart-260726/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-kimsaba-blender-260716/</guid>
       <pubDate>Thu, 16 Jul 2026 08:37:38 GMT</pubDate>
       <description><![CDATA[버튜버의 세계를 여는 블렌더 3D 버츄얼 아바타 데뷔반 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[프론트엔드 엔지니어를 위한 문제 해결법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-live-react-260716/</guid>
-      <pubDate>Thu, 16 Jul 2026 05:45:17 GMT</pubDate>
-      <description><![CDATA[프론트엔드 엔지니어를 위한 문제 해결법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
