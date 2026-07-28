@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[무한한 커리어를 만드는 마케터의 기본기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-seohyeunjik-marketing-260728/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-seohyeunjik-marketing-260728/</guid>
+      <pubDate>Tue, 28 Jul 2026 02:32:44 GMT</pubDate>
+      <description><![CDATA[무한한 커리어를 만드는 마케터의 기본기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[인디 게임의 전설 'Skul'로 배우는 게임 제작의 모든 것]]></title>
       <link>https://coloso-kr-blog.vercel.app/insight-parksangwoo-skul-260727/</link>
       <guid>https://coloso-kr-blog.vercel.app/insight-parksangwoo-skul-260727/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/shortform-sugarlane-baking-260718/</guid>
       <pubDate>Sat, 18 Jul 2026 05:45:22 GMT</pubDate>
       <description><![CDATA[발렌타인&화이트데이를 위한 스페셜 케이크 Best 5 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[상승장과 하락장에서도 든든한 미국 주식 자산 배분법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/shortform-yiseokkeun-asset-allocation-260718/</link>
-      <guid>https://coloso-kr-blog.vercel.app/shortform-yiseokkeun-asset-allocation-260718/</guid>
-      <pubDate>Sat, 18 Jul 2026 02:32:57 GMT</pubDate>
-      <description><![CDATA[상승장과 하락장에서도 든든한 미국 주식 자산 배분법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
