@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[스타트업 성장판을 자극하는 조직관리의 비밀]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-leekidae-startup-260729/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-leekidae-startup-260729/</guid>
+      <pubDate>Wed, 29 Jul 2026 05:45:14 GMT</pubDate>
+      <description><![CDATA[스타트업 성장판을 자극하는 조직관리의 비밀 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[실제 대기업 광고주에게 선택받는 AI 광고 제작 올인원 프로젝트]]></title>
       <link>https://coloso-kr-blog.vercel.app/dictionary-freewillusion-aiadvertising-260729/</link>
       <guid>https://coloso-kr-blog.vercel.app/dictionary-freewillusion-aiadvertising-260729/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-1hyeonn-monochrome-260719/</guid>
       <pubDate>Sun, 19 Jul 2026 08:37:38 GMT</pubDate>
       <description><![CDATA[먹칠로 표현하는 다이나믹 흑백 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[시선이 머무르는 그림의 비밀, 빛의 연출과 레퍼런스 활용법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-sjoop-character-260719/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-sjoop-character-260719/</guid>
-      <pubDate>Sun, 19 Jul 2026 05:45:23 GMT</pubDate>
-      <description><![CDATA[시선이 머무르는 그림의 비밀, 빛의 연출과 레퍼런스 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
