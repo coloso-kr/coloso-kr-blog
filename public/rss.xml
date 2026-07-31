@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[LiDAR, 자율주행의 길을 만들다]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-leeyongyi-lidar-260730/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-leeyongyi-lidar-260730/</guid>
+      <pubDate>Thu, 30 Jul 2026 08:37:18 GMT</pubDate>
+      <description><![CDATA[LiDAR, 자율주행의 길을 만들다 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[J커브를 그리는 DevOps 엔지니어의 성장 DNA]]></title>
       <link>https://coloso-kr-blog.vercel.app/insight-songjuyoung-devops-260730/</link>
       <guid>https://coloso-kr-blog.vercel.app/insight-songjuyoung-devops-260730/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dblenderartist-flaviusstefeliga-blender-260721/</guid>
       <pubDate>Tue, 21 Jul 2026 02:32:46 GMT</pubDate>
       <description><![CDATA[블렌더로 만드는 신비로운 중세 연회장 배경 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[하드 서페이스 모델링이 돋보이는 사이버펑크 배경 제작]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3dartist-nikolaifletcher-blender-260720/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3dartist-nikolaifletcher-blender-260720/</guid>
-      <pubDate>Mon, 20 Jul 2026 08:37:12 GMT</pubDate>
-      <description><![CDATA[하드 서페이스 모델링이 돋보이는 사이버펑크 배경 제작 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
