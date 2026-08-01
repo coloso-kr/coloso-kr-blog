@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[평생 돈 걱정 없는 미래 설계 수업]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-kangchanghee-future-planning-260801/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-kangchanghee-future-planning-260801/</guid>
+      <pubDate>Sat, 01 Aug 2026 02:32:56 GMT</pubDate>
+      <description><![CDATA[평생 돈 걱정 없는 미래 설계 수업 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[헤어디자이너가 가져야 할 리더십의 조건]]></title>
       <link>https://coloso-kr-blog.vercel.app/insight-l3-career-260731/</link>
       <guid>https://coloso-kr-blog.vercel.app/insight-l3-career-260731/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/blender-jeremyseeman-loop-260722/</guid>
       <pubDate>Wed, 22 Jul 2026 05:45:52 GMT</pubDate>
       <description><![CDATA[Blender로 만드는 완벽한 루프 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[초보자를 위한 인체 해부학]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-gregorkari-illustration-260722/</guid>
-      <pubDate>Wed, 22 Jul 2026 02:32:55 GMT</pubDate>
-      <description><![CDATA[초보자를 위한 인체 해부학 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
