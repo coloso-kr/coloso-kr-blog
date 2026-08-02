@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[수익화까지 한 번에, 3D 버츄얼 아바타 제작 CLASS+]]></title>
+      <link>https://coloso-kr-blog.vercel.app/kimraming-class-virtual-avatar-modeling-tips-260802/</link>
+      <guid>https://coloso-kr-blog.vercel.app/kimraming-class-virtual-avatar-modeling-tips-260802/</guid>
+      <pubDate>Sun, 02 Aug 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[수익화까지 한 번에, 3D 버츄얼 아바타 제작 CLASS+ 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[평생 써먹는 대규모 일러스트 연출법, 포트레이트 제작 & 블렌더 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-dabaek2-blender-260801/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-dabaek2-blender-260801/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-jeongsangsoo-illustration-260723/</guid>
       <pubDate>Thu, 23 Jul 2026 05:45:22 GMT</pubDate>
       <description><![CDATA[빛과 그림자로 완성하는 반실사 페인팅 노하우의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[애니메이션 스타일의 배경 디자인]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-luc-review-260723/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-luc-review-260723/</guid>
-      <pubDate>Thu, 23 Jul 2026 02:32:58 GMT</pubDate>
-      <description><![CDATA[애니메이션 스타일의 배경 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
