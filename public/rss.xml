@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[프로처럼 작성하는 AAA급 실전 게임 기획서 3종 완성 프로세스]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gamedesigner-yuriring2-gameplanning-260802/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gamedesigner-yuriring2-gameplanning-260802/</guid>
+      <pubDate>Sun, 02 Aug 2026 08:37:20 GMT</pubDate>
+      <description><![CDATA[프로처럼 작성하는 AAA급 실전 게임 기획서 3종 완성 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[수익화까지 한 번에, 3D 버츄얼 아바타 제작 CLASS+]]></title>
       <link>https://coloso-kr-blog.vercel.app/kimraming-class-virtual-avatar-modeling-tips-260802/</link>
       <guid>https://coloso-kr-blog.vercel.app/kimraming-class-virtual-avatar-modeling-tips-260802/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-guillemdauden-review-260723/</guid>
       <pubDate>Thu, 23 Jul 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[역동적인 액션 장면 속 캐릭터&이펙트 드로잉 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[빛과 그림자로 완성하는 반실사 페인팅 노하우의 모든 것]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-jeongsangsoo-illustration-260723/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-jeongsangsoo-illustration-260723/</guid>
-      <pubDate>Thu, 23 Jul 2026 05:45:22 GMT</pubDate>
-      <description><![CDATA[빛과 그림자로 완성하는 반실사 페인팅 노하우의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
