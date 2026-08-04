@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[마케터로 살아남기 : 데이터 드리븐 마케팅의 모든 것]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-baikseunglok-marketing-260804/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-baikseunglok-marketing-260804/</guid>
+      <pubDate>Tue, 04 Aug 2026 05:45:24 GMT</pubDate>
+      <description><![CDATA[마케터로 살아남기 : 데이터 드리븐 마케팅의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[핫플레이스를 만드는 브랜드 디자인 입문 50강사전]]></title>
       <link>https://coloso-kr-blog.vercel.app/50lecture-roseshaker-branding-260804/</link>
       <guid>https://coloso-kr-blog.vercel.app/50lecture-roseshaker-branding-260804/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-kasa-deform-260725/</guid>
       <pubDate>Sat, 25 Jul 2026 05:45:17 GMT</pubDate>
       <description><![CDATA[데포르메 기초 완성! 캐릭터를 매력적으로 표현하는 비법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[디자이너를 위한 Adobe Illustrator 무한 응용 노하우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/graphicdesign-davidoku-illustrator-260725/</link>
-      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-davidoku-illustrator-260725/</guid>
-      <pubDate>Sat, 25 Jul 2026 02:33:08 GMT</pubDate>
-      <description><![CDATA[디자이너를 위한 Adobe Illustrator 무한 응용 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
