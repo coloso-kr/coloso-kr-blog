@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[탑클래스 펀드매니저의 투자 관점]]></title>
+      <link>https://coloso-kr-blog.vercel.app/insight-kimtaehong-review-260803/</link>
+      <guid>https://coloso-kr-blog.vercel.app/insight-kimtaehong-review-260803/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:37:24 GMT</pubDate>
+      <description><![CDATA[탑클래스 펀드매니저의 투자 관점 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[주식시장의 흐름을 읽는 눈 : 엘리어트 파동이론]]></title>
       <link>https://coloso-kr-blog.vercel.app/insight-kimjoongkeun-elliotwave-260803/</link>
       <guid>https://coloso-kr-blog.vercel.app/insight-kimjoongkeun-elliotwave-260803/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-yuriring-gameplanning-260724/</guid>
       <pubDate>Fri, 24 Jul 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[포트폴리오부터 면접까지 완벽하게, 게임 기획 취업 올인원 코스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[감각 이상의 기술로 의도한 분위기를 완성하는 웹툰 후보정 스킬]]></title>
-      <link>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</link>
-      <guid>https://coloso-kr-blog.vercel.app/webtoon-ikki-webtoon-260724/</guid>
-      <pubDate>Fri, 24 Jul 2026 05:45:27 GMT</pubDate>
-      <description><![CDATA[감각 이상의 기술로 의도한 분위기를 완성하는 웹툰 후보정 스킬 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
