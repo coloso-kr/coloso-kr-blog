@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[단기간에 완성도 있게 만드는 6가지 마카롱]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-kimdonghee-macaron-260805/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-kimdonghee-macaron-260805/</guid>
+      <pubDate>Wed, 05 Aug 2026 05:45:20 GMT</pubDate>
+      <description><![CDATA[단기간에 완성도 있게 만드는 6가지 마카롱 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[하루 생산량 2배, 돌로라로 배우는 대량생산 떡 창업반 50종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-choisieun-dolora-260805/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-choisieun-dolora-260805/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-nickofebriansyah-characterdesign-260726/</guid>
       <pubDate>Sun, 26 Jul 2026 05:45:19 GMT</pubDate>
       <description><![CDATA[임팩트 넘치는 크리처 디자인을 위한 단계별 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[선화로 표현하는 감성적인 캐릭터 초상화]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-ericruz-lineart-260726/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-ericruz-lineart-260726/</guid>
-      <pubDate>Sun, 26 Jul 2026 02:32:53 GMT</pubDate>
-      <description><![CDATA[선화로 표현하는 감성적인 캐릭터 초상화 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
