@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[브랜드 디자이너를 위한 한 끗이 다른 브랜디드 콘텐츠 제작법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/onboarding-socar-brandedcontents-socar-260806/</link>
+      <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-brandedcontents-socar-260806/</guid>
+      <pubDate>Thu, 06 Aug 2026 02:32:48 GMT</pubDate>
+      <description><![CDATA[브랜드 디자이너를 위한 한 끗이 다른 브랜디드 콘텐츠 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[입문자를 위한 포토샵 Training]]></title>
       <link>https://coloso-kr-blog.vercel.app/graphicdesign-photoshoptraining-photobasics-260805/</link>
       <guid>https://coloso-kr-blog.vercel.app/graphicdesign-photoshoptraining-photobasics-260805/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-lunydoobles-characterdesign-260727/</guid>
       <pubDate>Mon, 27 Jul 2026 02:32:56 GMT</pubDate>
       <description><![CDATA[매력적인 컨셉으로 완성하는 나만의 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[루프 애니메이션으로 표현하는 스토리텔링]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimator-mulanfu-animation-260726/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimator-mulanfu-animation-260726/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:37:16 GMT</pubDate>
-      <description><![CDATA[루프 애니메이션으로 표현하는 스토리텔링 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
