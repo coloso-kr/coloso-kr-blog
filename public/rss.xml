@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[브랜드와 비주얼 아이덴티티가 돋보이는 디자인 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/onboarding-socar-bi-brandidentity-260807/</link>
+      <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-bi-brandidentity-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 02:32:54 GMT</pubDate>
+      <description><![CDATA[브랜드와 비주얼 아이덴티티가 돋보이는 디자인 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[남캐&여캐를 한 번에 정복하는 매력 폭발 실전 일러스트 독학법]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-uoongpig-illustration-260806/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-uoongpig-illustration-260806/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-seohyeunjik-marketing-260728/</guid>
       <pubDate>Tue, 28 Jul 2026 02:32:44 GMT</pubDate>
       <description><![CDATA[무한한 커리어를 만드는 마케터의 기본기 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[인디 게임의 전설 'Skul'로 배우는 게임 제작의 모든 것]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-parksangwoo-skul-260727/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-parksangwoo-skul-260727/</guid>
-      <pubDate>Mon, 27 Jul 2026 08:37:14 GMT</pubDate>
-      <description><![CDATA[인디 게임의 전설 'Skul'로 배우는 게임 제작의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
