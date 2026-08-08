@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[쏘카의 실제 브랜딩 캠페인 사례로 배우는 BX 디자인]]></title>
+      <link>https://coloso-kr-blog.vercel.app/onboarding-socar-bx-socar-260807/</link>
+      <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-bx-socar-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[쏘카의 실제 브랜딩 캠페인 사례로 배우는 BX 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기업 브랜딩 강화를 위한 브랜드 디자인 프로젝트]]></title>
       <link>https://coloso-kr-blog.vercel.app/onboarding-socar-corpbranding-branding-260807/</link>
       <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-corpbranding-branding-260807/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-honghyewon-kfood-260728/</guid>
       <pubDate>Tue, 28 Jul 2026 08:37:23 GMT</pubDate>
       <description><![CDATA[대한민국 한식대가에게 배우는, 원형의 맛 가득한 하이엔드 한식 디저트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2030 텅장증후군을 고쳐줄 자산관리 처방전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-kimhyunwoo-finance-260728/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-kimhyunwoo-finance-260728/</guid>
-      <pubDate>Tue, 28 Jul 2026 05:45:22 GMT</pubDate>
-      <description><![CDATA[2030 텅장증후군을 고쳐줄 자산관리 처방전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
