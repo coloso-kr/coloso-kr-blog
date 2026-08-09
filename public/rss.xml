@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[무료 툴로 끝내는 서브컬처풍 3D 버추얼 아바타 모델링 입문]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</guid>
+      <pubDate>Sat, 08 Aug 2026 08:37:22 GMT</pubDate>
+      <description><![CDATA[무료 툴로 끝내는 서브컬처풍 3D 버추얼 아바타 모델링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[모델링부터 셋업까지 배우는 버튜버용 3D 모델 제작]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-fusako-virtuber-260808/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-fusako-virtuber-260808/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-kimhyungrok-vfx-260729/</guid>
       <pubDate>Wed, 29 Jul 2026 08:37:16 GMT</pubDate>
       <description><![CDATA[VFX 슈퍼바이저가 알려주는 CG/VFX 트렌드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[스타트업 성장판을 자극하는 조직관리의 비밀]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-leekidae-startup-260729/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-leekidae-startup-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[스타트업 성장판을 자극하는 조직관리의 비밀 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
