@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[그래픽 디자이너를 위한 블렌더 3D 활용법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-jungseyoon-blender-260809/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-jungseyoon-blender-260809/</guid>
+      <pubDate>Sun, 09 Aug 2026 02:32:56 GMT</pubDate>
+      <description><![CDATA[그래픽 디자이너를 위한 블렌더 3D 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[무료 툴로 끝내는 서브컬처풍 3D 버추얼 아바타 모델링 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-kimkyeongjun-leadership-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 02:32:55 GMT</pubDate>
       <description><![CDATA[군주론 : 디지털 시대, 리더의 격 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[VFX 슈퍼바이저가 알려주는 CG/VFX 트렌드]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-kimhyungrok-vfx-260729/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-kimhyungrok-vfx-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 08:37:16 GMT</pubDate>
-      <description><![CDATA[VFX 슈퍼바이저가 알려주는 CG/VFX 트렌드 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
