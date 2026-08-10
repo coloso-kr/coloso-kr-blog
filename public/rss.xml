@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[어도비 필수 툴 5종으로 익히는 디자인&영상 핵심 올인원 101강]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-rollstory-adobe-260809/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-rollstory-adobe-260809/</guid>
+      <pubDate>Sun, 09 Aug 2026 08:37:37 GMT</pubDate>
+      <description><![CDATA[어도비 필수 툴 5종으로 익히는 디자인&영상 핵심 올인원 101강 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[80개 예제로 끝내는 미드저니&스테이블 디퓨전 올인원 활용법]]></title>
       <link>https://coloso-kr-blog.vercel.app/ai-kimjungsu-ai-260809/</link>
       <guid>https://coloso-kr-blog.vercel.app/ai-kimjungsu-ai-260809/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-leeyongyi-lidar-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 08:37:18 GMT</pubDate>
       <description><![CDATA[LiDAR, 자율주행의 길을 만들다 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[J커브를 그리는 DevOps 엔지니어의 성장 DNA]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-songjuyoung-devops-260730/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-songjuyoung-devops-260730/</guid>
-      <pubDate>Thu, 30 Jul 2026 05:45:18 GMT</pubDate>
-      <description><![CDATA[J커브를 그리는 DevOps 엔지니어의 성장 DNA 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
