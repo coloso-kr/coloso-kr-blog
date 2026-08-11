@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[2D부터 3D까지 확장되는 카툰풍 FX 실무 종합 워크플로우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gamegraphic-hahunyoung-spine-260810/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-hahunyoung-spine-260810/</guid>
+      <pubDate>Mon, 10 Aug 2026 08:37:46 GMT</pubDate>
+      <description><![CDATA[2D부터 3D까지 확장되는 카툰풍 FX 실무 종합 워크플로우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[확실한 성장을 위한 라움의 드로잉&채색 마스터 클래스]]></title>
       <link>https://coloso-kr-blog.vercel.app/academy-raum-drawing-260810/</link>
       <guid>https://coloso-kr-blog.vercel.app/academy-raum-drawing-260810/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/insight-l3-career-260731/</guid>
       <pubDate>Fri, 31 Jul 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[헤어디자이너가 가져야 할 리더십의 조건 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[시대가 바뀔수록 더 강력해지는 마케팅 불변의 법칙]]></title>
-      <link>https://coloso-kr-blog.vercel.app/insight-choimyoungwha-marketing-260731/</link>
-      <guid>https://coloso-kr-blog.vercel.app/insight-choimyoungwha-marketing-260731/</guid>
-      <pubDate>Fri, 31 Jul 2026 05:45:10 GMT</pubDate>
-      <description><![CDATA[시대가 바뀔수록 더 강력해지는 마케팅 불변의 법칙 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
