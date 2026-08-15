@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</guid>
+      <pubDate>Sat, 15 Aug 2026 05:45:21 GMT</pubDate>
+      <description><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[제 2의 월급 만들기, 왕초보도 월 500을 버는 AI 쇼츠]]></title>
       <link>https://coloso-kr-blog.vercel.app/ai-onlinemoney-ai-260815/</link>
       <guid>https://coloso-kr-blog.vercel.app/ai-onlinemoney-ai-260815/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/graphicdesign-photoshoptraining-photobasics-260805/</guid>
       <pubDate>Wed, 05 Aug 2026 08:37:12 GMT</pubDate>
       <description><![CDATA[입문자를 위한 포토샵 Training 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[단기간에 완성도 있게 만드는 6가지 마카롱]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-kimdonghee-macaron-260805/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-kimdonghee-macaron-260805/</guid>
-      <pubDate>Wed, 05 Aug 2026 05:45:20 GMT</pubDate>
-      <description><![CDATA[단기간에 완성도 있게 만드는 6가지 마카롱 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
