@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터 특징 분석을 통한 매력적인 피규어 제작 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/figurecreator-takatori-review-260815/</link>
+      <guid>https://coloso-kr-blog.vercel.app/figurecreator-takatori-review-260815/</guid>
+      <pubDate>Sat, 15 Aug 2026 08:37:23 GMT</pubDate>
+      <description><![CDATA[캐릭터 특징 분석을 통한 매력적인 피규어 제작 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-brandedcontents-socar-260806/</guid>
       <pubDate>Thu, 06 Aug 2026 02:32:48 GMT</pubDate>
       <description><![CDATA[브랜드 디자이너를 위한 한 끗이 다른 브랜디드 콘텐츠 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[입문자를 위한 포토샵 Training]]></title>
-      <link>https://coloso-kr-blog.vercel.app/graphicdesign-photoshoptraining-photobasics-260805/</link>
-      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-photoshoptraining-photobasics-260805/</guid>
-      <pubDate>Wed, 05 Aug 2026 08:37:12 GMT</pubDate>
-      <description><![CDATA[입문자를 위한 포토샵 Training 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
