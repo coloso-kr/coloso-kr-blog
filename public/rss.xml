@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[언리얼 셋업으로 완성하는 AI 기반 미형 캐릭터 모델링]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-yanggang-unrealengine-260817/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-yanggang-unrealengine-260817/</guid>
+      <pubDate>Mon, 17 Aug 2026 05:45:35 GMT</pubDate>
+      <description><![CDATA[언리얼 셋업으로 완성하는 AI 기반 미형 캐릭터 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[장삐쭈 스튜디오 윤성원에게 배우는 MOHO 애니메이션 액팅 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/2danimation-yoonsungwon-moho-260817/</link>
       <guid>https://coloso-kr-blog.vercel.app/2danimation-yoonsungwon-moho-260817/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-bx-socar-260807/</guid>
       <pubDate>Fri, 07 Aug 2026 08:37:17 GMT</pubDate>
       <description><![CDATA[쏘카의 실제 브랜딩 캠페인 사례로 배우는 BX 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기업 브랜딩 강화를 위한 브랜드 디자인 프로젝트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/onboarding-socar-corpbranding-branding-260807/</link>
-      <guid>https://coloso-kr-blog.vercel.app/onboarding-socar-corpbranding-branding-260807/</guid>
-      <pubDate>Fri, 07 Aug 2026 05:45:19 GMT</pubDate>
-      <description><![CDATA[기업 브랜딩 강화를 위한 브랜드 디자인 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
