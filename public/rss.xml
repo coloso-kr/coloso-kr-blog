@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[입체감 있는 캐주얼 캐릭터 일러스트를 위한 블렌더 활용법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-rsef-blender-260818/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-rsef-blender-260818/</guid>
+      <pubDate>Tue, 18 Aug 2026 02:33:55 GMT</pubDate>
+      <description><![CDATA[입체감 있는 캐주얼 캐릭터 일러스트를 위한 블렌더 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[도형으로 시작해 매혹적인 캐릭터 일러스트 완성까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-nekojira-illustration-260817/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-nekojira-illustration-260817/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-fusako-virtuber-260808/</guid>
       <pubDate>Sat, 08 Aug 2026 05:45:17 GMT</pubDate>
       <description><![CDATA[모델링부터 셋업까지 배우는 버튜버용 3D 모델 제작 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[디지털 드로잉을 위한 포토샵 완전 정복 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustratorclass-photoshopclass-photoshop-260808/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustratorclass-photoshopclass-photoshop-260808/</guid>
-      <pubDate>Sat, 08 Aug 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[디지털 드로잉을 위한 포토샵 완전 정복 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
