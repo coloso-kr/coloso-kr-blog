@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[최신 기능을 모두 담은 실전 피그마 올인원 사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-figmatutornew-figma-260819/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-figmatutornew-figma-260819/</guid>
+      <pubDate>Wed, 19 Aug 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[최신 기능을 모두 담은 실전 피그마 올인원 사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전]]></title>
       <link>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</link>
       <guid>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-rollstory-adobe-260809/</guid>
       <pubDate>Sun, 09 Aug 2026 08:37:37 GMT</pubDate>
       <description><![CDATA[어도비 필수 툴 5종으로 익히는 디자인&영상 핵심 올인원 101강 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[80개 예제로 끝내는 미드저니&스테이블 디퓨전 올인원 활용법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/ai-kimjungsu-ai-260809/</link>
-      <guid>https://coloso-kr-blog.vercel.app/ai-kimjungsu-ai-260809/</guid>
-      <pubDate>Sun, 09 Aug 2026 05:45:23 GMT</pubDate>
-      <description><![CDATA[80개 예제로 끝내는 미드저니&스테이블 디퓨전 올인원 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
