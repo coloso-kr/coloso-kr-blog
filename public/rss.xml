@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[한 방에 끝내는 프리미어/애펙 영상편집 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</guid>
+      <pubDate>Tue, 18 Aug 2026 08:37:18 GMT</pubDate>
+      <description><![CDATA[한 방에 끝내는 프리미어/애펙 영상편집 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2분에 16개를 찍는 무한생산 쌀디저트, 라베또의 50종 창업 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-leeeunha-ricebaking-260818/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-leeeunha-ricebaking-260818/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/graphicdesign-jungseyoon-blender-260809/</guid>
       <pubDate>Sun, 09 Aug 2026 02:32:56 GMT</pubDate>
       <description><![CDATA[그래픽 디자이너를 위한 블렌더 3D 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[무료 툴로 끝내는 서브컬처풍 3D 버추얼 아바타 모델링 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimnampyeong-blender-260808/</guid>
-      <pubDate>Sat, 08 Aug 2026 08:37:22 GMT</pubDate>
-      <description><![CDATA[무료 툴로 끝내는 서브컬처풍 3D 버추얼 아바타 모델링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
