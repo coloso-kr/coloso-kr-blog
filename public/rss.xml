@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</guid>
+      <pubDate>Wed, 19 Aug 2026 02:33:06 GMT</pubDate>
+      <description><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[한 방에 끝내는 프리미어/애펙 영상편집 100강사전]]></title>
       <link>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</link>
       <guid>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/ai-kimjungsu-ai-260809/</guid>
       <pubDate>Sun, 09 Aug 2026 05:45:23 GMT</pubDate>
       <description><![CDATA[80개 예제로 끝내는 미드저니&스테이블 디퓨전 올인원 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[그래픽 디자이너를 위한 블렌더 3D 활용법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/graphicdesign-jungseyoon-blender-260809/</link>
-      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-jungseyoon-blender-260809/</guid>
-      <pubDate>Sun, 09 Aug 2026 02:32:56 GMT</pubDate>
-      <description><![CDATA[그래픽 디자이너를 위한 블렌더 3D 활용법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
