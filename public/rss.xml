@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[아트 감각이 돋보이는 Zbrush 툰 스타일 캐릭터 모델링]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-kangseihoon-zbrush-260820/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-kangseihoon-zbrush-260820/</guid>
+      <pubDate>Thu, 20 Aug 2026 02:32:53 GMT</pubDate>
+      <description><![CDATA[아트 감각이 돋보이는 Zbrush 툰 스타일 캐릭터 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기획부터 연출까지, UE로 완성하는 재패니메이션풍 3D 이펙트]]></title>
       <link>https://coloso-kr-blog.vercel.app/gamegraphic-kimseunghyun-unreal-260819/</link>
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-kimseunghyun-unreal-260819/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/academy-raum-drawing-260810/</guid>
       <pubDate>Mon, 10 Aug 2026 05:45:19 GMT</pubDate>
       <description><![CDATA[확실한 성장을 위한 라움의 드로잉&채색 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part. 01] 첫 허들을 뛰어넘는 입문 필수 그림 기본기 스터디]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-kunmang-illustration-260810/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-kunmang-illustration-260810/</guid>
-      <pubDate>Mon, 10 Aug 2026 02:33:01 GMT</pubDate>
-      <description><![CDATA[[Part. 01] 첫 허들을 뛰어넘는 입문 필수 그림 기본기 스터디 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
