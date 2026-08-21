@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</link>
+      <guid>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</guid>
+      <pubDate>Fri, 21 Aug 2026 05:45:14 GMT</pubDate>
+      <description><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[어떤 얼굴도 자연스럽게, 두상부터 배우는 얼굴 드로잉 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-hide2-face-260821/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-hide2-face-260821/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-shimseoyeon-baking-260811/</guid>
       <pubDate>Tue, 11 Aug 2026 08:37:18 GMT</pubDate>
       <description><![CDATA[택배와 매장 모두 완판되는 베이킷 구움과자&케이크 30종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[흥행 보장, 1.3억뷰 작가의 선명하게 각인되는 각색&콘티 실무 프로세스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/webtoon-chokam-webtoon-260811/</link>
-      <guid>https://coloso-kr-blog.vercel.app/webtoon-chokam-webtoon-260811/</guid>
-      <pubDate>Tue, 11 Aug 2026 05:45:30 GMT</pubDate>
-      <description><![CDATA[흥행 보장, 1.3억뷰 작가의 선명하게 각인되는 각색&콘티 실무 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
