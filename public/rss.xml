@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[[Part. 01] 블렌더 노드의 정석, 4단계로 마스터 하는 핵심 스킬셋]]></title>
+      <link>https://coloso-kr-blog.vercel.app/signature-anna-blender-260822/</link>
+      <guid>https://coloso-kr-blog.vercel.app/signature-anna-blender-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 05:45:23 GMT</pubDate>
+      <description><![CDATA[[Part. 01] 블렌더 노드의 정석, 4단계로 마스터 하는 핵심 스킬셋 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[한 장의 그림으로 완성하는 스토리텔링]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimation-bskim-animation-260812/</guid>
       <pubDate>Wed, 12 Aug 2026 08:37:16 GMT</pubDate>
       <description><![CDATA[메이저 애니메이션 진출을 위한 액션 포트폴리오 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[국내외 영화계를 뒤흔든 권한슬 감독의 AI 필름 메이킹]]></title>
-      <link>https://coloso-kr-blog.vercel.app/filmdirector-kwonhansl-ai-film-making-260812/</link>
-      <guid>https://coloso-kr-blog.vercel.app/filmdirector-kwonhansl-ai-film-making-260812/</guid>
-      <pubDate>Wed, 12 Aug 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[국내외 영화계를 뒤흔든 권한슬 감독의 AI 필름 메이킹 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
