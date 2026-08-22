@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[한 장의 그림으로 완성하는 스토리텔링]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:33:56 GMT</pubDate>
+      <description><![CDATA[한 장의 그림으로 완성하는 스토리텔링 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[투명하고 반짝거리는 나만의 2D 남캐 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-gugong-illustration-260821/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gugong-illustration-260821/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/filmdirector-kwonhansl-ai-film-making-260812/</guid>
       <pubDate>Wed, 12 Aug 2026 05:45:14 GMT</pubDate>
       <description><![CDATA[국내외 영화계를 뒤흔든 권한슬 감독의 AI 필름 메이킹 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[내 그림으로 수익 실현까지, 프로 데뷔를 위한 외주&포폴 가이드]]></title>
-      <link>https://coloso-kr-blog.vercel.app/conceptartist-soyoong2-illustration-260812/</link>
-      <guid>https://coloso-kr-blog.vercel.app/conceptartist-soyoong2-illustration-260812/</guid>
-      <pubDate>Wed, 12 Aug 2026 02:32:49 GMT</pubDate>
-      <description><![CDATA[내 그림으로 수익 실현까지, 프로 데뷔를 위한 외주&포폴 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
