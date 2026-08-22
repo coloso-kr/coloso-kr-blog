@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[투명하고 반짝거리는 나만의 2D 남캐 일러스트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-gugong-illustration-260821/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-gugong-illustration-260821/</guid>
+      <pubDate>Fri, 21 Aug 2026 08:37:19 GMT</pubDate>
+      <description><![CDATA[투명하고 반짝거리는 나만의 2D 남캐 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-soyoong2-illustration-260812/</guid>
       <pubDate>Wed, 12 Aug 2026 02:32:49 GMT</pubDate>
       <description><![CDATA[내 그림으로 수익 실현까지, 프로 데뷔를 위한 외주&포폴 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[택배와 매장 모두 완판되는 베이킷 구움과자&케이크 30종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-shimseoyeon-baking-260811/</link>
-      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-shimseoyeon-baking-260811/</guid>
-      <pubDate>Tue, 11 Aug 2026 08:37:18 GMT</pubDate>
-      <description><![CDATA[택배와 매장 모두 완판되는 베이킷 구움과자&케이크 30종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
