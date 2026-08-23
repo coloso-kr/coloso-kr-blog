@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[포토샵과 Live2D로 완성하는 몽글몽글한 버튜버 디자인]]></title>
+      <link>https://coloso-kr-blog.vercel.app/live2dartist-kiru-live2d-260822/</link>
+      <guid>https://coloso-kr-blog.vercel.app/live2dartist-kiru-live2d-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 08:37:27 GMT</pubDate>
+      <description><![CDATA[포토샵과 Live2D로 완성하는 몽글몽글한 버튜버 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 01] 블렌더 노드의 정석, 4단계로 마스터 하는 핵심 스킬셋]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-anna-blender-260822/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-anna-blender-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ttosom-illustration-260813/</guid>
       <pubDate>Thu, 13 Aug 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[미완성 탈출, 채색의 기준점을 잡는 독학 고민 해결책 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[메이저 애니메이션 진출을 위한 액션 포트폴리오 완성]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimation-bskim-animation-260812/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimation-bskim-animation-260812/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:37:16 GMT</pubDate>
-      <description><![CDATA[메이저 애니메이션 진출을 위한 액션 포트폴리오 완성 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
