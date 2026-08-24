@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</guid>
+      <pubDate>Mon, 24 Aug 2026 05:45:23 GMT</pubDate>
+      <description><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[글로벌 수익화를 이끄는 Live2D 리깅 & 애니메이션 제작법]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-meter-live2d-260824/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-meter-live2d-260824/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-byeongyukang-ciabatta-260814/</guid>
       <pubDate>Fri, 14 Aug 2026 08:37:18 GMT</pubDate>
       <description><![CDATA[치아바타 하나로 샌드위치까지, 츄이구이브레드의 실전 치아바타 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[실제 브랜딩 프로젝트로 익히는 방법론과 감각적인 디자인]]></title>
-      <link>https://coloso-kr-blog.vercel.app/project-phillipkim2-branding-260814/</link>
-      <guid>https://coloso-kr-blog.vercel.app/project-phillipkim2-branding-260814/</guid>
-      <pubDate>Fri, 14 Aug 2026 05:45:18 GMT</pubDate>
-      <description><![CDATA[실제 브랜딩 프로젝트로 익히는 방법론과 감각적인 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
