@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</link>
+      <guid>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</guid>
+      <pubDate>Mon, 24 Aug 2026 08:37:19 GMT</pubDate>
+      <description><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출]]></title>
       <link>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</link>
       <guid>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/ai-onlinemoney-ai-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 02:32:46 GMT</pubDate>
       <description><![CDATA[제 2의 월급 만들기, 왕초보도 월 500을 버는 AI 쇼츠 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[치아바타 하나로 샌드위치까지, 츄이구이브레드의 실전 치아바타 클래스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-byeongyukang-ciabatta-260814/</link>
-      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-byeongyukang-ciabatta-260814/</guid>
-      <pubDate>Fri, 14 Aug 2026 08:37:18 GMT</pubDate>
-      <description><![CDATA[치아바타 하나로 샌드위치까지, 츄이구이브레드의 실전 치아바타 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
