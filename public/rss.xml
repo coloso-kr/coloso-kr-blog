@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[전투와 파쿠르, 사족 보행 동작까지 신체 역학 완전 정복]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</guid>
+      <pubDate>Tue, 25 Aug 2026 05:45:18 GMT</pubDate>
+      <description><![CDATA[전투와 파쿠르, 사족 보행 동작까지 신체 역학 완전 정복 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[압도적 사실감과 디테일이 살아있는 블렌더 3D 아트워크의 시작]]></title>
       <link>https://coloso-kr-blog.vercel.app/3dartist-minstin-blender-260825/</link>
       <guid>https://coloso-kr-blog.vercel.app/3dartist-minstin-blender-260825/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/figurecreator-takatori-review-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 08:37:23 GMT</pubDate>
       <description><![CDATA[캐릭터 특징 분석을 통한 매력적인 피규어 제작 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 05:45:21 GMT</pubDate>
-      <description><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
