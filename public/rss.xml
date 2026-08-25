@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[압도적 사실감과 디테일이 살아있는 블렌더 3D 아트워크의 시작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dartist-minstin-blender-260825/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dartist-minstin-blender-260825/</guid>
+      <pubDate>Tue, 25 Aug 2026 02:32:53 GMT</pubDate>
+      <description><![CDATA[압도적 사실감과 디테일이 살아있는 블렌더 3D 아트워크의 시작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우]]></title>
       <link>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</link>
       <guid>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-rinotuna-illustration-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 05:45:21 GMT</pubDate>
       <description><![CDATA[캐릭터 창작을 위한 아이디어 발상과 표현법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[제 2의 월급 만들기, 왕초보도 월 500을 버는 AI 쇼츠]]></title>
-      <link>https://coloso-kr-blog.vercel.app/ai-onlinemoney-ai-260815/</link>
-      <guid>https://coloso-kr-blog.vercel.app/ai-onlinemoney-ai-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 02:32:46 GMT</pubDate>
-      <description><![CDATA[제 2의 월급 만들기, 왕초보도 월 500을 버는 AI 쇼츠 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
