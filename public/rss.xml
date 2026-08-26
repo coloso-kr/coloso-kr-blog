@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더로 완성하는 생동감 넘치는 일러스트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-gyoukan-blender-260825/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-gyoukan-blender-260825/</guid>
+      <pubDate>Tue, 25 Aug 2026 08:37:58 GMT</pubDate>
+      <description><![CDATA[블렌더로 완성하는 생동감 넘치는 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[전투와 파쿠르, 사족 보행 동작까지 신체 역학 완전 정복]]></title>
       <link>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</link>
       <guid>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-m1z-illustration-260816/</guid>
       <pubDate>Sun, 16 Aug 2026 02:32:48 GMT</pubDate>
       <description><![CDATA[과감한 투시와 정교한 손맛으로 완성하는 풀배경 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[캐릭터 특징 분석을 통한 매력적인 피규어 제작 노하우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/figurecreator-takatori-review-260815/</link>
-      <guid>https://coloso-kr-blog.vercel.app/figurecreator-takatori-review-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 08:37:23 GMT</pubDate>
-      <description><![CDATA[캐릭터 특징 분석을 통한 매력적인 피규어 제작 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
