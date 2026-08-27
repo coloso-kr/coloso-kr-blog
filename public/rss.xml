@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[감동적인 스토리텔링과 페이셜 애니메이션 마스터]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy-animation-260827/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy-animation-260827/</guid>
+      <pubDate>Thu, 27 Aug 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[감동적인 스토리텔링과 페이셜 애니메이션 마스터 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[내 그림에 상업적 완성도를 더하는 법, 프로 일러스트 외주 지침서]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-ak-illustration-260827/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ak-illustration-260827/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-nekojira-illustration-260817/</guid>
       <pubDate>Mon, 17 Aug 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[도형으로 시작해 매혹적인 캐릭터 일러스트 완성까지 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[언리얼 셋업으로 완성하는 AI 기반 미형 캐릭터 모델링]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-yanggang-unrealengine-260817/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-yanggang-unrealengine-260817/</guid>
-      <pubDate>Mon, 17 Aug 2026 05:45:35 GMT</pubDate>
-      <description><![CDATA[언리얼 셋업으로 완성하는 AI 기반 미형 캐릭터 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
