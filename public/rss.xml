@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[아이디어를 수익화 서비스로 실현하는 실전 SaaS 개발 프로젝트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programmer-devbrother3-review-260828/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programmer-devbrother3-review-260828/</guid>
+      <pubDate>Fri, 28 Aug 2026 08:37:29 GMT</pubDate>
+      <description><![CDATA[아이디어를 수익화 서비스로 실현하는 실전 SaaS 개발 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[독자들의 마음을 사로잡는 화려한 작화와 웹툰 연출 노하우]]></title>
       <link>https://coloso-kr-blog.vercel.app/webtoon-limlina-webtoon-260828/</link>
       <guid>https://coloso-kr-blog.vercel.app/webtoon-limlina-webtoon-260828/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</guid>
       <pubDate>Wed, 19 Aug 2026 02:33:06 GMT</pubDate>
       <description><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한 방에 끝내는 프리미어/애펙 영상편집 100강사전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</link>
-      <guid>https://coloso-kr-blog.vercel.app/100lecture-jovely-video-260818/</guid>
-      <pubDate>Tue, 18 Aug 2026 08:37:18 GMT</pubDate>
-      <description><![CDATA[한 방에 끝내는 프리미어/애펙 영상편집 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
