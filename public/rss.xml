@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[모양도 맛도 작물 그대로, 서화백당 작물과자 & 과일과자 30종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-parkgeumhwa-wagashi-260829/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-parkgeumhwa-wagashi-260829/</guid>
+      <pubDate>Sat, 29 Aug 2026 02:32:50 GMT</pubDate>
+      <description><![CDATA[모양도 맛도 작물 그대로, 서화백당 작물과자 & 과일과자 30종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[아이디어를 수익화 서비스로 실현하는 실전 SaaS 개발 프로젝트]]></title>
       <link>https://coloso-kr-blog.vercel.app/programmer-devbrother3-review-260828/</link>
       <guid>https://coloso-kr-blog.vercel.app/programmer-devbrother3-review-260828/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-figmatutornew-figma-260819/</guid>
       <pubDate>Wed, 19 Aug 2026 05:45:15 GMT</pubDate>
       <description><![CDATA[최신 기능을 모두 담은 실전 피그마 올인원 사전 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</link>
-      <guid>https://coloso-kr-blog.vercel.app/100lecture-blender-blender-260819/</guid>
-      <pubDate>Wed, 19 Aug 2026 02:33:06 GMT</pubDate>
-      <description><![CDATA[기초부터 3D 애니메이션까지, 블렌더 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
