@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[강력한 액션 씬을 연출하는 애니메이션 기초부터 실무 완성]]></title>
+      <link>https://coloso-kr-blog.vercel.app/2danimation-proro-animation-260829/</link>
+      <guid>https://coloso-kr-blog.vercel.app/2danimation-proro-animation-260829/</guid>
+      <pubDate>Sat, 29 Aug 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[강력한 액션 씬을 연출하는 애니메이션 기초부터 실무 완성 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[C4D 모션 감각 트레이닝: 기초부터 마스터까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-kangwoosung-cinema4d-260829/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kangwoosung-cinema4d-260829/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-kangseihoon-zbrush-260820/</guid>
       <pubDate>Thu, 20 Aug 2026 02:32:53 GMT</pubDate>
       <description><![CDATA[아트 감각이 돋보이는 Zbrush 툰 스타일 캐릭터 모델링 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기획부터 연출까지, UE로 완성하는 재패니메이션풍 3D 이펙트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gamegraphic-kimseunghyun-unreal-260819/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-kimseunghyun-unreal-260819/</guid>
-      <pubDate>Wed, 19 Aug 2026 08:37:21 GMT</pubDate>
-      <description><![CDATA[기획부터 연출까지, UE로 완성하는 재패니메이션풍 3D 이펙트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
