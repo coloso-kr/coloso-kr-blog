@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[소설부터 시나리오까지 따라만 하면 완성되는 스토리 창작의 비밀]]></title>
+      <link>https://coloso-kr-blog.vercel.app/novel-leesungmin-storytelling-260831/</link>
+      <guid>https://coloso-kr-blog.vercel.app/novel-leesungmin-storytelling-260831/</guid>
+      <pubDate>Mon, 31 Aug 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[소설부터 시나리오까지 따라만 하면 완성되는 스토리 창작의 비밀 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작]]></title>
       <link>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</link>
       <guid>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gugong-illustration-260821/</guid>
       <pubDate>Fri, 21 Aug 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[투명하고 반짝거리는 나만의 2D 남캐 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</guid>
-      <pubDate>Fri, 21 Aug 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
