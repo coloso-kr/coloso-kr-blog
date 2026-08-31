@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</guid>
+      <pubDate>Mon, 31 Aug 2026 02:32:53 GMT</pubDate>
+      <description><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[라이노&키샷 기초부터 실무 아이데이션, 포트폴리오, 목업까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</link>
       <guid>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-leesangwook-unrealengine-260821/</guid>
       <pubDate>Fri, 21 Aug 2026 05:45:14 GMT</pubDate>
       <description><![CDATA[[Part. 01] AAA급 3D 배경 그래픽을 위한 UE5 에셋 제작 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[어떤 얼굴도 자연스럽게, 두상부터 배우는 얼굴 드로잉 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-hide2-face-260821/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-hide2-face-260821/</guid>
-      <pubDate>Fri, 21 Aug 2026 02:32:51 GMT</pubDate>
-      <description><![CDATA[어떤 얼굴도 자연스럽게, 두상부터 배우는 얼굴 드로잉 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
