@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[라이노&키샷 기초부터 실무 아이데이션, 포트폴리오, 목업까지]]></title>
+      <link>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</link>
+      <guid>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</guid>
+      <pubDate>Sun, 30 Aug 2026 08:37:14 GMT</pubDate>
+      <description><![CDATA[라이노&키샷 기초부터 실무 아이데이션, 포트폴리오, 목업까지 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[미드저니와 ComfyUI로 제작하는 트렌디한 3D 비주얼 아트워크]]></title>
       <link>https://coloso-kr-blog.vercel.app/3dartist-parkxohee-ai-260830/</link>
       <guid>https://coloso-kr-blog.vercel.app/3dartist-parkxohee-ai-260830/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-hide2-face-260821/</guid>
       <pubDate>Fri, 21 Aug 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[어떤 얼굴도 자연스럽게, 두상부터 배우는 얼굴 드로잉 입문 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[매출 보장 라인업, 소금빵&베이글&모찌빵 28종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-jeongseonmi-baking-260820/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-jeongseonmi-baking-260820/</guid>
-      <pubDate>Thu, 20 Aug 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[매출 보장 라인업, 소금빵&베이글&모찌빵 28종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
