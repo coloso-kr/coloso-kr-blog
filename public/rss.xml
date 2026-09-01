@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[빛으로 연출하는 고퀄리티 게임 시네마틱, UE5 라이팅 실무 가이드]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gamegraphic-leeyeonjung-unrealengine-260901/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-leeyeonjung-unrealengine-260901/</guid>
+      <pubDate>Tue, 01 Sep 2026 02:33:01 GMT</pubDate>
+      <description><![CDATA[빛으로 연출하는 고퀄리티 게임 시네마틱, UE5 라이팅 실무 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[버츄얼 프로덕션 씬 1티어 소다퐁 감독의 UE 뮤직비디오 연출&제작 프로세스]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-sodapong-virtual-260831/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-sodapong-virtual-260831/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-anna-blender-260822/</guid>
       <pubDate>Sat, 22 Aug 2026 05:45:23 GMT</pubDate>
       <description><![CDATA[[Part. 01] 블렌더 노드의 정석, 4단계로 마스터 하는 핵심 스킬셋 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한 장의 그림으로 완성하는 스토리텔링]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-c-review-260822/</guid>
-      <pubDate>Sat, 22 Aug 2026 02:33:56 GMT</pubDate>
-      <description><![CDATA[한 장의 그림으로 완성하는 스토리텔링 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
