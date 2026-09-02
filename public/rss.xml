@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[따라 하며 쉽게 배우는 고퀄리티 Live2D 드로잉 & 고가동 리깅]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</guid>
+      <pubDate>Wed, 02 Sep 2026 05:45:35 GMT</pubDate>
+      <description><![CDATA[따라 하며 쉽게 배우는 고퀄리티 Live2D 드로잉 & 고가동 리깅 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[모작을 넘어 창작으로, 오리지널 세계관을 담은 캐릭터 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-kiri-review-260902/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-kiri-review-260902/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ikki-blender-260823/</guid>
       <pubDate>Sun, 23 Aug 2026 08:37:27 GMT</pubDate>
       <description><![CDATA[캐릭터와 배경 고민을 끝내 줄 일러스트레이터 블렌더 입문서 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[원의독백의 비디오 메이킹 올인원 스킬셋]]></title>
-      <link>https://coloso-kr-blog.vercel.app/videoediting-wonologue-videography-260823/</link>
-      <guid>https://coloso-kr-blog.vercel.app/videoediting-wonologue-videography-260823/</guid>
-      <pubDate>Sun, 23 Aug 2026 05:45:15 GMT</pubDate>
-      <description><![CDATA[원의독백의 비디오 메이킹 올인원 스킬셋 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
