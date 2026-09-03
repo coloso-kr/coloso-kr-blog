@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[손 쉽게 만드는 취향 저격 버튜버, 3D 아바타 커스터마이징 가이드]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-kimraming-virtual-260902/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimraming-virtual-260902/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:37:21 GMT</pubDate>
+      <description><![CDATA[손 쉽게 만드는 취향 저격 버튜버, 3D 아바타 커스터마이징 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[따라 하며 쉽게 배우는 고퀄리티 Live2D 드로잉 & 고가동 리깅]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-meter-live2d-260824/</guid>
       <pubDate>Mon, 24 Aug 2026 02:32:52 GMT</pubDate>
       <description><![CDATA[글로벌 수익화를 이끄는 Live2D 리깅 & 애니메이션 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[캐릭터와 배경 고민을 끝내 줄 일러스트레이터 블렌더 입문서]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-ikki-blender-260823/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-ikki-blender-260823/</guid>
-      <pubDate>Sun, 23 Aug 2026 08:37:27 GMT</pubDate>
-      <description><![CDATA[캐릭터와 배경 고민을 끝내 줄 일러스트레이터 블렌더 입문서 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
