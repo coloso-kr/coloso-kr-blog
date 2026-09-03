@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[구움찰떡부터 곶감양갱까지, 시즌마다 써먹는 동양 디저트 30종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-jeonseoyeon-fusion-260903/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-jeonseoyeon-fusion-260903/</guid>
+      <pubDate>Thu, 03 Sep 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[구움찰떡부터 곶감양갱까지, 시즌마다 써먹는 동양 디저트 30종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[애프터 이펙트로 만드는 2D 리릭 모션의 기초부터 응용까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-nuventus-motiongraphics-260903/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-nuventus-motiongraphics-260903/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</guid>
       <pubDate>Mon, 24 Aug 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</guid>
-      <pubDate>Mon, 24 Aug 2026 05:45:23 GMT</pubDate>
-      <description><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
