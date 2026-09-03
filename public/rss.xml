@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[애프터 이펙트로 만드는 2D 리릭 모션의 기초부터 응용까지]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-nuventus-motiongraphics-260903/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-nuventus-motiongraphics-260903/</guid>
+      <pubDate>Thu, 03 Sep 2026 02:32:59 GMT</pubDate>
+      <description><![CDATA[애프터 이펙트로 만드는 2D 리릭 모션의 기초부터 응용까지 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[손 쉽게 만드는 취향 저격 버튜버, 3D 아바타 커스터마이징 가이드]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-kimraming-virtual-260902/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimraming-virtual-260902/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-shinminjeong3-blender-260824/</guid>
       <pubDate>Mon, 24 Aug 2026 05:45:23 GMT</pubDate>
       <description><![CDATA[160가지 예제로 완성하는 블렌더 3D 캐릭터 스타일링과 연출 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[글로벌 수익화를 이끄는 Live2D 리깅 & 애니메이션 제작법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-meter-live2d-260824/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-meter-live2d-260824/</guid>
-      <pubDate>Mon, 24 Aug 2026 02:32:52 GMT</pubDate>
-      <description><![CDATA[글로벌 수익화를 이끄는 Live2D 리깅 & 애니메이션 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
