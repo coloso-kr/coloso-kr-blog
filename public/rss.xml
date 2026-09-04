@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[콘셉트를 극대화하는 서체와 그래픽 디자인]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-yoohyuna-englishfont-260904/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-yoohyuna-englishfont-260904/</guid>
+      <pubDate>Fri, 04 Sep 2026 05:45:38 GMT</pubDate>
+      <description><![CDATA[콘셉트를 극대화하는 서체와 그래픽 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[1초에 10개 팔리는 떠먹는 스콘, 파운드마켓 시그니처 디저트 37종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-kimsoyoun-poundmarket-260904/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimsoyoun-poundmarket-260904/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-gyoukan-blender-260825/</guid>
       <pubDate>Tue, 25 Aug 2026 08:37:58 GMT</pubDate>
       <description><![CDATA[블렌더로 완성하는 생동감 넘치는 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[전투와 파쿠르, 사족 보행 동작까지 신체 역학 완전 정복]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy2-maya-260825/</guid>
-      <pubDate>Tue, 25 Aug 2026 05:45:18 GMT</pubDate>
-      <description><![CDATA[전투와 파쿠르, 사족 보행 동작까지 신체 역학 완전 정복 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
