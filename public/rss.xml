@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[2D 모션그래픽 입문을 위한 Ae 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-aftereffects-aftereffects-260903/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-aftereffects-aftereffects-260903/</guid>
+      <pubDate>Thu, 03 Sep 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[2D 모션그래픽 입문을 위한 Ae 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[구움찰떡부터 곶감양갱까지, 시즌마다 써먹는 동양 디저트 30종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-jeonseoyeon-fusion-260903/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-jeonseoyeon-fusion-260903/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dartist-minstin-blender-260825/</guid>
       <pubDate>Tue, 25 Aug 2026 02:32:53 GMT</pubDate>
       <description><![CDATA[압도적 사실감과 디테일이 살아있는 블렌더 3D 아트워크의 시작 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</link>
-      <guid>https://coloso-kr-blog.vercel.app/project-seven2-aftereffects-260824/</guid>
-      <pubDate>Mon, 24 Aug 2026 08:37:19 GMT</pubDate>
-      <description><![CDATA[Ae의 한계를 깨는 감각적인 모션그래픽 워크플로우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
