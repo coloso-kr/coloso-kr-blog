@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:45:33 GMT</pubDate>
+      <description><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[강의 요청 쇄도, 월 2천 개씩 팔리는 데시데 사계절 메뉴 20종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-leekyejung-patisseriedesider-260905/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-leekyejung-patisseriedesider-260905/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-heosungmoo3-illustration-260826/</guid>
       <pubDate>Wed, 26 Aug 2026 08:37:21 GMT</pubDate>
       <description><![CDATA[선과 면으로 깊게 표현하는 흑백 일러스트 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[근본부터 확실하게, 취향대로 커스텀하는 미소녀 툰 셰이딩 설계법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/technicalartist-ahnwonchul-unreal-260826/</link>
-      <guid>https://coloso-kr-blog.vercel.app/technicalartist-ahnwonchul-unreal-260826/</guid>
-      <pubDate>Wed, 26 Aug 2026 05:45:39 GMT</pubDate>
-      <description><![CDATA[근본부터 확실하게, 취향대로 커스텀하는 미소녀 툰 셰이딩 설계법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
