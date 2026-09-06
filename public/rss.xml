@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[100강으로 입문부터 실무 프로젝트까지, 유형 불문 3D 캐릭터 뽀개기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/dictionary-heewook-3d-260906/</link>
+      <guid>https://coloso-kr-blog.vercel.app/dictionary-heewook-3d-260906/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:45:19 GMT</pubDate>
+      <description><![CDATA[100강으로 입문부터 실무 프로젝트까지, 유형 불문 3D 캐릭터 뽀개기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 02] 나만의 툴킷으로 완성하는 블렌더 모델링 자동화 가이드]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-anna2-blender-260906/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-anna2-blender-260906/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-muksal-male-260827/</guid>
       <pubDate>Thu, 27 Aug 2026 08:37:18 GMT</pubDate>
       <description><![CDATA[내 손안에서 탄생하는 취향 가득 영롱한 남캐 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[감동적인 스토리텔링과 페이셜 애니메이션 마스터]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy-animation-260827/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3danimation-alexiswanneroy-animation-260827/</guid>
-      <pubDate>Thu, 27 Aug 2026 05:45:17 GMT</pubDate>
-      <description><![CDATA[감동적인 스토리텔링과 페이셜 애니메이션 마스터 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
