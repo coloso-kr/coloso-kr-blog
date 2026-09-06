@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터에 숨결을 불어넣는 스파인 일러스트 애니메이션]]></title>
+      <link>https://coloso-kr-blog.vercel.app/2danimator-hanseryun-spine-260905/</link>
+      <guid>https://coloso-kr-blog.vercel.app/2danimator-hanseryun-spine-260905/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:37:19 GMT</pubDate>
+      <description><![CDATA[캐릭터에 숨결을 불어넣는 스파인 일러스트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ak-illustration-260827/</guid>
       <pubDate>Thu, 27 Aug 2026 02:32:58 GMT</pubDate>
       <description><![CDATA[내 그림에 상업적 완성도를 더하는 법, 프로 일러스트 외주 지침서 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[선과 면으로 깊게 표현하는 흑백 일러스트 완성]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-heosungmoo3-illustration-260826/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-heosungmoo3-illustration-260826/</guid>
-      <pubDate>Wed, 26 Aug 2026 08:37:21 GMT</pubDate>
-      <description><![CDATA[선과 면으로 깊게 표현하는 흑백 일러스트 완성 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
