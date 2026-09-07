@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[감각적인 모션그래픽의 비밀, Fake 3D 애니메이션]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-seven-aftereffects-260906/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-seven-aftereffects-260906/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:37:29 GMT</pubDate>
+      <description><![CDATA[감각적인 모션그래픽의 비밀, Fake 3D 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[100강으로 입문부터 실무 프로젝트까지, 유형 불문 3D 캐릭터 뽀개기]]></title>
       <link>https://coloso-kr-blog.vercel.app/dictionary-heewook-3d-260906/</link>
       <guid>https://coloso-kr-blog.vercel.app/dictionary-heewook-3d-260906/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/chyanbasic-class-illustration-260828/</guid>
       <pubDate>Fri, 28 Aug 2026 02:33:02 GMT</pubDate>
       <description><![CDATA[시선을 사로잡는 캐주얼 캐릭터 디자인 완성 Class+ 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[내 손안에서 탄생하는 취향 가득 영롱한 남캐 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-muksal-male-260827/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-muksal-male-260827/</guid>
-      <pubDate>Thu, 27 Aug 2026 08:37:18 GMT</pubDate>
-      <description><![CDATA[내 손안에서 탄생하는 취향 가득 영롱한 남캐 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
