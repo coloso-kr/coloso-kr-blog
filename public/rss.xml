@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터의 표현력을 결정짓는 킥, 블렌더 리깅 집중 가이드]]></title>
+      <link>https://coloso-kr-blog.vercel.app/signature-minust5-blender-260907/</link>
+      <guid>https://coloso-kr-blog.vercel.app/signature-minust5-blender-260907/</guid>
+      <pubDate>Mon, 07 Sep 2026 05:45:36 GMT</pubDate>
+      <description><![CDATA[캐릭터의 표현력을 결정짓는 킥, 블렌더 리깅 집중 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 02] 자연스러운 옷 주름으로 포인트를 더하는 미소녀 피규어 원형 제작]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-23rd2-zbrush-260907/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-23rd2-zbrush-260907/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programmer-devbrother3-review-260828/</guid>
       <pubDate>Fri, 28 Aug 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[아이디어를 수익화 서비스로 실현하는 실전 SaaS 개발 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[독자들의 마음을 사로잡는 화려한 작화와 웹툰 연출 노하우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/webtoon-limlina-webtoon-260828/</link>
-      <guid>https://coloso-kr-blog.vercel.app/webtoon-limlina-webtoon-260828/</guid>
-      <pubDate>Fri, 28 Aug 2026 05:45:16 GMT</pubDate>
-      <description><![CDATA[독자들의 마음을 사로잡는 화려한 작화와 웹툰 연출 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
