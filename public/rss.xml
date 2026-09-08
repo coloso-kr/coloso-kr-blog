@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[산업 디자인 하이퀄리티 3D 렌더링: 키샷부터 레드시프트까지]]></title>
+      <link>https://coloso-kr-blog.vercel.app/industrialdesign-leejongha-rendering-260908/</link>
+      <guid>https://coloso-kr-blog.vercel.app/industrialdesign-leejongha-rendering-260908/</guid>
+      <pubDate>Tue, 08 Sep 2026 02:32:53 GMT</pubDate>
+      <description><![CDATA[산업 디자인 하이퀄리티 3D 렌더링: 키샷부터 레드시프트까지 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part.05] 차원이 다른 실사급 몰입감, 후디니 파이로 시뮬레이션 이펙트]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-leekisong5-game-260907/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-leekisong5-game-260907/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kangwoosung-cinema4d-260829/</guid>
       <pubDate>Sat, 29 Aug 2026 05:45:37 GMT</pubDate>
       <description><![CDATA[C4D 모션 감각 트레이닝: 기초부터 마스터까지 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[모양도 맛도 작물 그대로, 서화백당 작물과자 & 과일과자 30종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-parkgeumhwa-wagashi-260829/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-parkgeumhwa-wagashi-260829/</guid>
-      <pubDate>Sat, 29 Aug 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[모양도 맛도 작물 그대로, 서화백당 작물과자 & 과일과자 30종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
