@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[[Part.08] 영화적 몰입감을 완성하는 후디니 시네마틱 VFX]]></title>
+      <link>https://coloso-kr-blog.vercel.app/signature-leekisong8-houdini-260908/</link>
+      <guid>https://coloso-kr-blog.vercel.app/signature-leekisong8-houdini-260908/</guid>
+      <pubDate>Tue, 08 Sep 2026 05:45:23 GMT</pubDate>
+      <description><![CDATA[[Part.08] 영화적 몰입감을 완성하는 후디니 시네마틱 VFX 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[산업 디자인 하이퀄리티 3D 렌더링: 키샷부터 레드시프트까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/industrialdesign-leejongha-rendering-260908/</link>
       <guid>https://coloso-kr-blog.vercel.app/industrialdesign-leejongha-rendering-260908/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimation-proro-animation-260829/</guid>
       <pubDate>Sat, 29 Aug 2026 08:37:17 GMT</pubDate>
       <description><![CDATA[강력한 액션 씬을 연출하는 애니메이션 기초부터 실무 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[C4D 모션 감각 트레이닝: 기초부터 마스터까지]]></title>
-      <link>https://coloso-kr-blog.vercel.app/motiongraphic-kangwoosung-cinema4d-260829/</link>
-      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kangwoosung-cinema4d-260829/</guid>
-      <pubDate>Sat, 29 Aug 2026 05:45:37 GMT</pubDate>
-      <description><![CDATA[C4D 모션 감각 트레이닝: 기초부터 마스터까지 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
