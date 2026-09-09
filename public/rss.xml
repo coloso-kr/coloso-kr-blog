@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Unreal Engine 5로 만드는 리얼타임 시네마틱 영상]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</guid>
+      <pubDate>Tue, 08 Sep 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[Unreal Engine 5로 만드는 리얼타임 시네마틱 영상 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part.08] 영화적 몰입감을 완성하는 후디니 시네마틱 VFX]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-leekisong8-houdini-260908/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-leekisong8-houdini-260908/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/editorialdesign-kimsomi-indesign-260830/</guid>
       <pubDate>Sun, 30 Aug 2026 02:32:50 GMT</pubDate>
       <description><![CDATA[인디자인으로 배우는 효율적인 편집 디자인 실무 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[강력한 액션 씬을 연출하는 애니메이션 기초부터 실무 완성]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimation-proro-animation-260829/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimation-proro-animation-260829/</guid>
-      <pubDate>Sat, 29 Aug 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[강력한 액션 씬을 연출하는 애니메이션 기초부터 실무 완성 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
