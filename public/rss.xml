@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[[Part.07] 후디니 VAT 리소스로 완성하는 언리얼 실사형 이펙트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/signature-leekisong7-houdini-260909/</link>
+      <guid>https://coloso-kr-blog.vercel.app/signature-leekisong7-houdini-260909/</guid>
+      <pubDate>Wed, 09 Sep 2026 02:34:13 GMT</pubDate>
+      <description><![CDATA[[Part.07] 후디니 VAT 리소스로 완성하는 언리얼 실사형 이펙트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Unreal Engine 5로 만드는 리얼타임 시네마틱 영상]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dartist-parkxohee-ai-260830/</guid>
       <pubDate>Sun, 30 Aug 2026 05:45:31 GMT</pubDate>
       <description><![CDATA[미드저니와 ComfyUI로 제작하는 트렌디한 3D 비주얼 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[인디자인으로 배우는 효율적인 편집 디자인 실무]]></title>
-      <link>https://coloso-kr-blog.vercel.app/editorialdesign-kimsomi-indesign-260830/</link>
-      <guid>https://coloso-kr-blog.vercel.app/editorialdesign-kimsomi-indesign-260830/</guid>
-      <pubDate>Sun, 30 Aug 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[인디자인으로 배우는 효율적인 편집 디자인 실무 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
