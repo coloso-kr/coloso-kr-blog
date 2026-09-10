@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[C4D 모션그래픽 스타일 마스터 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-c4dstylemasterclass-c4d-260910/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-c4dstylemasterclass-c4d-260910/</guid>
+      <pubDate>Thu, 10 Sep 2026 02:33:40 GMT</pubDate>
+      <description><![CDATA[C4D 모션그래픽 스타일 마스터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3D 모션그래픽 입문을 위한 C4D 100강사전]]></title>
       <link>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</link>
       <guid>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/novel-leesungmin-storytelling-260831/</guid>
       <pubDate>Mon, 31 Aug 2026 05:45:15 GMT</pubDate>
       <description><![CDATA[소설부터 시나리오까지 따라만 하면 완성되는 스토리 창작의 비밀 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</guid>
-      <pubDate>Mon, 31 Aug 2026 02:32:53 GMT</pubDate>
-      <description><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
