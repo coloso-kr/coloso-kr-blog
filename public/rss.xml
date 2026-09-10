@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[3D 모션그래픽 입문을 위한 C4D 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[3D 모션그래픽 입문을 위한 C4D 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part.06] 리얼리스틱 표현의 한계를 넓히는 후디니 플립 시뮬레이션 완성]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-leekisong6-houdini-260909/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-leekisong6-houdini-260909/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programming-ddd-aiwebdevelopment-260831/</guid>
       <pubDate>Mon, 31 Aug 2026 02:32:53 GMT</pubDate>
       <description><![CDATA[개발과 디자인의 경계를 허무는 Cursor AI 인터랙티브 웹 제작 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[라이노&키샷 기초부터 실무 아이데이션, 포트폴리오, 목업까지]]></title>
-      <link>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</link>
-      <guid>https://coloso-kr-blog.vercel.app/industrialdesign-leehyojeong-rendering-260830/</guid>
-      <pubDate>Sun, 30 Aug 2026 08:37:14 GMT</pubDate>
-      <description><![CDATA[라이노&키샷 기초부터 실무 아이데이션, 포트폴리오, 목업까지 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
