@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[줄 서서 먹는 봄브레드의 토핑 포카치아&에그마요 빵 19종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/baker-kimsaebom-patisserie-260910/</link>
+      <guid>https://coloso-kr-blog.vercel.app/baker-kimsaebom-patisserie-260910/</guid>
+      <pubDate>Thu, 10 Sep 2026 08:37:24 GMT</pubDate>
+      <description><![CDATA[줄 서서 먹는 봄브레드의 토핑 포카치아&에그마요 빵 19종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part 04] 나만의 캐릭터 스타일 확장을 위한 블렌더 셰이더 노드 스킬]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-minust4-blender-260910/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-minust4-blender-260910/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-leeyeonjung-unrealengine-260901/</guid>
       <pubDate>Tue, 01 Sep 2026 02:33:01 GMT</pubDate>
       <description><![CDATA[빛으로 연출하는 고퀄리티 게임 시네마틱, UE5 라이팅 실무 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[버츄얼 프로덕션 씬 1티어 소다퐁 감독의 UE 뮤직비디오 연출&제작 프로세스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-sodapong-virtual-260831/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-sodapong-virtual-260831/</guid>
-      <pubDate>Mon, 31 Aug 2026 08:38:05 GMT</pubDate>
-      <description><![CDATA[버츄얼 프로덕션 씬 1티어 소다퐁 감독의 UE 뮤직비디오 연출&제작 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
