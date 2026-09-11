@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[3ds Max 업무 자동화를 도와줄 7가지 툴 제작법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/technicalartist-hongsangbeom-3dsmax-260911/</link>
+      <guid>https://coloso-kr-blog.vercel.app/technicalartist-hongsangbeom-3dsmax-260911/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[3ds Max 업무 자동화를 도와줄 7가지 툴 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 02] 다채로운 무드로 확장하는 캐릭터 디자인 기본기]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-guweiz2-characterdesign-260911/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-guweiz2-characterdesign-260911/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-kimmina-stylized-260901/</guid>
       <pubDate>Tue, 01 Sep 2026 08:37:22 GMT</pubDate>
       <description><![CDATA[독보적 스타일라이즈드 모델러의 고감도 미소녀 캐릭터 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[꾸준한 수익을 만드는 이모티콘 플러스 실전 공략서]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-gnyang-emoticon-260901/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-gnyang-emoticon-260901/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:45:57 GMT</pubDate>
-      <description><![CDATA[꾸준한 수익을 만드는 이모티콘 플러스 실전 공략서 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
