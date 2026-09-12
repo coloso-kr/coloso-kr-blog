@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[포토샵 기초부터 배우는 판타지 아트워크]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-nakta-photoshop-260912/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-nakta-photoshop-260912/</guid>
+      <pubDate>Sat, 12 Sep 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[포토샵 기초부터 배우는 판타지 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[[Part. 01] 탄탄한 기초로 시작하는 매력적인 캐릭터 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/signature-guweiz-concept-260912/</link>
       <guid>https://coloso-kr-blog.vercel.app/signature-guweiz-concept-260912/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimraming-virtual-260902/</guid>
       <pubDate>Wed, 02 Sep 2026 08:37:21 GMT</pubDate>
       <description><![CDATA[손 쉽게 만드는 취향 저격 버튜버, 3D 아바타 커스터마이징 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[따라 하며 쉽게 배우는 고퀄리티 Live2D 드로잉 & 고가동 리깅]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-momukkopini-live2d-260902/</guid>
-      <pubDate>Wed, 02 Sep 2026 05:45:35 GMT</pubDate>
-      <description><![CDATA[따라 하며 쉽게 배우는 고퀄리티 Live2D 드로잉 & 고가동 리깅 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
