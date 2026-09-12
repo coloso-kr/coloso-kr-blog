@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[디자인이 쉬워지는 포토샵 파이어플라이 활용 가이드]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-nakta3-firefly-260911/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-nakta3-firefly-260911/</guid>
+      <pubDate>Fri, 11 Sep 2026 08:37:21 GMT</pubDate>
+      <description><![CDATA[디자인이 쉬워지는 포토샵 파이어플라이 활용 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3ds Max 업무 자동화를 도와줄 7가지 툴 제작법]]></title>
       <link>https://coloso-kr-blog.vercel.app/technicalartist-hongsangbeom-3dsmax-260911/</link>
       <guid>https://coloso-kr-blog.vercel.app/technicalartist-hongsangbeom-3dsmax-260911/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-kiri-review-260902/</guid>
       <pubDate>Wed, 02 Sep 2026 02:32:59 GMT</pubDate>
       <description><![CDATA[모작을 넘어 창작으로, 오리지널 세계관을 담은 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[독보적 스타일라이즈드 모델러의 고감도 미소녀 캐릭터 제작법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-kimmina-stylized-260901/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-kimmina-stylized-260901/</guid>
-      <pubDate>Tue, 01 Sep 2026 08:37:22 GMT</pubDate>
-      <description><![CDATA[독보적 스타일라이즈드 모델러의 고감도 미소녀 캐릭터 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
