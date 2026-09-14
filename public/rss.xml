@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[어나더 레벨 모션그래픽을 향한 후디니 FX Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-houdiniclass-houdini-260913/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-houdiniclass-houdini-260913/</guid>
+      <pubDate>Sun, 13 Sep 2026 08:37:19 GMT</pubDate>
+      <description><![CDATA[어나더 레벨 모션그래픽을 향한 후디니 FX Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[한 달에 1억 버는 웹소설의 성공 공식]]></title>
       <link>https://coloso-kr-blog.vercel.app/webnovel-brachio-webnovel-260913/</link>
       <guid>https://coloso-kr-blog.vercel.app/webnovel-brachio-webnovel-260913/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimsoyoun-poundmarket-260904/</guid>
       <pubDate>Fri, 04 Sep 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[1초에 10개 팔리는 떠먹는 스콘, 파운드마켓 시그니처 디저트 37종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2D 모션그래픽 입문을 위한 Ae 100강사전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/100lecture-aftereffects-aftereffects-260903/</link>
-      <guid>https://coloso-kr-blog.vercel.app/100lecture-aftereffects-aftereffects-260903/</guid>
-      <pubDate>Thu, 03 Sep 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[2D 모션그래픽 입문을 위한 Ae 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
