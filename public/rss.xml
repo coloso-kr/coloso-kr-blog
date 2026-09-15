@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[남성 헤어디자인 기본 개념 잡기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</link>
+      <guid>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</guid>
+      <pubDate>Tue, 15 Sep 2026 05:45:24 GMT</pubDate>
+      <description><![CDATA[남성 헤어디자인 기본 개념 잡기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[SNS 브랜딩에 특화된 C4D 모션 아트워크 제작하기]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-ohsoohwan-motiondesign-260915/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-ohsoohwan-motiondesign-260915/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimator-hanseryun-spine-260905/</guid>
       <pubDate>Sat, 05 Sep 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[캐릭터에 숨결을 불어넣는 스파인 일러스트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</guid>
-      <pubDate>Sat, 05 Sep 2026 05:45:33 GMT</pubDate>
-      <description><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
