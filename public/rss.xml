@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[SNS 브랜딩에 특화된 C4D 모션 아트워크 제작하기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-ohsoohwan-motiondesign-260915/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-ohsoohwan-motiondesign-260915/</guid>
+      <pubDate>Tue, 15 Sep 2026 02:32:47 GMT</pubDate>
+      <description><![CDATA[SNS 브랜딩에 특화된 C4D 모션 아트워크 제작하기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[웹 크롤링과 챗GPT를 활용한 완벽 자동화 비법과 수익화 노하우]]></title>
       <link>https://coloso-kr-blog.vercel.app/programming-kimfl-python-260914/</link>
       <guid>https://coloso-kr-blog.vercel.app/programming-kimfl-python-260914/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-katzzing-blender-260905/</guid>
       <pubDate>Sat, 05 Sep 2026 05:45:33 GMT</pubDate>
       <description><![CDATA[수익화까지 나아가는 블렌더 3D 버츄얼 배경 모델링 입문 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[강의 요청 쇄도, 월 2천 개씩 팔리는 데시데 사계절 메뉴 20종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-leekyejung-patisseriedesider-260905/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-leekyejung-patisseriedesider-260905/</guid>
-      <pubDate>Sat, 05 Sep 2026 02:32:55 GMT</pubDate>
-      <description><![CDATA[강의 요청 쇄도, 월 2천 개씩 팔리는 데시데 사계절 메뉴 20종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
