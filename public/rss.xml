@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[웹 크롤링과 챗GPT를 활용한 완벽 자동화 비법과 수익화 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-kimfl-python-260914/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-kimfl-python-260914/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:37:18 GMT</pubDate>
+      <description><![CDATA[웹 크롤링과 챗GPT를 활용한 완벽 자동화 비법과 수익화 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[초이고야의 15가지 사계절 베스트&스테디셀러 빵]]></title>
       <link>https://coloso-kr-blog.vercel.app/baker-choieunyoung2-baking-260914/</link>
       <guid>https://coloso-kr-blog.vercel.app/baker-choieunyoung2-baking-260914/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-leekyejung-patisseriedesider-260905/</guid>
       <pubDate>Sat, 05 Sep 2026 02:32:55 GMT</pubDate>
       <description><![CDATA[강의 요청 쇄도, 월 2천 개씩 팔리는 데시데 사계절 메뉴 20종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part.09] 언리얼 머터리얼로 완성하는 하이엔드 게임 이펙트 제작 프로젝트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-leekisong9-niagara-260904/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-leekisong9-niagara-260904/</guid>
-      <pubDate>Fri, 04 Sep 2026 08:37:31 GMT</pubDate>
-      <description><![CDATA[[Part.09] 언리얼 머터리얼로 완성하는 하이엔드 게임 이펙트 제작 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
