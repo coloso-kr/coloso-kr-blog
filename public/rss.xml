@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[외주 없이 Cursor AI로 직접 완성하는 맞춤형 비즈니스 웹사이트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-suhseungwan2-ai-260916/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-suhseungwan2-ai-260916/</guid>
+      <pubDate>Wed, 16 Sep 2026 02:32:57 GMT</pubDate>
+      <description><![CDATA[외주 없이 Cursor AI로 직접 완성하는 맞춤형 비즈니스 웹사이트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출]]></title>
       <link>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</link>
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/dictionary-heewook-3d-260906/</guid>
       <pubDate>Sun, 06 Sep 2026 05:45:19 GMT</pubDate>
       <description><![CDATA[100강으로 입문부터 실무 프로젝트까지, 유형 불문 3D 캐릭터 뽀개기 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part. 02] 나만의 툴킷으로 완성하는 블렌더 모델링 자동화 가이드]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-anna2-blender-260906/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-anna2-blender-260906/</guid>
-      <pubDate>Sun, 06 Sep 2026 02:32:49 GMT</pubDate>
-      <description><![CDATA[[Part. 02] 나만의 툴킷으로 완성하는 블렌더 모델링 자동화 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
