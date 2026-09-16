@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</guid>
+      <pubDate>Tue, 15 Sep 2026 08:37:20 GMT</pubDate>
+      <description><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[남성 헤어디자인 기본 개념 잡기]]></title>
       <link>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</link>
       <guid>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-anna2-blender-260906/</guid>
       <pubDate>Sun, 06 Sep 2026 02:32:49 GMT</pubDate>
       <description><![CDATA[[Part. 02] 나만의 툴킷으로 완성하는 블렌더 모델링 자동화 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[캐릭터에 숨결을 불어넣는 스파인 일러스트 애니메이션]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimator-hanseryun-spine-260905/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimator-hanseryun-spine-260905/</guid>
-      <pubDate>Sat, 05 Sep 2026 08:37:19 GMT</pubDate>
-      <description><![CDATA[캐릭터에 숨결을 불어넣는 스파인 일러스트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
