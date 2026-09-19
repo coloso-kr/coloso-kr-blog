@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라]]></title>
+      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</link>
+      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</guid>
+      <pubDate>Fri, 18 Sep 2026 08:37:13 GMT</pubDate>
+      <description><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3D 핸드 페인팅으로 제작하는 Stylized character]]></title>
       <link>https://coloso-kr-blog.vercel.app/gamegraphic-jongmonam-hand-painting-260918/</link>
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-jongmonam-hand-painting-260918/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-leekisong7-houdini-260909/</guid>
       <pubDate>Wed, 09 Sep 2026 02:34:13 GMT</pubDate>
       <description><![CDATA[[Part.07] 후디니 VAT 리소스로 완성하는 언리얼 실사형 이펙트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Unreal Engine 5로 만드는 리얼타임 시네마틱 영상]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-choyoungjo-unreal-engine-5-260908/</guid>
-      <pubDate>Tue, 08 Sep 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[Unreal Engine 5로 만드는 리얼타임 시네마틱 영상 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
