@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[초급자를 위한 쉽고 체계적인 일러스트 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-illustbasic-illustration-260919/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-illustbasic-illustration-260919/</guid>
+      <pubDate>Sat, 19 Sep 2026 02:32:55 GMT</pubDate>
+      <description><![CDATA[초급자를 위한 쉽고 체계적인 일러스트 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라]]></title>
       <link>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</link>
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-leekisong6-houdini-260909/</guid>
       <pubDate>Wed, 09 Sep 2026 05:45:29 GMT</pubDate>
       <description><![CDATA[[Part.06] 리얼리스틱 표현의 한계를 넓히는 후디니 플립 시뮬레이션 완성 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part.07] 후디니 VAT 리소스로 완성하는 언리얼 실사형 이펙트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-leekisong7-houdini-260909/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-leekisong7-houdini-260909/</guid>
-      <pubDate>Wed, 09 Sep 2026 02:34:13 GMT</pubDate>
-      <description><![CDATA[[Part.07] 후디니 VAT 리소스로 완성하는 언리얼 실사형 이펙트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
