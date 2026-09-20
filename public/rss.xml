@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[기술부터 비즈니스까지, 1인 개발 생존 풀패키지]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</guid>
+      <pubDate>Sat, 19 Sep 2026 08:37:14 GMT</pubDate>
+      <description><![CDATA[기술부터 비즈니스까지, 1인 개발 생존 풀패키지 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[내 삶을 180도 바꾸는 AI 툴 핵심 패키지로 수익 실현까지]]></title>
       <link>https://coloso-kr-blog.vercel.app/ai-kooky-ai-260919/</link>
       <guid>https://coloso-kr-blog.vercel.app/ai-kooky-ai-260919/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-c4dstylemasterclass-c4d-260910/</guid>
       <pubDate>Thu, 10 Sep 2026 02:33:40 GMT</pubDate>
       <description><![CDATA[C4D 모션그래픽 스타일 마스터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[3D 모션그래픽 입문을 위한 C4D 100강사전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</link>
-      <guid>https://coloso-kr-blog.vercel.app/100lecture-cinema4d-c4d-260909/</guid>
-      <pubDate>Wed, 09 Sep 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[3D 모션그래픽 입문을 위한 C4D 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
