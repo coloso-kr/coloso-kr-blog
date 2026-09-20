@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[제철 식재료를 활용한 하프파운드의 사계절 시즌 디저트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-kwonsunhee3-seasonal-260920/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-kwonsunhee3-seasonal-260920/</guid>
+      <pubDate>Sun, 20 Sep 2026 05:45:14 GMT</pubDate>
+      <description><![CDATA[제철 식재료를 활용한 하프파운드의 사계절 시즌 디저트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[에드워드 권의 17가지 레시피로 배우는 탄탄한 기본기와 양식 테크닉]]></title>
       <link>https://coloso-kr-blog.vercel.app/chef-edwardkwon-edwardkwon-260920/</link>
       <guid>https://coloso-kr-blog.vercel.app/chef-edwardkwon-edwardkwon-260920/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/baker-kimsaebom-patisserie-260910/</guid>
       <pubDate>Thu, 10 Sep 2026 08:37:24 GMT</pubDate>
       <description><![CDATA[줄 서서 먹는 봄브레드의 토핑 포카치아&에그마요 빵 19종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Part 04] 나만의 캐릭터 스타일 확장을 위한 블렌더 셰이더 노드 스킬]]></title>
-      <link>https://coloso-kr-blog.vercel.app/signature-minust4-blender-260910/</link>
-      <guid>https://coloso-kr-blog.vercel.app/signature-minust4-blender-260910/</guid>
-      <pubDate>Thu, 10 Sep 2026 05:45:20 GMT</pubDate>
-      <description><![CDATA[[Part 04] 나만의 캐릭터 스타일 확장을 위한 블렌더 셰이더 노드 스킬 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
