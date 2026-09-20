@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[에드워드 권의 17가지 레시피로 배우는 탄탄한 기본기와 양식 테크닉]]></title>
+      <link>https://coloso-kr-blog.vercel.app/chef-edwardkwon-edwardkwon-260920/</link>
+      <guid>https://coloso-kr-blog.vercel.app/chef-edwardkwon-edwardkwon-260920/</guid>
+      <pubDate>Sun, 20 Sep 2026 02:32:48 GMT</pubDate>
+      <description><![CDATA[에드워드 권의 17가지 레시피로 배우는 탄탄한 기본기와 양식 테크닉 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기술부터 비즈니스까지, 1인 개발 생존 풀패키지]]></title>
       <link>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</link>
       <guid>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/signature-minust4-blender-260910/</guid>
       <pubDate>Thu, 10 Sep 2026 05:45:20 GMT</pubDate>
       <description><![CDATA[[Part 04] 나만의 캐릭터 스타일 확장을 위한 블렌더 셰이더 노드 스킬 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[C4D 모션그래픽 스타일 마스터 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/motiongraphic-c4dstylemasterclass-c4d-260910/</link>
-      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-c4dstylemasterclass-c4d-260910/</guid>
-      <pubDate>Thu, 10 Sep 2026 02:33:40 GMT</pubDate>
-      <description><![CDATA[C4D 모션그래픽 스타일 마스터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
