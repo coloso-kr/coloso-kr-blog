@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더로 만드는 나만의 3D 캐릭터 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gamegraphic-blender-class-blender-260922/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-blender-class-blender-260922/</guid>
+      <pubDate>Tue, 22 Sep 2026 08:37:27 GMT</pubDate>
+      <description><![CDATA[블렌더로 만드는 나만의 3D 캐릭터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[성공적인 투자를 위한 필수 조건, 재무제표 분석법]]></title>
       <link>https://coloso-kr-blog.vercel.app/stock-financialstatment-stock-260922/</link>
       <guid>https://coloso-kr-blog.vercel.app/stock-financialstatment-stock-260922/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-reactor-ai-260913/</guid>
       <pubDate>Sun, 13 Sep 2026 02:32:47 GMT</pubDate>
       <description><![CDATA[기획, 디자인, 홍보까지 AI로 끝내는 실전 게임 제작 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더 그리즈 펜슬로 입문하는 2.5D 애니메이션]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3danimation-leedeebee-blender-260912/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3danimation-leedeebee-blender-260912/</guid>
-      <pubDate>Sat, 12 Sep 2026 08:37:50 GMT</pubDate>
-      <description><![CDATA[블렌더 그리즈 펜슬로 입문하는 2.5D 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
