@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[MV 제작을 통해 배우는 이펙트 애니메이션]]></title>
+      <link>https://coloso-kr-blog.vercel.app/2danimation-tatamitani-effectanimation-260923/</link>
+      <guid>https://coloso-kr-blog.vercel.app/2danimation-tatamitani-effectanimation-260923/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:45:18 GMT</pubDate>
+      <description><![CDATA[MV 제작을 통해 배우는 이펙트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[반무테 채색과 고급스러운 연출로 완성하는 캐릭터 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-takashi-illustration-260923/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-takashi-illustration-260923/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-houdiniclass-houdini-260913/</guid>
       <pubDate>Sun, 13 Sep 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[어나더 레벨 모션그래픽을 향한 후디니 FX Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한 달에 1억 버는 웹소설의 성공 공식]]></title>
-      <link>https://coloso-kr-blog.vercel.app/webnovel-brachio-webnovel-260913/</link>
-      <guid>https://coloso-kr-blog.vercel.app/webnovel-brachio-webnovel-260913/</guid>
-      <pubDate>Sun, 13 Sep 2026 05:45:11 GMT</pubDate>
-      <description><![CDATA[한 달에 1억 버는 웹소설의 성공 공식 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
