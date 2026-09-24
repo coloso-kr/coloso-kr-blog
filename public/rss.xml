@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[모든 장르에 적용 가능한 캐릭터 드로잉 기본기 훈련]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-leeseunghee-characterdesign-260924/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-leeseunghee-characterdesign-260924/</guid>
+      <pubDate>Thu, 24 Sep 2026 02:32:46 GMT</pubDate>
+      <description><![CDATA[모든 장르에 적용 가능한 캐릭터 드로잉 기본기 훈련 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[누구나 쉽게 만드는 C4D 모션그래픽]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-kimjaeho-c4d-260923/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimjaeho-c4d-260923/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/baker-choieunyoung2-baking-260914/</guid>
       <pubDate>Mon, 14 Sep 2026 05:45:15 GMT</pubDate>
       <description><![CDATA[초이고야의 15가지 사계절 베스트&스테디셀러 빵 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[디저트/베이커리 카페 창업 노하우와 레시피 23종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/commerce-kimjinho-cafe-260914/</link>
-      <guid>https://coloso-kr-blog.vercel.app/commerce-kimjinho-cafe-260914/</guid>
-      <pubDate>Mon, 14 Sep 2026 02:32:54 GMT</pubDate>
-      <description><![CDATA[디저트/베이커리 카페 창업 노하우와 레시피 23종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
