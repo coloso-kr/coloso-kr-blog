@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[중급자를 위한 캐릭터 컨셉과 일러스트 제작]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-sangminchoi-illustration-260925/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-sangminchoi-illustration-260925/</guid>
+      <pubDate>Fri, 25 Sep 2026 05:45:13 GMT</pubDate>
+      <description><![CDATA[중급자를 위한 캐릭터 컨셉과 일러스트 제작 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[취향 가득 나만의 판타지로 완성하는 청초한 반실사 남캐 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-insya-semi-realistic-260925/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-insya-semi-realistic-260925/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</guid>
       <pubDate>Tue, 15 Sep 2026 08:37:20 GMT</pubDate>
       <description><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[남성 헤어디자인 기본 개념 잡기]]></title>
-      <link>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</link>
-      <guid>https://coloso-kr-blog.vercel.app/hairdesigner-l-menshair-260915/</guid>
-      <pubDate>Tue, 15 Sep 2026 05:45:24 GMT</pubDate>
-      <description><![CDATA[남성 헤어디자인 기본 개념 잡기 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
