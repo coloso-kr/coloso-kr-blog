@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[성수 핀즈의 계절 파르페와 플레이팅&코스 디저트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-kimbeomju-dessert-260926/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-kimbeomju-dessert-260926/</guid>
+      <pubDate>Sat, 26 Sep 2026 05:45:19 GMT</pubDate>
+      <description><![CDATA[성수 핀즈의 계절 파르페와 플레이팅&코스 디저트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[색감 장인 샘케이크의 파스텔 디저트&쌀베이킹 레시피 20종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-parksam-ricebaking-260926/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-parksam-ricebaking-260926/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/commerceclass-restauranthmr-restaurant-260916/</guid>
       <pubDate>Wed, 16 Sep 2026 08:37:13 GMT</pubDate>
       <description><![CDATA[요식업 창업, 점포 확장, 밀키트 Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[SF 컨셉아트 디자인 실무 기획부터 완성까지]]></title>
-      <link>https://coloso-kr-blog.vercel.app/conceptartist-parkjongwon2-conceptart-260916/</link>
-      <guid>https://coloso-kr-blog.vercel.app/conceptartist-parkjongwon2-conceptart-260916/</guid>
-      <pubDate>Wed, 16 Sep 2026 05:46:17 GMT</pubDate>
-      <description><![CDATA[SF 컨셉아트 디자인 실무 기획부터 완성까지 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
