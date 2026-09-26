@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[우리집을 SNS 맛집으로 만드는 달콤한 취미, 홈베이킹]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</guid>
+      <pubDate>Fri, 25 Sep 2026 08:37:35 GMT</pubDate>
+      <description><![CDATA[우리집을 SNS 맛집으로 만드는 달콤한 취미, 홈베이킹 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[중급자를 위한 캐릭터 컨셉과 일러스트 제작]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-sangminchoi-illustration-260925/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-sangminchoi-illustration-260925/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programming-suhseungwan2-ai-260916/</guid>
       <pubDate>Wed, 16 Sep 2026 02:32:57 GMT</pubDate>
       <description><![CDATA[외주 없이 Cursor AI로 직접 완성하는 맞춤형 비즈니스 웹사이트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-chedy-blender-260915/</guid>
-      <pubDate>Tue, 15 Sep 2026 08:37:20 GMT</pubDate>
-      <description><![CDATA[미드저니와 블렌더로 완성하는 마법같은 3D 캐릭터 연출 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
