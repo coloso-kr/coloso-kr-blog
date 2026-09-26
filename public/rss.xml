@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[색감 장인 샘케이크의 파스텔 디저트&쌀베이킹 레시피 20종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-parksam-ricebaking-260926/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-parksam-ricebaking-260926/</guid>
+      <pubDate>Sat, 26 Sep 2026 02:32:56 GMT</pubDate>
+      <description><![CDATA[색감 장인 샘케이크의 파스텔 디저트&쌀베이킹 레시피 20종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[우리집을 SNS 맛집으로 만드는 달콤한 취미, 홈베이킹]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-parkjongwon2-conceptart-260916/</guid>
       <pubDate>Wed, 16 Sep 2026 05:46:17 GMT</pubDate>
       <description><![CDATA[SF 컨셉아트 디자인 실무 기획부터 완성까지 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[외주 없이 Cursor AI로 직접 완성하는 맞춤형 비즈니스 웹사이트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-suhseungwan2-ai-260916/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-suhseungwan2-ai-260916/</guid>
-      <pubDate>Wed, 16 Sep 2026 02:32:57 GMT</pubDate>
-      <description><![CDATA[외주 없이 Cursor AI로 직접 완성하는 맞춤형 비즈니스 웹사이트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
