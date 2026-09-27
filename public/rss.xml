@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[기획부터 출시까지, 인디 게임 필승 전략]]></title>
+      <link>https://coloso-kr-blog.vercel.app/indiegame-hasangsuk-indiegame-260927/</link>
+      <guid>https://coloso-kr-blog.vercel.app/indiegame-hasangsuk-indiegame-260927/</guid>
+      <pubDate>Sun, 27 Sep 2026 05:45:18 GMT</pubDate>
+      <description><![CDATA[기획부터 출시까지, 인디 게임 필승 전략 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[초보자를 위한 최애 버츄얼 캐릭터 영상 제작 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/3danimation-seoseo-virtualmv-260927/</link>
       <guid>https://coloso-kr-blog.vercel.app/3danimation-seoseo-virtualmv-260927/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-parkjinbeom-daz3d-260917/</guid>
       <pubDate>Thu, 17 Sep 2026 08:37:15 GMT</pubDate>
       <description><![CDATA[C4D와 Daz 3D로 만드는 패셔너블 캐릭터 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[단 5페이지로 시작하는 7억 전자책 판매, 유성우의 전자책 펀딩 클래스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/dictionary-yoosungwoo-ebook-260917/</link>
-      <guid>https://coloso-kr-blog.vercel.app/dictionary-yoosungwoo-ebook-260917/</guid>
-      <pubDate>Thu, 17 Sep 2026 05:45:15 GMT</pubDate>
-      <description><![CDATA[단 5페이지로 시작하는 7억 전자책 판매, 유성우의 전자책 펀딩 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
