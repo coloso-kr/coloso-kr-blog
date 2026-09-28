@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[포토샵을 활용한 개성있는 크롬타입 재질 구현법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-hiveparkkr-photoshop-260927/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-hiveparkkr-photoshop-260927/</guid>
+      <pubDate>Sun, 27 Sep 2026 08:37:21 GMT</pubDate>
+      <description><![CDATA[포토샵을 활용한 개성있는 크롬타입 재질 구현법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[기획부터 출시까지, 인디 게임 필승 전략]]></title>
       <link>https://coloso-kr-blog.vercel.app/indiegame-hasangsuk-indiegame-260927/</link>
       <guid>https://coloso-kr-blog.vercel.app/indiegame-hasangsuk-indiegame-260927/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/webnovel-evatrice-webnovel-260918/</guid>
       <pubDate>Fri, 18 Sep 2026 02:33:02 GMT</pubDate>
       <description><![CDATA[억대 연봉 웹소설 작가에게 배우는 레드오션 수익 생존 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[C4D와 Daz 3D로 만드는 패셔너블 캐릭터 아트워크]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3ddesign-parkjinbeom-daz3d-260917/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3ddesign-parkjinbeom-daz3d-260917/</guid>
-      <pubDate>Thu, 17 Sep 2026 08:37:15 GMT</pubDate>
-      <description><![CDATA[C4D와 Daz 3D로 만드는 패셔너블 캐릭터 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
