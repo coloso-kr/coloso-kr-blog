@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[한 번에 배우는 블렌더의 다양한 기능 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/blender-basiccourse-blender-260928/</link>
+      <guid>https://coloso-kr-blog.vercel.app/blender-basiccourse-blender-260928/</guid>
+      <pubDate>Mon, 28 Sep 2026 02:32:56 GMT</pubDate>
+      <description><![CDATA[한 번에 배우는 블렌더의 다양한 기능 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[포토샵을 활용한 개성있는 크롬타입 재질 구현법]]></title>
       <link>https://coloso-kr-blog.vercel.app/graphicdesign-hiveparkkr-photoshop-260927/</link>
       <guid>https://coloso-kr-blog.vercel.app/graphicdesign-hiveparkkr-photoshop-260927/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-jongmonam-hand-painting-260918/</guid>
       <pubDate>Fri, 18 Sep 2026 05:45:40 GMT</pubDate>
       <description><![CDATA[3D 핸드 페인팅으로 제작하는 Stylized character 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[억대 연봉 웹소설 작가에게 배우는 레드오션 수익 생존 가이드]]></title>
-      <link>https://coloso-kr-blog.vercel.app/webnovel-evatrice-webnovel-260918/</link>
-      <guid>https://coloso-kr-blog.vercel.app/webnovel-evatrice-webnovel-260918/</guid>
-      <pubDate>Fri, 18 Sep 2026 02:33:02 GMT</pubDate>
-      <description><![CDATA[억대 연봉 웹소설 작가에게 배우는 레드오션 수익 생존 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
