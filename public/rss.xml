@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터의 입체감을 살리는 4가지 디자인 원리]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-arang-illustration-260928/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-arang-illustration-260928/</guid>
+      <pubDate>Mon, 28 Sep 2026 05:45:47 GMT</pubDate>
+      <description><![CDATA[캐릭터의 입체감을 살리는 4가지 디자인 원리 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[한 번에 배우는 블렌더의 다양한 기능 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/blender-basiccourse-blender-260928/</link>
       <guid>https://coloso-kr-blog.vercel.app/blender-basiccourse-blender-260928/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</guid>
       <pubDate>Fri, 18 Sep 2026 08:37:13 GMT</pubDate>
       <description><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[3D 핸드 페인팅으로 제작하는 Stylized character]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gamegraphic-jongmonam-hand-painting-260918/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-jongmonam-hand-painting-260918/</guid>
-      <pubDate>Fri, 18 Sep 2026 05:45:40 GMT</pubDate>
-      <description><![CDATA[3D 핸드 페인팅으로 제작하는 Stylized character 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
