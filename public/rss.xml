@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[애니메이션 실무 핵심, 스토리보드&동화 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</link>
+      <guid>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</guid>
+      <pubDate>Mon, 28 Sep 2026 08:37:28 GMT</pubDate>
+      <description><![CDATA[애니메이션 실무 핵심, 스토리보드&동화 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐릭터의 입체감을 살리는 4가지 디자인 원리]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-arang-illustration-260928/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-arang-illustration-260928/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/100lecture-illustbasic-illustration-260919/</guid>
       <pubDate>Sat, 19 Sep 2026 02:32:55 GMT</pubDate>
       <description><![CDATA[초급자를 위한 쉽고 체계적인 일러스트 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라]]></title>
-      <link>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</link>
-      <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-yangjihyun-greek-260918/</guid>
-      <pubDate>Fri, 18 Sep 2026 08:37:13 GMT</pubDate>
-      <description><![CDATA[땡스오트의 쫀득 크리미한 그릭요거트&그래놀라 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
