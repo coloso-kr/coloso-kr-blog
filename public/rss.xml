@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[FPS 게임 개발로 한 번에 입문하는 언리얼 엔진]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gameproduct-baemincheon-unrealengine-260929/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gameproduct-baemincheon-unrealengine-260929/</guid>
+      <pubDate>Tue, 29 Sep 2026 02:33:09 GMT</pubDate>
+      <description><![CDATA[FPS 게임 개발로 한 번에 입문하는 언리얼 엔진 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[애니메이션 실무 핵심, 스토리보드&동화 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</link>
       <guid>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/ai-kooky-ai-260919/</guid>
       <pubDate>Sat, 19 Sep 2026 05:45:25 GMT</pubDate>
       <description><![CDATA[내 삶을 180도 바꾸는 AI 툴 핵심 패키지로 수익 실현까지 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[초급자를 위한 쉽고 체계적인 일러스트 100강사전]]></title>
-      <link>https://coloso-kr-blog.vercel.app/100lecture-illustbasic-illustration-260919/</link>
-      <guid>https://coloso-kr-blog.vercel.app/100lecture-illustbasic-illustration-260919/</guid>
-      <pubDate>Sat, 19 Sep 2026 02:32:55 GMT</pubDate>
-      <description><![CDATA[초급자를 위한 쉽고 체계적인 일러스트 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
