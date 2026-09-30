@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[나의 스타일을 찾아가는 다양한 채색 기법 100강사전]]></title>
+      <link>https://coloso-kr-blog.vercel.app/100lecture-coloring2-review-260929/</link>
+      <guid>https://coloso-kr-blog.vercel.app/100lecture-coloring2-review-260929/</guid>
+      <pubDate>Tue, 29 Sep 2026 08:37:23 GMT</pubDate>
+      <description><![CDATA[나의 스타일을 찾아가는 다양한 채색 기법 100강사전 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[15가지 파이핑&조색 테크닉으로 완성하는 플라워케이크]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-kimhyejung2-flower-260929/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimhyejung2-flower-260929/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/chef-edwardkwon-edwardkwon-260920/</guid>
       <pubDate>Sun, 20 Sep 2026 02:32:48 GMT</pubDate>
       <description><![CDATA[에드워드 권의 17가지 레시피로 배우는 탄탄한 기본기와 양식 테크닉 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[기술부터 비즈니스까지, 1인 개발 생존 풀패키지]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-funcoding-1-260919/</guid>
-      <pubDate>Sat, 19 Sep 2026 08:37:14 GMT</pubDate>
-      <description><![CDATA[기술부터 비즈니스까지, 1인 개발 생존 풀패키지 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
