@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[스케치부터 애니메이션까지, 3D 버츄얼 아바타 입문의 모든 것]]></title>
+      <link>https://coloso-kr-blog.vercel.app/3dcharacterartist-rika-3dcharacter-261001/</link>
+      <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-rika-3dcharacter-261001/</guid>
+      <pubDate>Thu, 01 Oct 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[스케치부터 애니메이션까지, 3D 버츄얼 아바타 입문의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[나만의 제품 디자인으로 스몰 브랜드 디렉팅하기]]></title>
       <link>https://coloso-kr-blog.vercel.app/industrialdesign-kimhayoung-branding-261001/</link>
       <guid>https://coloso-kr-blog.vercel.app/industrialdesign-kimhayoung-branding-261001/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programming-suhseungwan-promptengineering-260921/</guid>
       <pubDate>Mon, 21 Sep 2026 08:37:29 GMT</pubDate>
       <description><![CDATA[차이를 만드는 프롬프트 엔지니어링 기법 12가지와 GPTs 수익화 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[하프 발레아쥬 창시자의 시그니처 디자인 클래스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/hairdesigner-yong-hair-260921/</link>
-      <guid>https://coloso-kr-blog.vercel.app/hairdesigner-yong-hair-260921/</guid>
-      <pubDate>Mon, 21 Sep 2026 05:45:21 GMT</pubDate>
-      <description><![CDATA[하프 발레아쥬 창시자의 시그니처 디자인 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
