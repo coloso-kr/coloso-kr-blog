@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[나만의 시그니처 메뉴가 되는 특별한 홈베이킹 레시피]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-joeunbit-glutenfree-261002/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-joeunbit-glutenfree-261002/</guid>
+      <pubDate>Fri, 02 Oct 2026 05:45:20 GMT</pubDate>
+      <description><![CDATA[나만의 시그니처 메뉴가 되는 특별한 홈베이킹 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[세련된 디자인으로 완성하는 컨셉추얼한 캐주얼 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-ebplus-illustration-261002/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ebplus-illustration-261002/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-blender-class-blender-260922/</guid>
       <pubDate>Tue, 22 Sep 2026 08:37:27 GMT</pubDate>
       <description><![CDATA[블렌더로 만드는 나만의 3D 캐릭터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[성공적인 투자를 위한 필수 조건, 재무제표 분석법]]></title>
-      <link>https://coloso-kr-blog.vercel.app/stock-financialstatment-stock-260922/</link>
-      <guid>https://coloso-kr-blog.vercel.app/stock-financialstatment-stock-260922/</guid>
-      <pubDate>Tue, 22 Sep 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[성공적인 투자를 위한 필수 조건, 재무제표 분석법 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
