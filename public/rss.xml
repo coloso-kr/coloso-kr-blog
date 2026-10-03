@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[간단한 공정으로 만드는 11가지 맛있는 발효빵]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-yunmunju-baking-261003/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-yunmunju-baking-261003/</guid>
+      <pubDate>Sat, 03 Oct 2026 02:32:48 GMT</pubDate>
+      <description><![CDATA[간단한 공정으로 만드는 11가지 맛있는 발효빵 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[DC 만화가에게 배우는 모든 분야에 활용 가능한 기초 드로잉 & 연출법]]></title>
       <link>https://coloso-kr-blog.vercel.app/comicartist-parkjaekwang-characterdesign-261002/</link>
       <guid>https://coloso-kr-blog.vercel.app/comicartist-parkjaekwang-characterdesign-261002/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimation-tatamitani-effectanimation-260923/</guid>
       <pubDate>Wed, 23 Sep 2026 05:45:18 GMT</pubDate>
       <description><![CDATA[MV 제작을 통해 배우는 이펙트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[반무테 채색과 고급스러운 연출로 완성하는 캐릭터 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-takashi-illustration-260923/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-takashi-illustration-260923/</guid>
-      <pubDate>Wed, 23 Sep 2026 02:32:49 GMT</pubDate>
-      <description><![CDATA[반무테 채색과 고급스러운 연출로 완성하는 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
