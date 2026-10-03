@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[화려하고 로맨틱한 캐릭터 일러스트 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-kimstar-illustration-261003/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-kimstar-illustration-261003/</guid>
+      <pubDate>Sat, 03 Oct 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[화려하고 로맨틱한 캐릭터 일러스트 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[간단한 공정으로 만드는 11가지 맛있는 발효빵]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-yunmunju-baking-261003/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-yunmunju-baking-261003/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimjaeho-c4d-260923/</guid>
       <pubDate>Wed, 23 Sep 2026 08:37:20 GMT</pubDate>
       <description><![CDATA[누구나 쉽게 만드는 C4D 모션그래픽 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MV 제작을 통해 배우는 이펙트 애니메이션]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimation-tatamitani-effectanimation-260923/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimation-tatamitani-effectanimation-260923/</guid>
-      <pubDate>Wed, 23 Sep 2026 05:45:18 GMT</pubDate>
-      <description><![CDATA[MV 제작을 통해 배우는 이펙트 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
