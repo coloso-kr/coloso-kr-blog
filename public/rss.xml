@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[DC 만화가에게 배우는 모든 분야에 활용 가능한 기초 드로잉 & 연출법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/comicartist-parkjaekwang-characterdesign-261002/</link>
+      <guid>https://coloso-kr-blog.vercel.app/comicartist-parkjaekwang-characterdesign-261002/</guid>
+      <pubDate>Fri, 02 Oct 2026 08:37:39 GMT</pubDate>
+      <description><![CDATA[DC 만화가에게 배우는 모든 분야에 활용 가능한 기초 드로잉 & 연출법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[나만의 시그니처 메뉴가 되는 특별한 홈베이킹 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-joeunbit-glutenfree-261002/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-joeunbit-glutenfree-261002/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-takashi-illustration-260923/</guid>
       <pubDate>Wed, 23 Sep 2026 02:32:49 GMT</pubDate>
       <description><![CDATA[반무테 채색과 고급스러운 연출로 완성하는 캐릭터 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더로 만드는 나만의 3D 캐릭터 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gamegraphic-blender-class-blender-260922/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gamegraphic-blender-class-blender-260922/</guid>
-      <pubDate>Tue, 22 Sep 2026 08:37:27 GMT</pubDate>
-      <description><![CDATA[블렌더로 만드는 나만의 3D 캐릭터 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
