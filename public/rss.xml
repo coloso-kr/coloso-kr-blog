@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[이론부터 배우는 25가지 트렌디&클래식 쿠키]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-leeyoonjeong-cookie-261006/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-leeyoonjeong-cookie-261006/</guid>
+      <pubDate>Tue, 06 Oct 2026 02:32:48 GMT</pubDate>
+      <description><![CDATA[이론부터 배우는 25가지 트렌디&클래식 쿠키 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[안나앤토르테의 호주 시그니처 디저트 16종]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-parksojeong-baking-261005/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-parksojeong-baking-261005/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-parksam-ricebaking-260926/</guid>
       <pubDate>Sat, 26 Sep 2026 02:32:56 GMT</pubDate>
       <description><![CDATA[색감 장인 샘케이크의 파스텔 디저트&쌀베이킹 레시피 20종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[우리집을 SNS 맛집으로 만드는 달콤한 취미, 홈베이킹]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-jadore-baking-260925/</guid>
-      <pubDate>Fri, 25 Sep 2026 08:37:35 GMT</pubDate>
-      <description><![CDATA[우리집을 SNS 맛집으로 만드는 달콤한 취미, 홈베이킹 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
