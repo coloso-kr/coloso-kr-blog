@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더와 AI로 풀어낸 투명하고 섬세한 텍스처의 비주얼 아트워크]]></title>
+      <link>https://coloso-kr-blog.vercel.app/ai-nischeom-aiart-261006/</link>
+      <guid>https://coloso-kr-blog.vercel.app/ai-nischeom-aiart-261006/</guid>
+      <pubDate>Tue, 06 Oct 2026 08:37:15 GMT</pubDate>
+      <description><![CDATA[블렌더와 AI로 풀어낸 투명하고 섬세한 텍스처의 비주얼 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[질감표현 캐릭터드로잉 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-colordrawingclass-characterdrawing-261006/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-colordrawingclass-characterdrawing-261006/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/creator-brainrich-brain-260926/</guid>
       <pubDate>Sat, 26 Sep 2026 08:37:14 GMT</pubDate>
       <description><![CDATA[정신과 의사들의 뇌과학으로 성장하는 멘탈 최적화 트레이닝 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[성수 핀즈의 계절 파르페와 플레이팅&코스 디저트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-kimbeomju-dessert-260926/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-kimbeomju-dessert-260926/</guid>
-      <pubDate>Sat, 26 Sep 2026 05:45:19 GMT</pubDate>
-      <description><![CDATA[성수 핀즈의 계절 파르페와 플레이팅&코스 디저트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
