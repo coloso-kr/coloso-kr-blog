@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[모션그래퍼 필수 툴 C4D, AE, AI 실무 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/reelay-best5class-3d-261007/</link>
+      <guid>https://coloso-kr-blog.vercel.app/reelay-best5class-3d-261007/</guid>
+      <pubDate>Wed, 07 Oct 2026 08:37:25 GMT</pubDate>
+      <description><![CDATA[모션그래퍼 필수 툴 C4D, AE, AI 실무 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[캐주얼 캐릭터 디자인 연출 핵심 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-chyanokku-illustration-261007/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-chyanokku-illustration-261007/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/indiegame-hasangsuk-indiegame-260927/</guid>
       <pubDate>Sun, 27 Sep 2026 05:45:18 GMT</pubDate>
       <description><![CDATA[기획부터 출시까지, 인디 게임 필승 전략 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[초보자를 위한 최애 버츄얼 캐릭터 영상 제작 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/3danimation-seoseo-virtualmv-260927/</link>
-      <guid>https://coloso-kr-blog.vercel.app/3danimation-seoseo-virtualmv-260927/</guid>
-      <pubDate>Sun, 27 Sep 2026 02:33:16 GMT</pubDate>
-      <description><![CDATA[초보자를 위한 최애 버츄얼 캐릭터 영상 제작 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
