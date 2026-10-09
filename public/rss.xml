@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[매주 1천 개 주문 마감, 바삭쫀득 통밀과 글루텐프리 디저트&브런치]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-koeunbyeol-gluten-free-261009/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-koeunbyeol-gluten-free-261009/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:45:15 GMT</pubDate>
+      <description><![CDATA[매주 1천 개 주문 마감, 바삭쫀득 통밀과 글루텐프리 디저트&브런치 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[제품 디자인에 효율적인 NX&키샷&포토샵 실무 프로세스]]></title>
       <link>https://coloso-kr-blog.vercel.app/industrialdesign-choiyohan-industrialdesign-261009/</link>
       <guid>https://coloso-kr-blog.vercel.app/industrialdesign-choiyohan-industrialdesign-261009/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gameproduct-baemincheon-unrealengine-260929/</guid>
       <pubDate>Tue, 29 Sep 2026 02:33:09 GMT</pubDate>
       <description><![CDATA[FPS 게임 개발로 한 번에 입문하는 언리얼 엔진 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[애니메이션 실무 핵심, 스토리보드&동화 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2d-ppurianimationclass-animation-260928/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:37:28 GMT</pubDate>
-      <description><![CDATA[애니메이션 실무 핵심, 스토리보드&동화 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
