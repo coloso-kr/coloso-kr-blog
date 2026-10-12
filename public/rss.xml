@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</link>
+      <guid>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</guid>
+      <pubDate>Mon, 12 Oct 2026 05:45:19 GMT</pubDate>
+      <description><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[애프터 이펙트를 활용한 방송 타이틀 패키지 제작 프로세스]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-manza-motiongraphics-261012/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-manza-motiongraphics-261012/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-ebplus-illustration-261002/</guid>
       <pubDate>Fri, 02 Oct 2026 02:32:54 GMT</pubDate>
       <description><![CDATA[세련된 디자인으로 완성하는 컨셉추얼한 캐주얼 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[꾸덕쫀득한 크럼블 치즈케이크&브라우니 완판 레시피 15종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-shininhwa-cheesecake-261001/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-shininhwa-cheesecake-261001/</guid>
-      <pubDate>Thu, 01 Oct 2026 08:37:15 GMT</pubDate>
-      <description><![CDATA[꾸덕쫀득한 크럼블 치즈케이크&브라우니 완판 레시피 15종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
