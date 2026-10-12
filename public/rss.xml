@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[단숨에 인기 콘텐츠 크리에이터로 거듭나는 AI 아바타 만들기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/ai-endplan-ai-261011/</link>
+      <guid>https://coloso-kr-blog.vercel.app/ai-endplan-ai-261011/</guid>
+      <pubDate>Sun, 11 Oct 2026 08:37:38 GMT</pubDate>
+      <description><![CDATA[단숨에 인기 콘텐츠 크리에이터로 거듭나는 AI 아바타 만들기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[빛 이론으로 그려내는 캐릭터 채색 마스터 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-coloringmasterclass-illustration-261011/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-coloringmasterclass-illustration-261011/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3dcharacterartist-rika-3dcharacter-261001/</guid>
       <pubDate>Thu, 01 Oct 2026 05:45:15 GMT</pubDate>
       <description><![CDATA[스케치부터 애니메이션까지, 3D 버츄얼 아바타 입문의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[나만의 제품 디자인으로 스몰 브랜드 디렉팅하기]]></title>
-      <link>https://coloso-kr-blog.vercel.app/industrialdesign-kimhayoung-branding-261001/</link>
-      <guid>https://coloso-kr-blog.vercel.app/industrialdesign-kimhayoung-branding-261001/</guid>
-      <pubDate>Thu, 01 Oct 2026 02:32:51 GMT</pubDate>
-      <description><![CDATA[나만의 제품 디자인으로 스몰 브랜드 디렉팅하기 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
