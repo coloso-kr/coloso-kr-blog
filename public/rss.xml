@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[16가지 브랜드로 알아보는 버터 마스터 클래스]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-kimmina2-butter-261012/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-kimmina2-butter-261012/</guid>
+      <pubDate>Mon, 12 Oct 2026 08:37:19 GMT</pubDate>
+      <description><![CDATA[16가지 브랜드로 알아보는 버터 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트]]></title>
       <link>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</link>
       <guid>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-joeunbit-glutenfree-261002/</guid>
       <pubDate>Fri, 02 Oct 2026 05:45:20 GMT</pubDate>
       <description><![CDATA[나만의 시그니처 메뉴가 되는 특별한 홈베이킹 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[세련된 디자인으로 완성하는 컨셉추얼한 캐주얼 일러스트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-ebplus-illustration-261002/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-ebplus-illustration-261002/</guid>
-      <pubDate>Fri, 02 Oct 2026 02:32:54 GMT</pubDate>
-      <description><![CDATA[세련된 디자인으로 완성하는 컨셉추얼한 캐주얼 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
