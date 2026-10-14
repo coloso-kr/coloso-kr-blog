@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더 그리즈 펜슬로 제작하는 디지털 에셋과 수익화 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/blender-tovi-blender-261014/</link>
+      <guid>https://coloso-kr-blog.vercel.app/blender-tovi-blender-261014/</guid>
+      <pubDate>Wed, 14 Oct 2026 02:32:52 GMT</pubDate>
+      <description><![CDATA[블렌더 그리즈 펜슬로 제작하는 디지털 에셋과 수익화 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[가루하루 슈&에끌레어 8가지 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-yuneunyoung2-choux-261013/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-yuneunyoung2-choux-261013/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/hairdesigner-l2-hair-261003/</guid>
       <pubDate>Sat, 03 Oct 2026 08:37:15 GMT</pubDate>
       <description><![CDATA[남성 탈모를 커버하는 히든펌 완전 정복 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[화려하고 로맨틱한 캐릭터 일러스트 노하우]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-kimstar-illustration-261003/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-kimstar-illustration-261003/</guid>
-      <pubDate>Sat, 03 Oct 2026 05:45:17 GMT</pubDate>
-      <description><![CDATA[화려하고 로맨틱한 캐릭터 일러스트 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
