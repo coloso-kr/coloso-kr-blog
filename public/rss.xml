@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더로 끝내는 카툰 렌더링&모델링 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/blendercartoon-class-blender-261015/</link>
+      <guid>https://coloso-kr-blog.vercel.app/blendercartoon-class-blender-261015/</guid>
+      <pubDate>Thu, 15 Oct 2026 08:37:23 GMT</pubDate>
+      <description><![CDATA[블렌더로 끝내는 카툰 렌더링&모델링 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[무스&타르트 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissierclass-moussetartc-pastry-261015/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissierclass-moussetartc-pastry-261015/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-wangsung-illustration-261005/</guid>
       <pubDate>Mon, 05 Oct 2026 02:32:50 GMT</pubDate>
       <description><![CDATA[로맨틱한 감성이 빛나는 맑고 차분한 일러스트 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[포인트에 따라 달라지는 레이어드컷 디자인과 질감 처리]]></title>
-      <link>https://coloso-kr-blog.vercel.app/hairdesigner-superminkyu-haircut-261004/</link>
-      <guid>https://coloso-kr-blog.vercel.app/hairdesigner-superminkyu-haircut-261004/</guid>
-      <pubDate>Sun, 04 Oct 2026 08:37:12 GMT</pubDate>
-      <description><![CDATA[포인트에 따라 달라지는 레이어드컷 디자인과 질감 처리 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
