@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[사시사철 만들 수 있는 노아이싱&크럼블 케이크 10종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-hansongi-cake-261017/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-hansongi-cake-261017/</guid>
+      <pubDate>Sat, 17 Oct 2026 08:37:16 GMT</pubDate>
+      <description><![CDATA[사시사철 만들 수 있는 노아이싱&크럼블 케이크 10종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[인공지능으로 완성하는 AI 아트 창작 입문]]></title>
       <link>https://coloso-kr-blog.vercel.app/2dart-choyoungkak-ai-261017/</link>
       <guid>https://coloso-kr-blog.vercel.app/2dart-choyoungkak-ai-261017/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-chyanokku-illustration-261007/</guid>
       <pubDate>Wed, 07 Oct 2026 02:32:48 GMT</pubDate>
       <description><![CDATA[캐주얼 캐릭터 디자인 연출 핵심 Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더와 AI로 풀어낸 투명하고 섬세한 텍스처의 비주얼 아트워크]]></title>
-      <link>https://coloso-kr-blog.vercel.app/ai-nischeom-aiart-261006/</link>
-      <guid>https://coloso-kr-blog.vercel.app/ai-nischeom-aiart-261006/</guid>
-      <pubDate>Tue, 06 Oct 2026 08:37:15 GMT</pubDate>
-      <description><![CDATA[블렌더와 AI로 풀어낸 투명하고 섬세한 텍스처의 비주얼 아트워크 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
