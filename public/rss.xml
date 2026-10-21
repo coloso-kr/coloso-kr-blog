@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[C4D로 만드는 감각적이고 몰입도 높은 애니메이션]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-kimjunho-c4dmotiongraphics-261021/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimjunho-c4dmotiongraphics-261021/</guid>
+      <pubDate>Wed, 21 Oct 2026 02:32:47 GMT</pubDate>
+      <description><![CDATA[C4D로 만드는 감각적이고 몰입도 높은 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[볼륨 밸런스를 컨트롤하는 응용 디자인 펌]]></title>
       <link>https://coloso-kr-blog.vercel.app/hairdesigner-haneung2-hair-261020/</link>
       <guid>https://coloso-kr-blog.vercel.app/hairdesigner-haneung2-hair-261020/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/commerce-kimdayoung-baking-261009/</guid>
       <pubDate>Fri, 09 Oct 2026 08:37:23 GMT</pubDate>
       <description><![CDATA[월 30만원에서 억대 매출까지, 데이지디저트의 디저트 판매&납품 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[매주 1천 개 주문 마감, 바삭쫀득 통밀과 글루텐프리 디저트&브런치]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-koeunbyeol-gluten-free-261009/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-koeunbyeol-gluten-free-261009/</guid>
-      <pubDate>Fri, 09 Oct 2026 05:45:15 GMT</pubDate>
-      <description><![CDATA[매주 1천 개 주문 마감, 바삭쫀득 통밀과 글루텐프리 디저트&브런치 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
