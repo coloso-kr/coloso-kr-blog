@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[고객을 불러오는 헤어 사진 전문가의 촬영 노하우]]></title>
+      <link>https://coloso-kr-blog.vercel.app/photographer-hanyongman-hair-photography-261024/</link>
+      <guid>https://coloso-kr-blog.vercel.app/photographer-hanyongman-hair-photography-261024/</guid>
+      <pubDate>Sat, 24 Oct 2026 02:32:49 GMT</pubDate>
+      <description><![CDATA[고객을 불러오는 헤어 사진 전문가의 촬영 노하우 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[생동감 넘치는 애니메이팅 스킬 Class]]></title>
       <link>https://coloso-kr-blog.vercel.app/mediadesign-animationclass-animation-261023/</link>
       <guid>https://coloso-kr-blog.vercel.app/mediadesign-animationclass-animation-261023/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</guid>
       <pubDate>Mon, 12 Oct 2026 05:45:19 GMT</pubDate>
       <description><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[애프터 이펙트를 활용한 방송 타이틀 패키지 제작 프로세스]]></title>
-      <link>https://coloso-kr-blog.vercel.app/motiongraphic-manza-motiongraphics-261012/</link>
-      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-manza-motiongraphics-261012/</guid>
-      <pubDate>Mon, 12 Oct 2026 02:32:56 GMT</pubDate>
-      <description><![CDATA[애프터 이펙트를 활용한 방송 타이틀 패키지 제작 프로세스 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
