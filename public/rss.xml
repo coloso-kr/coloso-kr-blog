@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[블렌더를 활용한 3D 배경 모델링 Class]]></title>
+      <link>https://coloso-kr-blog.vercel.app/blenderbackground-class-blender-261024/</link>
+      <guid>https://coloso-kr-blog.vercel.app/blenderbackground-class-blender-261024/</guid>
+      <pubDate>Sat, 24 Oct 2026 05:45:26 GMT</pubDate>
+      <description><![CDATA[블렌더를 활용한 3D 배경 모델링 Class 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[고객을 불러오는 헤어 사진 전문가의 촬영 노하우]]></title>
       <link>https://coloso-kr-blog.vercel.app/photographer-hanyongman-hair-photography-261024/</link>
       <guid>https://coloso-kr-blog.vercel.app/photographer-hanyongman-hair-photography-261024/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-kimmina2-butter-261012/</guid>
       <pubDate>Mon, 12 Oct 2026 08:37:19 GMT</pubDate>
       <description><![CDATA[16가지 브랜드로 알아보는 버터 마스터 클래스 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gameproduct-spaceblock-uefn-261012/</guid>
-      <pubDate>Mon, 12 Oct 2026 05:45:19 GMT</pubDate>
-      <description><![CDATA[코딩 없이 완성하는 UEFN 게임 제작 프로젝트 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
