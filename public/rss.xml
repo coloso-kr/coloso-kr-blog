@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[마카롱&까눌레 Course]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-macaroncannele-baking-261027/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-macaroncannele-baking-261027/</guid>
+      <pubDate>Tue, 27 Oct 2026 08:37:20 GMT</pubDate>
+      <description><![CDATA[마카롱&까눌레 Course 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[억대 매출 액세서리 쇼핑몰의 유일무이한 창업 클래스]]></title>
       <link>https://coloso-kr-blog.vercel.app/commerce-accessory-accessory-261027/</link>
       <guid>https://coloso-kr-blog.vercel.app/commerce-accessory-accessory-261027/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/creative-chamiseul-blender-261016/</guid>
       <pubDate>Fri, 16 Oct 2026 02:32:54 GMT</pubDate>
       <description><![CDATA[블렌더와 유니티로 만드는 고급 메타버스 아이템 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[블렌더로 끝내는 카툰 렌더링&모델링 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/blendercartoon-class-blender-261015/</link>
-      <guid>https://coloso-kr-blog.vercel.app/blendercartoon-class-blender-261015/</guid>
-      <pubDate>Thu, 15 Oct 2026 08:37:23 GMT</pubDate>
-      <description><![CDATA[블렌더로 끝내는 카툰 렌더링&모델링 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
