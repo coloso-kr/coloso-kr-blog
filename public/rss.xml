@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[찬란한 빛, 화려한 색감으로 연출하는 컬러 일러스트]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-montblanc-illustration-261102/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-montblanc-illustration-261102/</guid>
+      <pubDate>Mon, 02 Nov 2026 05:45:19 GMT</pubDate>
+      <description><![CDATA[찬란한 빛, 화려한 색감으로 연출하는 컬러 일러스트 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[C4D 첫 걸음, 귀여운 3D 캐릭터로 완성하기]]></title>
       <link>https://coloso-kr-blog.vercel.app/motiongraphic-byeonkiwoong-c4d-261029/</link>
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-byeonkiwoong-c4d-261029/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/2danimator-havtza-animation-261018/</guid>
       <pubDate>Sun, 18 Oct 2026 08:37:21 GMT</pubDate>
       <description><![CDATA[한 걸음씩 차근차근 배우는 인디 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[사시사철 만들 수 있는 노아이싱&크럼블 케이크 10종]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-hansongi-cake-261017/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-hansongi-cake-261017/</guid>
-      <pubDate>Sat, 17 Oct 2026 08:37:16 GMT</pubDate>
-      <description><![CDATA[사시사철 만들 수 있는 노아이싱&크럼블 케이크 10종 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
