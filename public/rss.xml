@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[코틀린과 스프링 부트로 배우는 현대적 백엔드 개발]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-parkseungkyoo-kotlin-261103/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-parkseungkyoo-kotlin-261103/</guid>
+      <pubDate>Tue, 03 Nov 2026 02:32:51 GMT</pubDate>
+      <description><![CDATA[코틀린과 스프링 부트로 배우는 현대적 백엔드 개발 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[CLO로 3D 패션 디자인 포트폴리오 완성하기]]></title>
       <link>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</link>
       <guid>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/baker-hongsangki2-baking-261019/</guid>
       <pubDate>Mon, 19 Oct 2026 05:45:13 GMT</pubDate>
       <description><![CDATA[베이커리와 브런치 카페를 위한 조리빵&샌드위치 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[오브젝트부터 차근차근 그려보는 스타일라이즈드 배경 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/conceptartist-cloujins-background-261019/</link>
-      <guid>https://coloso-kr-blog.vercel.app/conceptartist-cloujins-background-261019/</guid>
-      <pubDate>Mon, 19 Oct 2026 02:32:49 GMT</pubDate>
-      <description><![CDATA[오브젝트부터 차근차근 그려보는 스타일라이즈드 배경 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
