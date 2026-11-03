@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[CLO로 3D 패션 디자인 포트폴리오 완성하기]]></title>
+      <link>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</link>
+      <guid>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</guid>
+      <pubDate>Mon, 02 Nov 2026 08:37:17 GMT</pubDate>
+      <description><![CDATA[CLO로 3D 패션 디자인 포트폴리오 완성하기 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[찬란한 빛, 화려한 색감으로 연출하는 컬러 일러스트]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-montblanc-illustration-261102/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-montblanc-illustration-261102/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-cloujins-background-261019/</guid>
       <pubDate>Mon, 19 Oct 2026 02:32:49 GMT</pubDate>
       <description><![CDATA[오브젝트부터 차근차근 그려보는 스타일라이즈드 배경 입문 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한 걸음씩 차근차근 배우는 인디 애니메이션]]></title>
-      <link>https://coloso-kr-blog.vercel.app/2danimator-havtza-animation-261018/</link>
-      <guid>https://coloso-kr-blog.vercel.app/2danimator-havtza-animation-261018/</guid>
-      <pubDate>Sun, 18 Oct 2026 08:37:21 GMT</pubDate>
-      <description><![CDATA[한 걸음씩 차근차근 배우는 인디 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
