@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[개발자가 모르면 안 되는 실무 특화 CS 전공수업]]></title>
+      <link>https://coloso-kr-blog.vercel.app/programming-technotealec-cs-261107/</link>
+      <guid>https://coloso-kr-blog.vercel.app/programming-technotealec-cs-261107/</guid>
+      <pubDate>Sat, 07 Nov 2026 02:32:50 GMT</pubDate>
+      <description><![CDATA[개발자가 모르면 안 되는 실무 특화 CS 전공수업 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[제주 브런치 맛집 당당의 수플레&감성 메뉴 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/chef-dangdang-koreancafe-261106/</link>
       <guid>https://coloso-kr-blog.vercel.app/chef-dangdang-koreancafe-261106/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/motiongraphic-choijeonghwan-cinema4d-261022/</guid>
       <pubDate>Thu, 22 Oct 2026 08:37:20 GMT</pubDate>
       <description><![CDATA[6가지 테마로 완성하는 C4D 캐릭터 애니메이션 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[다양한 그림체로 배우는 캐릭터 드로잉 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-osuk2seoji-illustration-261022/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-osuk2seoji-illustration-261022/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:45:16 GMT</pubDate>
-      <description><![CDATA[다양한 그림체로 배우는 캐릭터 드로잉 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
