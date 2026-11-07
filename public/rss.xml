@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[제주 브런치 맛집 당당의 수플레&감성 메뉴 레시피]]></title>
+      <link>https://coloso-kr-blog.vercel.app/chef-dangdang-koreancafe-261106/</link>
+      <guid>https://coloso-kr-blog.vercel.app/chef-dangdang-koreancafe-261106/</guid>
+      <pubDate>Fri, 06 Nov 2026 08:37:25 GMT</pubDate>
+      <description><![CDATA[제주 브런치 맛집 당당의 수플레&감성 메뉴 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[MZ를 사로잡은 데이민의 힙한 컬러 레시피&커트]]></title>
       <link>https://coloso-kr-blog.vercel.app/hairdesigner-minkyung-hair-261106/</link>
       <guid>https://coloso-kr-blog.vercel.app/hairdesigner-minkyung-hair-261106/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/illustrator-osuk2seoji-illustration-261022/</guid>
       <pubDate>Thu, 22 Oct 2026 05:45:16 GMT</pubDate>
       <description><![CDATA[다양한 그림체로 배우는 캐릭터 드로잉 Class 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[디어스윗랩의 시그니처 쿠키케이크와 트렌디한 사계절 파르페]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-dearsweetlab-cookiecake-261022/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-dearsweetlab-cookiecake-261022/</guid>
-      <pubDate>Thu, 22 Oct 2026 02:32:46 GMT</pubDate>
-      <description><![CDATA[디어스윗랩의 시그니처 쿠키케이크와 트렌디한 사계절 파르페 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
