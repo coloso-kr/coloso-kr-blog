@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[에셋을 활용한 하이퀄리티 모션그래픽 룩뎁]]></title>
+      <link>https://coloso-kr-blog.vercel.app/motiongraphic-kimhyunjong-quixel-261107/</link>
+      <guid>https://coloso-kr-blog.vercel.app/motiongraphic-kimhyunjong-quixel-261107/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:37:21 GMT</pubDate>
+      <description><![CDATA[에셋을 활용한 하이퀄리티 모션그래픽 룩뎁 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[메타버스&NFT 전문가가 공유하는 창업 및 취업 실전 가이드]]></title>
       <link>https://coloso-kr-blog.vercel.app/startup-metaversenft-metaverse-261107/</link>
       <guid>https://coloso-kr-blog.vercel.app/startup-metaversenft-metaverse-261107/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/commerce-restaurant-restaurant-startup-261023/</guid>
       <pubDate>Fri, 23 Oct 2026 05:45:22 GMT</pubDate>
       <description><![CDATA[창업 준비부터 점포 확장까지 소규모 식당의 모든 것 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[신비롭고 몽환적인 C4D&옥테인 아트워크 Class]]></title>
-      <link>https://coloso-kr-blog.vercel.app/c4doctaneclass-3d-261023/</link>
-      <guid>https://coloso-kr-blog.vercel.app/c4doctaneclass-3d-261023/</guid>
-      <pubDate>Fri, 23 Oct 2026 02:33:42 GMT</pubDate>
-      <description><![CDATA[신비롭고 몽환적인 C4D&옥테인 아트워크 Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
