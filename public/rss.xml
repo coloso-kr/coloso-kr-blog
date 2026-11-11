@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[누적 판매 15만 개 이상, 쿠키 맛집 그레인바운더리의 베스트셀러 18종]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-leeokkyung-cookie-261110/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-leeokkyung-cookie-261110/</guid>
+      <pubDate>Tue, 10 Nov 2026 05:45:16 GMT</pubDate>
+      <description><![CDATA[누적 판매 15만 개 이상, 쿠키 맛집 그레인바운더리의 베스트셀러 18종 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[남다른 디테일로 단가를 올리는 웹소설 표지 드로잉 실무]]></title>
       <link>https://coloso-kr-blog.vercel.app/illustrator-delta2-illustration-261109/</link>
       <guid>https://coloso-kr-blog.vercel.app/illustrator-delta2-illustration-261109/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-sugarlane2-dessert-261025/</guid>
       <pubDate>Sun, 25 Oct 2026 08:37:20 GMT</pubDate>
       <description><![CDATA[간편하게 만들어 판매하는 크리미 꾸덕 디저트 11종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[누구나 예쁘고 맛있게 완성하는 쇼트&롤케이크]]></title>
-      <link>https://coloso-kr-blog.vercel.app/patissier-parkjihyun-baking-261025/</link>
-      <guid>https://coloso-kr-blog.vercel.app/patissier-parkjihyun-baking-261025/</guid>
-      <pubDate>Sun, 25 Oct 2026 05:45:14 GMT</pubDate>
-      <description><![CDATA[누구나 예쁘고 맛있게 완성하는 쇼트&롤케이크 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
