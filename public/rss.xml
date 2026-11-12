@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[디자인 멀티플레이어를 위한 접근법]]></title>
+      <link>https://coloso-kr-blog.vercel.app/graphicdesign-parkyoungha-generalist-261112/</link>
+      <guid>https://coloso-kr-blog.vercel.app/graphicdesign-parkyoungha-generalist-261112/</guid>
+      <pubDate>Thu, 12 Nov 2026 02:32:46 GMT</pubDate>
+      <description><![CDATA[디자인 멀티플레이어를 위한 접근법 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[지속 가능한 카페 창업과 경영을 위한 10가지 핵심 노하우]]></title>
       <link>https://coloso-kr-blog.vercel.app/cafeconsultant-choiyuran-cafe-261111/</link>
       <guid>https://coloso-kr-blog.vercel.app/cafeconsultant-choiyuran-cafe-261111/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/3ddesign-kimsewang-houdini-261027/</guid>
       <pubDate>Tue, 27 Oct 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[최소한의 노드로 구현하는 트렌디한 후디니 FX 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Stage 02: Unreal Engine BP로 배우는 객체 지향 프로그래밍 입문]]></title>
-      <link>https://coloso-kr-blog.vercel.app/gameprogramming-eugenerho2-unrealengine-261026/</link>
-      <guid>https://coloso-kr-blog.vercel.app/gameprogramming-eugenerho2-unrealengine-261026/</guid>
-      <pubDate>Mon, 26 Oct 2026 08:37:19 GMT</pubDate>
-      <description><![CDATA[Stage 02: Unreal Engine BP로 배우는 객체 지향 프로그래밍 입문 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
