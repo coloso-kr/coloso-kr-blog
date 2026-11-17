@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[쉽게 만들어 예쁘게 파는 디저트 레시피]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-leesanghwa-pastry-261117/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-leesanghwa-pastry-261117/</guid>
+      <pubDate>Tue, 17 Nov 2026 02:32:59 GMT</pubDate>
+      <description><![CDATA[쉽게 만들어 예쁘게 파는 디저트 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[남성 고객의 단점을 커버하는 15가지 커트 솔루션]]></title>
       <link>https://coloso-kr-blog.vercel.app/hairdesigner-songsaem-menshair-261116/</link>
       <guid>https://coloso-kr-blog.vercel.app/hairdesigner-songsaem-menshair-261116/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/programming-parkseungkyoo-kotlin-261103/</guid>
       <pubDate>Tue, 03 Nov 2026 02:32:51 GMT</pubDate>
       <description><![CDATA[코틀린과 스프링 부트로 배우는 현대적 백엔드 개발 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[CLO로 3D 패션 디자인 포트폴리오 완성하기]]></title>
-      <link>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</link>
-      <guid>https://coloso-kr-blog.vercel.app/fashiondesigner-leeyunkyung-clo-261102/</guid>
-      <pubDate>Mon, 02 Nov 2026 08:37:17 GMT</pubDate>
-      <description><![CDATA[CLO로 3D 패션 디자인 포트폴리오 완성하기 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
