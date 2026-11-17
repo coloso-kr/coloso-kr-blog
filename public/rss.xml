@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[홀과 배달로 사계절 활용 가능한 27가지 음료 레시피]]></title>
+      <link>https://coloso-kr-blog.vercel.app/patissier-pyeounheakyeoung-drinks-261117/</link>
+      <guid>https://coloso-kr-blog.vercel.app/patissier-pyeounheakyeoung-drinks-261117/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:45:16 GMT</pubDate>
+      <description><![CDATA[홀과 배달로 사계절 활용 가능한 27가지 음료 레시피 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[쉽게 만들어 예쁘게 파는 디저트 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-leesanghwa-pastry-261117/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-leesanghwa-pastry-261117/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/patissier-hanmeelim-sandcookie-261103/</guid>
       <pubDate>Tue, 03 Nov 2026 05:45:14 GMT</pubDate>
       <description><![CDATA[30초 품절 대란, 베이킹바이림의 천연재료 숲샌드 21종 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[코틀린과 스프링 부트로 배우는 현대적 백엔드 개발]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-parkseungkyoo-kotlin-261103/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-parkseungkyoo-kotlin-261103/</guid>
-      <pubDate>Tue, 03 Nov 2026 02:32:51 GMT</pubDate>
-      <description><![CDATA[코틀린과 스프링 부트로 배우는 현대적 백엔드 개발 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
