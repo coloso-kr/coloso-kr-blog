@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[시선을 사로잡는 장면 속 매력적인 캐릭터 디자인]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-kaz-characterdesign-261123/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-kaz-characterdesign-261123/</guid>
+      <pubDate>Mon, 23 Nov 2026 02:32:49 GMT</pubDate>
+      <description><![CDATA[시선을 사로잡는 장면 속 매력적인 캐릭터 디자인 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[케이트앤케이크의 냉동생지&만능크림과 시그니처 구움과자 레시피]]></title>
       <link>https://coloso-kr-blog.vercel.app/patissier-shinsungsuk-baking-261121/</link>
       <guid>https://coloso-kr-blog.vercel.app/patissier-shinsungsuk-baking-261121/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/startup-metaversenft-metaverse-261107/</guid>
       <pubDate>Sat, 07 Nov 2026 05:45:38 GMT</pubDate>
       <description><![CDATA[메타버스&NFT 전문가가 공유하는 창업 및 취업 실전 가이드 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[개발자가 모르면 안 되는 실무 특화 CS 전공수업]]></title>
-      <link>https://coloso-kr-blog.vercel.app/programming-technotealec-cs-261107/</link>
-      <guid>https://coloso-kr-blog.vercel.app/programming-technotealec-cs-261107/</guid>
-      <pubDate>Sat, 07 Nov 2026 02:32:50 GMT</pubDate>
-      <description><![CDATA[개발자가 모르면 안 되는 실무 특화 CS 전공수업 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
