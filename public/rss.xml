@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[캐릭터의 스토리가 드러나는 인물화]]></title>
+      <link>https://coloso-kr-blog.vercel.app/illustrator-parkpyeongjun-illustration-261124/</link>
+      <guid>https://coloso-kr-blog.vercel.app/illustrator-parkpyeongjun-illustration-261124/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:45:17 GMT</pubDate>
+      <description><![CDATA[캐릭터의 스토리가 드러나는 인물화 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[현대풍 디오라마 하나로 정복하는 배경 포폴 집중반]]></title>
       <link>https://coloso-kr-blog.vercel.app/gamegraphic-ohmanji-game-261124/</link>
       <guid>https://coloso-kr-blog.vercel.app/gamegraphic-ohmanji-game-261124/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-kr-blog.vercel.app/conceptartist-inkyunglee-blender-261108/</guid>
       <pubDate>Sun, 08 Nov 2026 08:37:40 GMT</pubDate>
       <description><![CDATA[블렌더를 활용한 효율적인 3D 일러스트 제작법 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[버튜버부터 웹소설 표지까지, 서브컬처풍 캐릭터 디자인 올인원]]></title>
-      <link>https://coloso-kr-blog.vercel.app/illustrator-oohhaya3-character-261108/</link>
-      <guid>https://coloso-kr-blog.vercel.app/illustrator-oohhaya3-character-261108/</guid>
-      <pubDate>Sun, 08 Nov 2026 05:45:34 GMT</pubDate>
-      <description><![CDATA[버튜버부터 웹소설 표지까지, 서브컬처풍 캐릭터 디자인 올인원 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
